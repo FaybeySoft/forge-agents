@@ -195,7 +195,10 @@
     "El trabajo coordinado entre roles diferentes (funcional, UX, SEO) es clave para decisiones integradas.",
     "Documentar decisiones y criterios evita retrabajo y facilita futuras migraciones o mejoras.",
     "Las tareas simples con instrucciones claras son rápidas y seguras de implementar.",
-    "Es importante verificar si la tarea afecta otros archivos o el layout del README para evitar cambios no deseados."
+    "Es importante verificar si la tarea afecta otros archivos o el layout del README para evitar cambios no deseados.",
+    "La comunicación temprana y clara reduce retrabajo.",
+    "Es fundamental definir las prioridades en el orden correcto (auditoría, criterios, UX).",
+    "Los artefactos deben ser claros y ubicados en carpetas ya existentes para facilitar la revisión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -205,5 +208,5 @@
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos.",
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios."
   ],
-  "lastUpdated": "2026-05-10T18:18:58.024Z"
+  "lastUpdated": "2026-05-10T18:19:12.761Z"
 }
