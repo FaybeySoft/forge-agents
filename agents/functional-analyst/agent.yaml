@@ -9,6 +9,10 @@ skills:
     priority: critical
   - source: local/forge-deliverables-format
     priority: high
+tools:
+  - web_search
+  - search_memory
+  - read_repo_file
 wake_triggers:
   - type: inbox
     cron: "0 * * * 1-5"
