@@ -178,7 +178,10 @@
     "Incluir a un especialista en backend es crucial para la integración técnica, pero se puede avanzar con un MVP en su defecto.",
     "Definir claramente los requisitos mínimos ayuda a mantener la implementación sencilla y efectiva.",
     "La colaboración rápida y enfocada facilita el cierre de issues sin duda.",
-    "Mantener un enfoque minimalista en componentes recurrentes previene una UI sobrecargada."
+    "Mantener un enfoque minimalista en componentes recurrentes previene una UI sobrecargada.",
+    "Definir requisitos específicos y convicciones claras agiliza el proceso.",
+    "El trabajo coordinado entre roles diferentes (funcional, UX, SEO) es clave para decisiones integradas.",
+    "Documentar decisiones y criterios evita retrabajo y facilita futuras migraciones o mejoras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos."
@@ -186,5 +189,5 @@
   "areasToImprove": [
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos."
   ],
-  "lastUpdated": "2026-05-10T14:54:46.498Z"
+  "lastUpdated": "2026-05-10T14:55:02.629Z"
 }
