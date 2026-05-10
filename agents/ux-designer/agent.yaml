@@ -9,3 +9,7 @@ skills:
     priority: critical
   - source: local/forge-deliverables-format
     priority: high
+tools:
+  - web_search
+  - search_memory
+  - read_repo_file
