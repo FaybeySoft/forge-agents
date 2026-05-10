@@ -169,7 +169,10 @@
     "La contratación de un especialista en backend es crucial para definir bien la arquitectura técnica, pero se puede avanzar con un MVP en su ausencia.",
     "Definir los requisitos funcionales fue sencillo gracias al análisis claro de Amy.",
     "El diseño UX de Lily demostró ser fundamental para crear una interacción más amigable y natural.",
-    "Incluir a un especialista en backend es crucial para la integración técnica, pero se puede avanzar con un MVP en su defecto."
+    "Incluir a un especialista en backend es crucial para la integración técnica, pero se puede avanzar con un MVP en su defecto.",
+    "Definir claramente los requisitos mínimos ayuda a mantener la implementación sencilla y efectiva.",
+    "La colaboración rápida y enfocada facilita el cierre de issues sin duda.",
+    "Mantener un enfoque minimalista en componentes recurrentes previene una UI sobrecargada."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos."
@@ -177,5 +180,5 @@
   "areasToImprove": [
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos."
   ],
-  "lastUpdated": "2026-05-10T14:34:14.192Z"
+  "lastUpdated": "2026-05-10T14:34:15.447Z"
 }
