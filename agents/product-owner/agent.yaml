@@ -9,6 +9,9 @@ skills:
     priority: critical
   - source: local/forge-deliverables-format
     priority: high
+tools:
+  - search_memory
+  - read_repo_file
 wake_triggers:
   - type: daily_standup
     cron: "0 9 * * 1-5"
