@@ -7,3 +7,12 @@ promptFile: agents/seo-expert/prompt.md
 skills:
   - source: local/forge-deliverables-format
     priority: high
+tools:
+  - pagespeed_audit
+  - fetch_meta_tags
+  - read_repo_file
+wake_triggers:
+  - type: scheduled
+    cron: "13 10 * * 1"
+    task: weekly_seo_audit
+    description: "Mondays 10:13 UTC: run a deep SEO audit (PageSpeed + meta + schema.org) on the highest-priority managed site and post recommendations to standups."
