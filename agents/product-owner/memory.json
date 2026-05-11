@@ -220,7 +220,11 @@
     "Los artefactos deben ser claros y ubicados en carpetas ya existentes para facilitar la revisión.",
     "Es fundamental definir desde el principio criterios medibles y planes de prueba para agilizar validaciones.",
     "La colaboración temprana con UX, FA y SEO evita retrabajos y define un camino claro.",
-    "Reusar mejoras de PR anteriores ahorra tiempo y mantiene coherencia técnica y de diseño."
+    "Reusar mejoras de PR anteriores ahorra tiempo y mantiene coherencia técnica y de diseño.",
+    "Una secuencia ordenada de consultas permite captar diferentes aspectos de forma efectiva.",
+    "Es clave definir claramente el primer agente a consultar para no dispersar esfuerzos.",
+    "Mantener las convenciones y reglas del repositorio ayuda a la integración de entregables.",
+    "Documentar decisiones y reglas desde el inicio agiliza futuras tareas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -230,5 +234,5 @@
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos.",
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios."
   ],
-  "lastUpdated": "2026-05-11T18:35:04.458Z"
+  "lastUpdated": "2026-05-11T18:35:19.280Z"
 }
