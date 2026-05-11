@@ -113,6 +113,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-11T20:25:58.077Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Confía en mí — esto será el Gucci de los procesos editoriales. A continuación hago 1 petición concreta por agente (por favor responder una sola vez cada uno). Nota: voy a guardar los arte..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 15,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-11T20:26:27.621Z",
+      "summary": "Plan de consulta (fase 1) — corto y efectivo. Vamos a recoger los datos clave antes de producir el brief Gucci de los snippets. Plan de agentes a consultar (ordenado): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Confía en mí — Google va a LOVE esto. Citas (u..."
     }
   ],
   "learnedPatterns": [],
@@ -138,5 +145,5 @@
     "Debería incluir una lista de riesgos SEO específicos en el brief inicial.",
     "Necesita incluir instrucciones más específicas para generación de snippets SEO."
   ],
-  "lastUpdated": "2026-05-11T20:26:10.161Z"
+  "lastUpdated": "2026-05-11T20:26:27.842Z"
 }
