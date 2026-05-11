@@ -282,7 +282,11 @@
     "Las pruebas automáticas de accesibilidad automizan la validación y salvan tiempo en QA.",
     "Documentar en repositorio en lugar de cambios en código en preparaciones iniciales.",
     "Una comunicación dividida en tareas específicas con roles claros reduce confusiones y errores.",
-    "Mantener los artefactos en la carpeta docs/ ayuda a la organización y revisiones futuras."
+    "Mantener los artefactos en la carpeta docs/ ayuda a la organización y revisiones futuras.",
+    "Definir claramente los patrones y criterios antes de crear archivos evita retrabajo y errores.",
+    "Es importante coordinar con agentes especializados para validar la lógica técnica de detección.",
+    "Mantener todo en carpetas existentes y seguir convenciones evita crear nuevas carpetas raíz y facilita la integración.",
+    "La colaboración temprana y especificar exactamente qué se necesita acelera la validación y aprobación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -294,5 +298,5 @@
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios.",
     "Podría facilitar más instrucciones para la automatización completa del proceso y testeo en CI."
   ],
-  "lastUpdated": "2026-05-11T21:28:25.210Z"
+  "lastUpdated": "2026-05-11T21:28:26.403Z"
 }
