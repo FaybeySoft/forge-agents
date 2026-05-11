@@ -1,1 +1,17 @@
-{"agentSlug":"code-critic","experience":[],"learnedPatterns":[],"strengths":[],"areasToImprove":[],"preferences":{}}
+{
+  "agentSlug": "code-critic",
+  "experience": [
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 20,
+      "outcome": "ready",
+      "timestamp": "2026-05-11T21:28:08.348Z",
+      "summary": "1) Definición operacional de “tests” y globs recomendados - Globs exactos (usa estos en CI para detectar tests válidos): - app/test/** - **/__tests__/** - **/*.test.{js,ts,jsx,tsx,mjs,cjs} - **/*.spec.{js,ts,jsx,tsx,mjs,cjs} Razonamiento: capturamos ..."
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "preferences": {},
+  "lastUpdated": "2026-05-11T21:28:08.517Z"
+}
