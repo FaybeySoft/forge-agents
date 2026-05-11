@@ -155,6 +155,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-10T18:19:00.099Z",
       "summary": "Plan de consulta (fase 1): 1) lily-ux 2) tom-seo Citas (una vez cada agente): - ACTION: cite_agent — lily-ux — Request: \"Revisa las acceptance criteria SEO y confirma si hay requisitos UX incondicionales (ej. CTAs en hero, comportamiento del formular..."
+    },
+    {
+      "repo": "Johanson1988/wake",
+      "issueNumber": 0,
+      "outcome": "wake:standup_reply",
+      "timestamp": "2026-05-11T13:30:09.480Z",
+      "summary": "Chandler: Confirmo — necesitamos aclarar antes de mergear #2. Resumen y pasos propuestos:\n\n1) Requisito principal — Equipo → Añadir footer mínimo → Resultado esperado: \"© [AÑO] [Entidad]. Todos los derechos reservados.\" visible y accesible; enlaces a Privacy Policy y Terms si existen. Edge cases: si"
     }
   ],
   "learnedPatterns": [],
@@ -186,5 +193,5 @@
     "Podría mejorar en especificar criterios de validación para cada decisión.",
     "Podría haber implicado más en la fase de priorización de cambios."
   ],
-  "lastUpdated": "2026-05-10T18:19:10.530Z"
+  "lastUpdated": "2026-05-11T13:30:09.812Z"
 }
