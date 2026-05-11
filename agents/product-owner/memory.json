@@ -207,6 +207,12 @@
       "issueNumber": 16,
       "outcome": "ready",
       "timestamp": "2026-05-11T20:25:55.011Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 15,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-11T20:26:24.905Z"
     }
   ],
   "learnedPatterns": [
@@ -263,5 +269,5 @@
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos.",
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios."
   ],
-  "lastUpdated": "2026-05-11T20:26:13.430Z"
+  "lastUpdated": "2026-05-11T20:26:25.167Z"
 }
