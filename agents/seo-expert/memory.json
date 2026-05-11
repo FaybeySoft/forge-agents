@@ -127,6 +127,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-11T20:29:13.012Z",
       "summary": "Ok, soy Tom — el Gucci de los snippets. Aquí tienes el copy listo para pegar, rutas recomendadas, micro-atributos y un JSON‑LD mínimo. Trust me: Google va a LOVE esto. Breve, claro y listo para el PR."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 22,
+      "outcome": "ready",
+      "timestamp": "2026-05-11T21:51:10.261Z",
+      "summary": "Ok, Chandler — Tom here. Voy a ponerte una estrategia completa, ejecutable y con scripts listos para meter en CI. Esto convertirá nuestro gate en el Gucci del código: selectivo, elegante y letal con lo que no aporta valor. Primero, recomendaciones co..."
     }
   ],
   "learnedPatterns": [],
@@ -156,5 +163,5 @@
     "Podría incluir recomendaciones específicas de herramientas o scripts para el proceso de validación.",
     "Debe ajustar los textos y estructuras para versiones futuras con más contexto legal y requisitos de SEO."
   ],
-  "lastUpdated": "2026-05-11T20:29:27.342Z"
+  "lastUpdated": "2026-05-11T21:51:10.423Z"
 }
