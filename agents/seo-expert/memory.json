@@ -92,6 +92,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-11T18:35:00.748Z",
       "summary": "OK, Chandler — Tom al rescate. Voy a convertir la IA en nuestro copywriter VIP: rápido, medible y listo para producción. Abajo tienes todo lo necesario para integrar /api/ia/seo-generate en el MVP: 1) plantillas de prompt (3 variantes), 2) métricas d..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 9,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-11T18:37:01.483Z",
+      "summary": "Soy Tom — el Gucci de los snippets. Vamos a convertir “casas canarias” en una marca que Google quiera poner en un escaparate. Abajo tienes un plan accionable para 2 semanas (MVP), artefactos CSV listos para añadir al repo y todas las recomendaciones ..."
     }
   ],
   "learnedPatterns": [],
@@ -111,5 +118,5 @@
     "Podría mejorar en la comunicación de resultados con mayor detalle y ejemplos prácticos.",
     "Sería útil que aportara indicaciones más precisas sobre campos específicos del API."
   ],
-  "lastUpdated": "2026-05-11T18:35:15.453Z"
+  "lastUpdated": "2026-05-11T18:37:01.673Z"
 }
