@@ -270,7 +270,12 @@
     "Es fundamental definir y documentar los criterios de aceptación y checklist desde el inicio.",
     "La consulta estructurada en fases permite captar diferentes aspectos (funcional, SEO, UX) de forma efectiva.",
     "Contratar agentes especializados para tareas específicas acelera el proceso y mejora la calidad del entregable.",
-    "Mantener convenciones y reglas claras en los artefactos facilita su integración y revisión."
+    "Mantener convenciones y reglas claras en los artefactos facilita su integración y revisión.",
+    "El análisis funcional exhaustivo evita retrabajos y clarifica requisitos desde el inicio.",
+    "Las pruebas automáticas de accesibilidad automizan la validación y salvan tiempo en QA.",
+    "Documentar en repositorio en lugar de cambios en código en preparaciones iniciales.",
+    "Una comunicación dividida en tareas específicas con roles claros reduce confusiones y errores.",
+    "Mantener los artefactos en la carpeta docs/ ayuda a la organización y revisiones futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -280,5 +285,5 @@
     "Podría mejorar en la preparación de briefs más específicos para evitar malentendidos.",
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios."
   ],
-  "lastUpdated": "2026-05-11T20:29:08.982Z"
+  "lastUpdated": "2026-05-11T20:29:28.944Z"
 }
