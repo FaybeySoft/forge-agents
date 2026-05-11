@@ -93,14 +93,16 @@
     "Análisis SEO sensato sin comprometer rendimiento ni accesibilidad",
     "Nos dio recomendaciones completas para la optimización SEO de la nueva pantalla, asegurando buena indexación y rendimiento.",
     "Definió decisiones concretas para SEO, schema, hreflang y canonical.",
-    "Proporcionó un plan claro y entregó la auditoría técnica inicial en tiempo."
+    "Proporcionó un plan claro y entregó la auditoría técnica inicial en tiempo.",
+    "Proporcionó un plan claro y entregó datos básicos de Lighthouse y perf budget en tiempo."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
     "Ofrecer ejemplos específicos de cómo aplicar recomendaciones en código",
     "Sugiero mejorar en la comunicación sobre el rendimiento SEO en contextos futuros.",
     "Hacer mockups con el esquema SEO para facilitar revisión visual.",
-    "Podría mejorar en la comunicación de resultados con mayor detalle y ejemplos prácticos."
+    "Podría mejorar en la comunicación de resultados con mayor detalle y ejemplos prácticos.",
+    "Podría mejorar el plan de mitigaciones priorizadas para reducir aún más el LCP en menos tiempo."
   ],
-  "lastUpdated": "2026-05-11T18:34:53.789Z"
+  "lastUpdated": "2026-05-11T18:35:03.140Z"
 }
