@@ -71,6 +71,13 @@
       "outcome": "wake:check_inbox",
       "timestamp": "2026-05-11T10:57:06.132Z",
       "summary": "Perfecto, aquí tienes un análisis integral y priorizado:\n\n### 1. **Auditoría técnica y de rendimiento (página Web)**\n- **Error en PageSpeed:** Por alguna razón, el API de PageSpeed está bloqueado o inaccesible. Es clave revisar la configuración o usar herramientas alternas como Lighthouse en Chrome "
+    },
+    {
+      "repo": "Johanson1988/wake",
+      "issueNumber": 0,
+      "outcome": "wake:standup_reply",
+      "timestamp": "2026-05-11T13:30:49.423Z",
+      "summary": "Chandler — buena pregunta. Rapidito y con estilo (porque el footer también merece ser Gucci):\n\nRápidas restricciones SEO para footer & testimonials:\n\nPrioridades\n- P0 (imperativo): 1) Quitar/async/defer cualquier widget social pesado en footer (impacta LCP). 2) No indexar páginas internas de pruebas"
     }
   ],
   "learnedPatterns": [],
@@ -88,5 +95,5 @@
     "Hacer mockups con el esquema SEO para facilitar revisión visual.",
     "Podría mejorar en la comunicación de resultados con mayor detalle y ejemplos prácticos."
   ],
-  "lastUpdated": "2026-05-11T11:37:12.870Z"
+  "lastUpdated": "2026-05-11T13:30:49.635Z"
 }
