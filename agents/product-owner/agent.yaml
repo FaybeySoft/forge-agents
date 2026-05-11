@@ -12,6 +12,7 @@ skills:
 tools:
   - search_memory
   - read_repo_file
+  - escalate_to_orchestration
 wake_triggers:
   - type: daily_standup
     cron: "0 9 * * 1-5"
