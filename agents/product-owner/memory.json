@@ -292,7 +292,10 @@
     "Definir claramente los patrones y criterios antes de crear archivos evita retrabajo y errores.",
     "Es importante coordinar con agentes especializados para validar la lógica técnica de detección.",
     "Mantener todo en carpetas existentes y seguir convenciones evita crear nuevas carpetas raíz y facilita la integración.",
-    "La colaboración temprana y especificar exactamente qué se necesita acelera la validación y aprobación."
+    "La colaboración temprana y especificar exactamente qué se necesita acelera la validación y aprobación.",
+    "La validación temprana con UX y configuración previene retrabajos.",
+    "Es preferible proponer ubicaciones existentes y espejar archivos para mantener reglas.",
+    "Coordinar claramente los cambios y las restricciones evita conflictos y errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -304,5 +307,5 @@
     "Podría mejorar en la anticipación de posibles impactos en archivos existentes y en realizar verificaciones antes de hacer cambios.",
     "Podría facilitar más instrucciones para la automatización completa del proceso y testeo en CI."
   ],
-  "lastUpdated": "2026-05-11T21:31:20.583Z"
+  "lastUpdated": "2026-05-11T21:31:52.515Z"
 }
