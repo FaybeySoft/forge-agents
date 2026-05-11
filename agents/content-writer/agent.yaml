@@ -1,0 +1,14 @@
+slug: content-writer
+name: "Leslie Knope"
+role: content-writer
+description: "Writes SEO-friendly blog posts, landing copy, microcopy and brand content. Researches with web_search, follows the editorial calendar, produces ready-to-commit markdown with proper frontmatter."
+personality: parks-leslie
+promptFile: agents/content-writer/prompt.md
+skills:
+  - source: local/forge-deliverables-format
+    priority: high
+tools:
+  - web_search
+  - fetch_meta_tags
+  - read_repo_file
+  - search_memory
