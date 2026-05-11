@@ -301,7 +301,12 @@
     "La colaboración temprana y especificar exactamente qué se necesita acelera la validación y aprobación.",
     "La validación temprana con UX y configuración previene retrabajos.",
     "Es preferible proponer ubicaciones existentes y espejar archivos para mantener reglas.",
-    "Coordinar claramente los cambios y las restricciones evita conflictos y errores."
+    "Coordinar claramente los cambios y las restricciones evita conflictos y errores.",
+    "La comunicación clara y la asignación específica en cada paso agiliza el proceso de integración.",
+    "Es fundamental validar en detalles las rutas y estructuras antes de hacer cambios, especialmente en archivos críticos como index.html.",
+    "Mantener la estructura existente y usar placeholders simplifica el proceso y reduce riesgos.",
+    "La colaboración entre analistas, diseño y crítica técnica optimiza los resultados.",
+    "Crear tests específicos desde el inicio asegura que los cambios se puedan validar automáticamente y detectar errores rápidamente."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -315,5 +320,5 @@
     "Podría facilitar más instrucciones para la automatización completa del proceso y testeo en CI.",
     "Podría mejorar en la anticipación de posibles conflictos con otros cambios en src/index.html."
   ],
-  "lastUpdated": "2026-05-11T21:40:09.953Z"
+  "lastUpdated": "2026-05-11T21:40:15.919Z"
 }
