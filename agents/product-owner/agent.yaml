@@ -13,6 +13,10 @@ tools:
   - search_memory
   - read_repo_file
   - escalate_to_orchestration
+  - create_mission
+  - update_mission_status
+  - link_issue_to_mission
+  - list_missions
 wake_triggers:
   - type: daily_standup
     cron: "0 9 * * 1-5"
