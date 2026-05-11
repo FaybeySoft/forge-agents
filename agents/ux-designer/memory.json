@@ -120,6 +120,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-11T18:34:52.360Z",
       "summary": "Ponte en la piel del usuario: estás en móvil con red intermitente y quieres ver rápido si la casa merece la espera. Aquí tienes decisiones concretas y listas para implementar — mobile-first, pocas florituras, menos LCP y sensación de rapidez. Resumen..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 11,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-11T18:35:05.634Z",
+      "summary": "Plan: [\"amy\",\"tom\"] Action plan de consulta (cite_agent): - action=\"cite_agent\" to amy: Por favor confirma los criterios funcionales y métricas que Amy espera validar para la captura de leads (¿email mínimo OK? ¿consentimientos necesarios adicionales..."
     }
   ],
   "learnedPatterns": [],
@@ -148,5 +155,5 @@
     "Necesita entregar entregables más estructurados y en línea con el plan de priorización.",
     "Podría anticipar más escenarios de uso y ajustar los placeholders en función de contextos diferentes."
   ],
-  "lastUpdated": "2026-05-11T18:35:01.862Z"
+  "lastUpdated": "2026-05-11T18:35:05.810Z"
 }
