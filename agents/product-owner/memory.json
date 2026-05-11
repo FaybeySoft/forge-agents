@@ -312,7 +312,13 @@
     "Es fundamental validar en detalles las rutas y estructuras antes de hacer cambios, especialmente en archivos críticos como index.html.",
     "Mantener la estructura existente y usar placeholders simplifica el proceso y reduce riesgos.",
     "La colaboración entre analistas, diseño y crítica técnica optimiza los resultados.",
-    "Crear tests específicos desde el inicio asegura que los cambios se puedan validar automáticamente y detectar errores rápidamente."
+    "Crear tests específicos desde el inicio asegura que los cambios se puedan validar automáticamente y detectar errores rápidamente.",
+    "Definir reglas y criterios claros desde el inicio evita retrabajos.",
+    "La coordinación temprana y específica entre agentes especializados acelera decisiones y acciones.",
+    "Mantener una estructura en scripts y documentación en carpetas existentes facilita la integración y revisión.",
+    "Las verificaciones automáticas en CI deben ser precisas y ajustadas a las necesidades del proyecto.",
+    "Extender scripts existentes y documentar pasos ayuda a automatizar revisiones y asegurar cumplimiento de requisitos.",
+    "La comunicación clara y las checklists hacen el proceso más eficiente y predecible."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -326,5 +332,5 @@
     "Podría facilitar más instrucciones para la automatización completa del proceso y testeo en CI.",
     "Podría mejorar en la anticipación de posibles conflictos con otros cambios en src/index.html."
   ],
-  "lastUpdated": "2026-05-11T21:51:06.558Z"
+  "lastUpdated": "2026-05-11T21:51:30.545Z"
 }
