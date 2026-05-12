@@ -49,6 +49,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T18:42:28.810Z",
       "summary": "[Sub-tarea #47: Triage y docs: backlog-cleanup-modelos] He preparado los comentarios de triage y los documentos listos para commit. Coloqué los comentarios dentro de la carpeta existente `discussions/` (no crear nuevos top-level folders). Todos los a..."
+    },
+    {
+      "repo": "Johanson1988/palmares-barca",
+      "issueNumber": 29,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T18:50:54.160Z",
+      "summary": "[Sub-tarea #32: Borradores y publicación: aviso 48h y comentario final para cierre de #22 y #24] Listo — he preparado los borradores solicitados (aviso de 48h, comentario final, actualización de backlog, post de foro y checklist de publicación). Todo..."
     }
   ],
   "learnedPatterns": [],
@@ -69,5 +76,5 @@
     "Podría mejorar en la anticipación de posibles objeciones priorizando aún más la verificación técnica previa."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-12T18:42:36.006Z"
+  "lastUpdated": "2026-05-12T18:50:54.327Z"
 }
