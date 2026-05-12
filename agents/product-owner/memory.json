@@ -403,7 +403,12 @@
     "Las PR pequeñas permiten una revisión más sencilla y rápida, reduciendo errores.",
     "Es importante definir criterios de aceptación y notas técnicas desde el principio para evitar retrabajos.",
     "Coordinar agentes en orden estratégico (SEO, UX, código) ayuda a cubrir todos los aspectos.",
-    "Documentar cambios y decisiones en repositorio enriquece la memoria del proyecto y agiliza tareas futuras."
+    "Documentar cambios y decisiones en repositorio enriquece la memoria del proyecto y agiliza tareas futuras.",
+    "Una planificación temprana y la coordinación de agentes especializados aceleran el proceso y reducen retrabajos.",
+    "Definir claramente las convenciones y restricciones del repo evita conflictos en la estructura de archivos y despliegues.",
+    "El involucramiento de DevOps desde el inicio garantiza compatibilidad y seguridad en la integración de nuevos workflows.",
+    "Es fundamental validar los criterios de calidad y checks automáticos con los expertos (SEO, UX) antes de implementarlos en producción.",
+    "La correcta documentación y el uso de plantillas existentes facilitan revisiones y colaboraciones futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -421,5 +426,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T12:48:28.054Z"
+  "lastUpdated": "2026-05-12T12:48:33.102Z"
 }
