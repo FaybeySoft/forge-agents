@@ -456,7 +456,10 @@
     "Revisar y adaptar los tests existentes es más eficiente que crear nuevos archivos.",
     "Resolver variables CSS recursivamente es crucial para obtener valores precisos en tests.",
     "Automatizar la validación de contrast ratios en CI protege la accesibilidad sin intervenciones manuales.",
-    "La coordinación temprana con el equipo técnico simplifica la incorporación de cambios mínimos."
+    "La coordinación temprana con el equipo técnico simplifica la incorporación de cambios mínimos.",
+    "La revisión de referencias y justificaciones clara evita confusiones en cierres de issues.",
+    "La coordinación en la documentación previa garantiza cierres sin retrabajos.",
+    "Mantener los criterios de no modificar issues críticos con constraints ayuda a reducir errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -484,5 +487,5 @@
     "Podría reforzar la comunicación en fases previas para evitar ambiguidades en alcance.",
     "Podría ajustar el timing para validar los documentos antes del cierre final."
   ],
-  "lastUpdated": "2026-05-12T18:38:48.227Z"
+  "lastUpdated": "2026-05-12T18:38:49.997Z"
 }
