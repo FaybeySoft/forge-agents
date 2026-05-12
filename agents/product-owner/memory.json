@@ -398,7 +398,12 @@
     "La planificación desde el inicio, con análisis funcional claro, reduce retrabajos.",
     "Mantener los scripts y validaciones en carpetas existentes evita conflictos y facilita integrations.",
     "Es fundamental definir thresholds claros para tamaño y calidad de imágenes en etapas tempranas.",
-    "Documentar y seguir las convenciones existentes ayuda a mantener coherencia y facilitar revisión."
+    "Documentar y seguir las convenciones existentes ayuda a mantener coherencia y facilitar revisión.",
+    "Mantener una planificación en fases con consultas claras facilita la revisión y una mejor integración del trabajo.",
+    "Las PR pequeñas permiten una revisión más sencilla y rápida, reduciendo errores.",
+    "Es importante definir criterios de aceptación y notas técnicas desde el principio para evitar retrabajos.",
+    "Coordinar agentes en orden estratégico (SEO, UX, código) ayuda a cubrir todos los aspectos.",
+    "Documentar cambios y decisiones en repositorio enriquece la memoria del proyecto y agiliza tareas futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -416,5 +421,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T12:47:59.078Z"
+  "lastUpdated": "2026-05-12T12:48:28.054Z"
 }
