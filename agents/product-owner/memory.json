@@ -552,7 +552,12 @@
     "Es eficiente definir las reglas y documentación antes de implementar el código.",
     "Incluir tests negativos y positivos desde el inicio facilita detectar errores tempranos.",
     "Actualizar scripts CI y documentación en un mismo ciclo ahorra retrabajo y mejora coherencia.",
-    "Revisar con tiempo las políticas de whitelists y estructuras antes de la implementación."
+    "Revisar con tiempo las políticas de whitelists y estructuras antes de la implementación.",
+    "La coordinación temprana con FA, SEO, y UX reduce retrabajos y mejora la calidad.",
+    "Definir claramente los criterios de validación (URLs absolutas) desde inicio ahorra errores.",
+    "Crear helpers y utilidades de forma determinista permite reutilización y consistencia.",
+    "Los tests unitarios y de integración son esenciales para verificar que no se vuelvan URLs relativas en el output.",
+    "Una escucha activa y coordinación en fases secuenciales agiliza el proceso de normalización y validación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -584,5 +589,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T19:14:48.592Z"
+  "lastUpdated": "2026-05-12T19:15:13.224Z"
 }
