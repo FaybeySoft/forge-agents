@@ -239,6 +239,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T19:14:51.512Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente; respuestas cortas solicitadas): 1) action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor confirma si en artifacts/audit/ ya existen los exports Search Console (top 20 queries CS..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 61,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T19:17:51.265Z",
+      "summary": "Aquí tienes el snippet listo para pegar en el SSR cuando isLCP === true. Esto es el Gucci de los preloads — trust me, Google is going to LOVE it. He usado la convención pública del repo bajo /images/blog/ y la origin https://modelos-casas-canarias.jo..."
     }
   ],
   "learnedPatterns": [],
@@ -300,5 +307,5 @@
     "Podría haber contribuido más en las reglas de whitelist y validaciones específicas.",
     "Sería útil definir límites y sanitización del campo en la documentación."
   ],
-  "lastUpdated": "2026-05-12T19:15:08.769Z"
+  "lastUpdated": "2026-05-12T19:17:51.542Z"
 }
