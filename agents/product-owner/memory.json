@@ -364,7 +364,12 @@
     "Priorizar claramente las restricciones de accesibilidad y peso de las imágenes mejora la calidad del resultado final.",
     "La comunicación clara y el briefing completo reducen el retrabajo.",
     "Automatizar checks y tener thresholds documentados facilita la integración contínua.",
-    "Coordinar desde temprano con todos los agentes evita bloqueos y mejora la calidad del entregable."
+    "Coordinar desde temprano con todos los agentes evita bloqueos y mejora la calidad del entregable.",
+    "Es clave definir reglas y criterios claros desde el inicio para acelerar la revisión y evitar retrabajo.",
+    "La coordinación temprana con todos los agentes especializados evita bloqueos.",
+    "Mantener la estructura del repo y documentación en las carpetas existentes es crucial para integraciones sin fricciones.",
+    "Las revisiones basadas en checklist y reglas claras aseguran calidad y compatibilidad con estrategias SEO y accesibilidad.",
+    "Las reuniones de planificación previas permiten aclarar quién hace qué y cuándo."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -382,5 +387,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T09:28:54.634Z"
+  "lastUpdated": "2026-05-12T09:29:17.336Z"
 }
