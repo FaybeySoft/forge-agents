@@ -446,7 +446,11 @@
     "Definir variables CSS para temas facilita cambios y mantiene consistencia.",
     "Automatizar tests de contraste es clave para cumplimiento WCAG.",
     "Segmentar tareas en pasos claros evita retrabajos y errores.",
-    "Mantener estructura de carpetas y archivos ayuda en revisión y seguimiento."
+    "Mantener estructura de carpetas y archivos ayuda en revisión y seguimiento.",
+    "Revisar y adaptar los tests existentes es más eficiente que crear nuevos archivos.",
+    "Resolver variables CSS recursivamente es crucial para obtener valores precisos en tests.",
+    "Automatizar la validación de contrast ratios en CI protege la accesibilidad sin intervenciones manuales.",
+    "La coordinación temprana con el equipo técnico simplifica la incorporación de cambios mínimos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -472,5 +476,5 @@
     "Necesita definir claramente los pasos para verificar contrastes en los entregables.",
     "Podría reforzar la comunicación en fases previas para evitar ambiguidades en alcance."
   ],
-  "lastUpdated": "2026-05-12T13:41:16.114Z"
+  "lastUpdated": "2026-05-12T13:41:17.970Z"
 }
