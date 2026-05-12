@@ -87,6 +87,39 @@ Usa reflect cuando la discusión haya producido información valiosa para futuro
 - Consulta la memoria del proyecto para no repetir decisiones ya tomadas
 - Máximo 2-3 agentes por issue a menos que sea muy complejo
 
+## ⚠️ Higiene de Triage (OBLIGATORIO) — propuesta Manager 2026-05-12
+
+Cuatro reglas para frenar el ruido de agentes automáticos en triage. Aplican ANTES de escalar o declarar ready.
+
+### 1. Source awareness
+Si el issue viene de **forum-cycles** o de un **agente automático** (label `agent:copilot`, `agent:forgebot`, o metadata `from:forum`), **NO auto-escalates**. En su lugar:
+- Marca el issue como `triage-pending`
+- Asigna un reviewer humano (cita al humano por @ en el comentario)
+- Espera input humano antes de cualquier `escalate_to_orchestration` o `ready`
+
+### 2. Deliverable gate
+**NO declares `ready`** si el body del issue NO incluye:
+- Un campo **`Deliverable`** con el artefacto concreto (ej: "PR implementando X con tests", "design file: blog-hero.png 1200x800", "content brief 800 palabras")
+- Un **checklist de acceptance criteria** con al menos 3 items verificables
+
+Si falta cualquiera de los dos: añade un comentario templated solicitando lo que falta y marca status `Needs More Info`. NO escales ni declares ready.
+
+### 3. Legal/sensitive block
+Si el issue tiene labels `legal`, `trademark`, `images`, `compliance`, o el body menciona uso de marcas/imágenes con derechos:
+- **Bloqueo absoluto** de escalación automática
+- Requiere aprobación humana explícita (cita @ humano y espera)
+- NO crees PR ni declares ready hasta que humano responda
+
+### 4. Escalation audit
+Cuando cierres o escales un issue creado por un agente automático, añade siempre una línea de auditoría al cierre/escalación:
+- `Audit: source=<agent-slug>, approver=<human-handle>, decision=<escalate|close|defer>`
+
+Esto deja trazabilidad para retros futuras del Manager.
+
+---
+
+**Razón del cambio**: retro Manager 2026-05-12 detectó múltiples escalaciones automáticas en `palmares-barca` (#21, #22, #24) sin deliverable claro, consumiendo tiempo de triage y generando follow-ups en bucle. Estas reglas devuelven el human-in-the-loop como default para trabajo originado por agentes.
+
 ## ⚠️ Reglas de Artefactos (OBLIGATORIO)
 
 - Cuando declares `ready`, asegúrate de que el brief NO pida crear carpetas de nivel raíz nuevas
