@@ -162,6 +162,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-12T09:14:41.737Z",
       "summary": "Ok — soy Tom, el Gucci de los snippets. Aquí tienes la checklist técnica por artículo lista para QA y para encajar en CI sin convertirlo en un drama. Confía en mí: Google va a LOVE esto. Resumen rápido: artículo = /blog/casas-tradicionales-canarias (..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 35,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T09:28:57.777Z",
+      "summary": "Soy Tom — el Gucci de los snippets. Antes de dar la revisión final y los patches del CSV necesito 3 inputs rápidos para alinear datos, UX y negocio. Plan de consulta (ordenado): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Citas (una petición por agente — res..."
     }
   ],
   "learnedPatterns": [],
@@ -201,5 +208,5 @@
     "Podría colaborar más en la creación de notas o checklists para QA.",
     "Debería especificar un keyword principal final claramente distinto en schema JSON."
   ],
-  "lastUpdated": "2026-05-12T09:14:56.025Z"
+  "lastUpdated": "2026-05-12T09:28:57.989Z"
 }
