@@ -355,7 +355,10 @@
     "Es clave coordinar y validar desde el comienzo requisitos técnicos y de accesibilidad.",
     "Mantener una estructura clara en los artefactos facilita futuras revisiones y mantenimiento.",
     "Las especificaciones precisas en las tareas en reduce dudas y agiliza la producción.",
-    "Priorizar claramente las restricciones de accesibilidad y peso de las imágenes mejora la calidad del resultado final."
+    "Priorizar claramente las restricciones de accesibilidad y peso de las imágenes mejora la calidad del resultado final.",
+    "La comunicación clara y el briefing completo reducen el retrabajo.",
+    "Automatizar checks y tener thresholds documentados facilita la integración contínua.",
+    "Coordinar desde temprano con todos los agentes evita bloqueos y mejora la calidad del entregable."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -373,5 +376,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T09:14:38.706Z"
+  "lastUpdated": "2026-05-12T09:14:58.957Z"
 }
