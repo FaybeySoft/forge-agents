@@ -268,7 +268,8 @@
     "Validó exhaustivamente aspectos críticos de metadata, srcset y JSON-LD.",
     "Proporcionó las keywords y checklist precisos para el artículo.",
     "Aportó una visión concreta y reglas claras para la validación de URLs de imágenes, orientando la estrategia SEO.",
-    "Aportó conocimientos clave en políticas SEO y estructura para URLs."
+    "Aportó conocimientos clave en políticas SEO y estructura para URLs.",
+    "Aclaró que el campo image en JSON-LD puede aceptar string | string[] y debe ser URLs absolutas."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -296,7 +297,8 @@
     "Podría ofrecer ejemplos exhaustivos y directrices más detalladas en la primera entrega.",
     "Podría colaborar más en la revisión final para evitar cambios de última hora.",
     "Podría proporcionar ejemplos o patrones regex más específicos para facilitar las validaciones automatizadas.",
-    "Podría haber contribuido más en las reglas de whitelist y validaciones específicas."
+    "Podría haber contribuido más en las reglas de whitelist y validaciones específicas.",
+    "Sería útil definir límites y sanitización del campo en la documentación."
   ],
-  "lastUpdated": "2026-05-12T19:14:51.721Z"
+  "lastUpdated": "2026-05-12T19:15:08.769Z"
 }
