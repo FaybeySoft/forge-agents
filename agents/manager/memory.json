@@ -1,0 +1,17 @@
+{
+  "agentSlug": "manager",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "Johanson1988/wake",
+      "issueNumber": 0,
+      "outcome": "wake:daily_meta_check",
+      "timestamp": "2026-05-12T21:47:07.459Z",
+      "summary": "Se detectaron varias issues de seguimiento y validación creadas por forgebot en modelos-casas-canarias y palmares-barca; una era duplicada.\n\n- Cerré modelos-casas-canarias #59 — motivo: duplicado de #45 (mantener #45 como issue de seguridad canónica).\n\nEstado: estable; vigilar seguimiento de las val"
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-05-12T21:47:07.657Z"
+}
