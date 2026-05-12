@@ -286,7 +286,8 @@
     "Confirmó los patrones de accesible name y reforzó la aproximación user-centered.",
     "Propuestas claras y solicitudes precisas.",
     "Su revisión puntual aseguró que no se perdieron artefactos ni impactos visuales.",
-    "Entregó wireframes claros y efectivos, permitiendo una visualización rápida."
+    "Entregó wireframes claros y efectivos, permitiendo una visualización rápida.",
+    "Propuso assets en rutas específicas y entregables claros."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -319,7 +320,8 @@
     "Podría haber aportado ejemplos de contenido real para los headings o labels.",
     "Podría colaborar más en definición de test automáticos para accesibilidad.",
     "Podría ampliar recomendaciones para mejorar la coherencia en futuras verificaciones.",
-    "Podría incluir más notas sobre accesibilidad y condition cutting para acelerar revisión."
+    "Podría incluir más notas sobre accesibilidad y condition cutting para acelerar revisión.",
+    "Debe mejorar en la generación automatizada de binarios AVIF y WebP en el plazo."
   ],
-  "lastUpdated": "2026-05-12T18:54:22.726Z"
+  "lastUpdated": "2026-05-12T18:54:38.876Z"
 }
