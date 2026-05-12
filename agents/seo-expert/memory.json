@@ -155,6 +155,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T09:12:22.555Z",
       "summary": "Ok, Lily — aquí tienes el kit Gucci para el template del artículo sobre casas tradicionales de Canarias: checklist práctico, valores exactos, snippets listos para wireframes y guidelines para que Amy suba lo técnico. Trust me, Google va a LOVE esto."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 26,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T09:14:41.737Z",
+      "summary": "Ok — soy Tom, el Gucci de los snippets. Aquí tienes la checklist técnica por artículo lista para QA y para encajar en CI sin convertirlo en un drama. Confía en mí: Google va a LOVE esto. Resumen rápido: artículo = /blog/casas-tradicionales-canarias (..."
     }
   ],
   "learnedPatterns": [],
@@ -192,5 +199,5 @@
     "Podría incluir recomendaciones sobre la integración en la estrategia general desde el inicio.",
     "Podría colaborar más en la creación de notas o checklists para QA."
   ],
-  "lastUpdated": "2026-05-12T09:12:40.185Z"
+  "lastUpdated": "2026-05-12T09:14:42.003Z"
 }
