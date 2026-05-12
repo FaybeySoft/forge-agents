@@ -333,7 +333,12 @@
     "La comunicación clara y las checklists hacen el proceso más eficiente y predecible.",
     "Una planificación clara y la definición de entregables específicos desde el inicio aceleran la integración y validación.",
     "Coordinar en fases y con agentes especializados reduce retrabajos y mejora la calidad del output.",
-    "Mantener las convenciones de estructura del repo y separación de contenido y metadata facilita la automatización y validación."
+    "Mantener las convenciones de estructura del repo y separación de contenido y metadata facilita la automatización y validación.",
+    "Una planificación temprana y detallada reduce la confusión y retrabajo.",
+    "Las especificaciones claras y los entregables bien definidos aceleran el proceso.",
+    "La colaboración estructurada y valuada entre agentes resulta en resultados de mayor calidad.",
+    "Es crucial validar y documentar criterios desde el inicio, especialmente para SEO y UX.",
+    "Una comunicación efectiva y el uso de checklists aceleran la revisión y validación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -351,5 +356,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T09:11:14.839Z"
+  "lastUpdated": "2026-05-12T09:11:16.385Z"
 }
