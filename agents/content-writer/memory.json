@@ -49,14 +49,16 @@
     "Preparó los borradores con atención a los detalles y en ubicaciones existentes.",
     "Entregó el artículo y assets en los formatos y rutas correctas, respetando las convenciones del repo.",
     "Preparó los archivos listos para commit según las especificaciones.",
-    "Preparó la propuesta de parche CSV con las columnas terminadas y sentido."
+    "Preparó la propuesta de parche CSV con las columnas terminadas y sentido.",
+    "Preparó los textos y documentación claramente listos para su publicación."
   ],
   "areasToImprove": [
     "Podría anticipar más las restricciones del repo para evitar propuestas que requieran crear nuevas carpetas.",
     "Podría mejorar en la anticipación de los requisitos de metadata para reducir iteraciones finales.",
     "Podría coordinar mejor para clarificar la estructura final antes de generar los archivos.",
-    "Debe coordinarse mejor desde el inicio con SEO y UX para definir reglas y ubicaciones."
+    "Debe coordinarse mejor desde el inicio con SEO y UX para definir reglas y ubicaciones.",
+    "Podría incluir notas de revisión más detalladas en archivos de triage."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-12T18:38:39.376Z"
+  "lastUpdated": "2026-05-12T18:38:46.876Z"
 }
