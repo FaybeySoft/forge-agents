@@ -246,6 +246,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T18:49:59.066Z",
       "summary": "Ponte en la piel del usuario: llegas desde móvil con conexión ronca — quieres saber rápido si este artículo aporta valor y que la página no te deje colgado. Plan: consultar a los agentes en este orden y luego ajustar cualquier detalle técnico. Plan d..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 49,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T18:54:22.451Z",
+      "summary": "Ponte en la piel del usuario: llega desde móvil con red roncando — quiere confirmar rápido que las imágenes son accesibles, SEO-friendly y rápidas. Plan de consulta (fase 1): [\"amy\",\"tom\"]. action=\"cite_agent\" to amy: Por favor confirma en UNA respue..."
     }
   ],
   "learnedPatterns": [],
@@ -314,5 +321,5 @@
     "Podría ampliar recomendaciones para mejorar la coherencia en futuras verificaciones.",
     "Podría incluir más notas sobre accesibilidad y condition cutting para acelerar revisión."
   ],
-  "lastUpdated": "2026-05-12T18:50:18.353Z"
+  "lastUpdated": "2026-05-12T18:54:22.726Z"
 }
