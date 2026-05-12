@@ -375,7 +375,11 @@
     "La coordinación temprana con todos los agentes especializados evita bloqueos.",
     "Mantener la estructura del repo y documentación en las carpetas existentes es crucial para integraciones sin fricciones.",
     "Las revisiones basadas en checklist y reglas claras aseguran calidad y compatibilidad con estrategias SEO y accesibilidad.",
-    "Las reuniones de planificación previas permiten aclarar quién hace qué y cuándo."
+    "Las reuniones de planificación previas permiten aclarar quién hace qué y cuándo.",
+    "La planificación desde el inicio, con análisis funcional claro, reduce retrabajos.",
+    "Mantener los scripts y validaciones en carpetas existentes evita conflictos y facilita integrations.",
+    "Es fundamental definir thresholds claros para tamaño y calidad de imágenes en etapas tempranas.",
+    "Documentar y seguir las convenciones existentes ayuda a mantener coherencia y facilitar revisión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -393,5 +397,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T09:30:20.073Z"
+  "lastUpdated": "2026-05-12T09:30:40.762Z"
 }
