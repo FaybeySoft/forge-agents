@@ -14,6 +14,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T09:06:33.322Z",
       "summary": "Confirmado — seré exigente pero útil. Entrego el artículo listo para PR con metadata y checklist técnico. Si quieres que espere la palabra clave final del seo-expert, lo coordino; mientras tanto he usado la recomendación P0: \"casas tradicionales cana..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 24,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T09:10:57.881Z",
+      "summary": "[Sub-tarea #29: Brief y assets para Artículo #1 — casas tradicionales de Canarias] Objetivo principal: artículo SEO sobre la keyword principal \"casas tradicionales de Canarias\". Fuentes usadas del repo: artifacts/seo/article-1-prompt.txt, artifacts/s..."
     }
   ],
   "learnedPatterns": [],
@@ -26,5 +33,5 @@
     "Podría mejorar en la anticipación de los requisitos de metadata para reducir iteraciones finales."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-12T09:06:48.638Z"
+  "lastUpdated": "2026-05-12T09:10:58.044Z"
 }
