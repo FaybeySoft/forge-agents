@@ -324,7 +324,10 @@
     "Mantener una estructura en scripts y documentación en carpetas existentes facilita la integración y revisión.",
     "Las verificaciones automáticas en CI deben ser precisas y ajustadas a las necesidades del proyecto.",
     "Extender scripts existentes y documentar pasos ayuda a automatizar revisiones y asegurar cumplimiento de requisitos.",
-    "La comunicación clara y las checklists hacen el proceso más eficiente y predecible."
+    "La comunicación clara y las checklists hacen el proceso más eficiente y predecible.",
+    "Una planificación clara y la definición de entregables específicos desde el inicio aceleran la integración y validación.",
+    "Coordinar en fases y con agentes especializados reduce retrabajos y mejora la calidad del output.",
+    "Mantener las convenciones de estructura del repo y separación de contenido y metadata facilita la automatización y validación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -340,5 +343,5 @@
     "Podría mejorar en la anticipación de posibles conflictos con otros cambios en src/index.html.",
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación."
   ],
-  "lastUpdated": "2026-05-12T09:06:43.996Z"
+  "lastUpdated": "2026-05-12T09:06:50.237Z"
 }
