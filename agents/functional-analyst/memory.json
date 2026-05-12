@@ -281,6 +281,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-12T12:47:56.132Z",
       "summary": "Plan de consultas (fase 1): [\"lily-ux\", \"tom-seo\", \"seo-expert\"] ACTION: cite_agent — lily-ux — request: \"Confirmar si el checklist-weekly debe incluir comprobaciones visuales automatizables (hero reserved heights por breakpoint, LQIP order, contrast..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 38,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T12:48:00.739Z",
+      "summary": "Plan de consultas (fase 1) y citas a agentes: 1) Plan (ordenado) — agentes a consultar: 1. seo-expert 2. lily-ux 3. code-critic Citas (una sola por agente): - action=\"cite_agent\" — seo-expert — request: \"Confirmar si las reglas de normalización para ..."
     }
   ],
   "learnedPatterns": [],
@@ -342,5 +349,5 @@
     "Podría involucrar más en la fase de definición de reglas de integración y placement.",
     "Podría haber anticipado la necesidad de validaciones automatizadas en scripts CI para evitar revisiones manuales."
   ],
-  "lastUpdated": "2026-05-12T12:47:56.303Z"
+  "lastUpdated": "2026-05-12T12:48:01.048Z"
 }
