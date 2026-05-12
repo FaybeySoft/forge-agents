@@ -254,7 +254,8 @@
     "Verificó los textos de alt, captions y credits con precisión, asegurando accesibilidad y consistencia.",
     "Definió reglas de accesibilidad y presentation fallback también en escenarios móviles.",
     "Diseñó especificaciones claras y prácticas para la validación UX en los checklists.",
-    "Ofreció recomendaciones claras y revisió de accesibilidad, layout y checklist CI."
+    "Ofreció recomendaciones claras y revisió de accesibilidad, layout y checklist CI.",
+    "Confirmó los patrones de accesible name y reforzó la aproximación user-centered."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -283,7 +284,8 @@
     "Podría mejorar en comunicar claramente en qué momento los cambios afectan directamente al usuario final.",
     "Podría documentar mejores prácticas y guías visuales para facilitar futuras implementaciones.",
     "Podría dar prototipos visuales para facilitar el entendimiento de los requisitos visuales.",
-    "Podría dedicar más tiempo a validar diferentes tamaños de pantalla."
+    "Podría dedicar más tiempo a validar diferentes tamaños de pantalla.",
+    "Podría haber aportado ejemplos de contenido real para los headings o labels."
   ],
-  "lastUpdated": "2026-05-12T13:08:10.562Z"
+  "lastUpdated": "2026-05-12T13:08:22.791Z"
 }
