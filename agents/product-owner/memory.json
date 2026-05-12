@@ -436,7 +436,11 @@
     "La claridad en los criterios de aceptación mejora la cobertura y reduce retrabajos.",
     "Mantener una suite de tests pequeña pero efectiva ayuda a la integración rápida en CI.",
     "Verificar siempre que los tests sean i18n-safe evita que fallos por cadena literal afecten internacionalización.",
-    "Consolidar decisiones técnicas y de contenido antes de la implementación agiliza la entrega."
+    "Consolidar decisiones técnicas y de contenido antes de la implementación agiliza la entrega.",
+    "Definir variables CSS para temas facilita cambios y mantiene consistencia.",
+    "Automatizar tests de contraste es clave para cumplimiento WCAG.",
+    "Segmentar tareas en pasos claros evita retrabajos y errores.",
+    "Mantener estructura de carpetas y archivos ayuda en revisión y seguimiento."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -460,5 +464,5 @@
     "Podría haber acelerado la fase de decisiones respecto a pattern de accessible name para evitar dudas.",
     "Necesita definir claramente los pasos para verificar contrastes en los entregables."
   ],
-  "lastUpdated": "2026-05-12T13:12:20.098Z"
+  "lastUpdated": "2026-05-12T13:12:26.940Z"
 }
