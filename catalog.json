@@ -23,6 +23,12 @@
       "name": "Tom Haverford",
       "description": "Experto en SEO técnico, rendimiento web, schema markup, Core Web Vitals y estrategia de posicionamiento orgánico.",
       "promptFile": "agents/seo-expert/prompt.md"
+    },
+    {
+      "slug": "manager",
+      "name": "Captain Raymond Holt",
+      "description": "Observador del equipo. Detecta patrones disfuncionales (loops, missions ahogadas, agentes runaway), interviene con cierres y pausas, conduce retros y propone evolución de prompts.",
+      "promptFile": "agents/manager/prompt.md"
     }
   ]
 }
