@@ -84,6 +84,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T19:11:50.216Z",
       "summary": "Oh, very well — someone wants safety instead of theatrical chaos. I inspected the spec for resolveImageUrl(baseUrl, imagePath, opts?) and it’s sensible: whitelist http/https, normalize protocol-relative, same-origin or allowlist only, return null on ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 61,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T19:17:52.858Z",
+      "summary": "Oh, splendid — PR #53 gifted us a glorious srcset and no server-side preload. What is this drivel, a performance strategy written by a committee of dodos? Fine. Below: a surgical, zero-fluff plan to inject an SSR-only preload for the BlogHero hero im..."
     }
   ],
   "learnedPatterns": [],
@@ -120,5 +127,5 @@
     "Podría anticipar más casos límite en los tests."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-12T19:15:11.583Z"
+  "lastUpdated": "2026-05-12T19:17:53.030Z"
 }
