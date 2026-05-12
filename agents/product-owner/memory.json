@@ -414,7 +414,12 @@
     "Definir claramente las convenciones y restricciones del repo evita conflictos en la estructura de archivos y despliegues.",
     "El involucramiento de DevOps desde el inicio garantiza compatibilidad y seguridad en la integración de nuevos workflows.",
     "Es fundamental validar los criterios de calidad y checks automáticos con los expertos (SEO, UX) antes de implementarlos en producción.",
-    "La correcta documentación y el uso de plantillas existentes facilitan revisiones y colaboraciones futuras."
+    "La correcta documentación y el uso de plantillas existentes facilitan revisiones y colaboraciones futuras.",
+    "La definición clara del alcance de la tarea y los roles facilita una ejecución eficiente.",
+    "Consultar en orden y en fases ayuda a evitar retrabajos y bloqueos.",
+    "Mantener checklists y plantillas desde el inicio asegura integridad en las validaciones.",
+    "Coordinar tareas en estructura incrementa la calidad del entregable y la confianza del merge.",
+    "Documentar y usar archivos existentes evita crear estructura innecesaria."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -434,5 +439,5 @@
     "Podría fortalecer la documentación para los entregables e integración final.",
     "Podría mejorar en la organización de las consultas para reducir tiempo y duplicaciones."
   ],
-  "lastUpdated": "2026-05-12T12:50:16.292Z"
+  "lastUpdated": "2026-05-12T12:50:22.336Z"
 }
