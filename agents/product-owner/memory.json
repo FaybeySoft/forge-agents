@@ -425,7 +425,12 @@
     "Consultar en orden y en fases ayuda a evitar retrabajos y bloqueos.",
     "Mantener checklists y plantillas desde el inicio asegura integridad en las validaciones.",
     "Coordinar tareas en estructura incrementa la calidad del entregable y la confianza del merge.",
-    "Documentar y usar archivos existentes evita crear estructura innecesaria."
+    "Documentar y usar archivos existentes evita crear estructura innecesaria.",
+    "Es fundamental coordinar con UX antes de definir las assertions en tests.",
+    "La claridad en los criterios de aceptación mejora la cobertura y reduce retrabajos.",
+    "Mantener una suite de tests pequeña pero efectiva ayuda a la integración rápida en CI.",
+    "Verificar siempre que los tests sean i18n-safe evita que fallos por cadena literal afecten internacionalización.",
+    "Consolidar decisiones técnicas y de contenido antes de la implementación agiliza la entrega."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -447,5 +452,5 @@
     "Podría mejorar en la organización de las consultas para reducir tiempo y duplicaciones.",
     "Podría haber acelerado la fase de decisiones respecto a pattern de accessible name para evitar dudas."
   ],
-  "lastUpdated": "2026-05-12T13:08:19.317Z"
+  "lastUpdated": "2026-05-12T13:08:24.478Z"
 }
