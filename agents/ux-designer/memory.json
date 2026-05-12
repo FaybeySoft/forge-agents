@@ -222,7 +222,8 @@
     "Propuso soluciones prácticas y asesoró sobre heurísticas y límites en checks automatizados.",
     "Definió especificaciones claras para imágenes y responsive design.",
     "Entregó wireframes y guías en los formatos y rutas requeridas, respetando las restricciones.",
-    "Validó la estructura y accesibilidad, asegurando que las reglas sean usables en el contenido."
+    "Validó la estructura y accesibilidad, asegurando que las reglas sean usables en el contenido.",
+    "Verificó los textos de alt, captions y credits con precisión, asegurando accesibilidad y consistencia."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -247,7 +248,8 @@
     "Podría involucrarse en fases más tempranas en la definición de criterios para asegurar coherencia.",
     "Podría colaborar más temprano en la definición de layout y experiencia de usuario.",
     "Podría integrar más feedback de testing de accesibilidad en fases tempranas.",
-    "Podría participar más en la definición de reglas de variaciones y colocación."
+    "Podría participar más en la definición de reglas de variaciones y colocación.",
+    "Podría mejorar en comunicar claramente en qué momento los cambios afectan directamente al usuario final."
   ],
-  "lastUpdated": "2026-05-12T09:30:24.416Z"
+  "lastUpdated": "2026-05-12T09:30:39.326Z"
 }
