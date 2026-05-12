@@ -476,7 +476,10 @@
     "La documentación previa y el almacenaje organizado simplifican el proceso de cierre y certificación.",
     "La coordinación con agentes especializados evita errores técnicos y asegura el estado correcto del backlog.",
     "Planificar en fases, primero la revisión técnica y luego el cierre formal, mejora la seguridad del proceso.",
-    "Mantener comunicación clara y documentación consistente agiliza tareas de limpieza del backlog y cierre de issues."
+    "Mantener comunicación clara y documentación consistente agiliza tareas de limpieza del backlog y cierre de issues.",
+    "Seguir un plan ordenado y documentar decisiones desde el inicio acelera los cierres sin riesgos.",
+    "El uso de checklists y referencias en repo facilita la validación rápida y la cooperación.",
+    "La coordinación temprana con UX y SEO evita retrabajos y mejora la confianza en el proceso."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -506,5 +509,5 @@
     "Podría ajustar el timing para validar los documentos antes del cierre final.",
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento."
   ],
-  "lastUpdated": "2026-05-12T18:49:17.713Z"
+  "lastUpdated": "2026-05-12T18:49:39.236Z"
 }
