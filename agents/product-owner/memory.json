@@ -541,7 +541,12 @@
     "La planificación temprana y clara con agentes especializados reduce retrabajo y aumenta la calidad de las decisiones.",
     "La verificación previa en GitHub CLI es esencial para validar merges y cambios en PRs antes de modificar el código.",
     "Mantener cambios mínimos y bien documentados en helpers ayuda a evitar errores y facilita el mantenimiento.",
-    "Definir criterios de éxito y tests desde el inicio aceleran la validación y despliegue de cambios."
+    "Definir criterios de éxito y tests desde el inicio aceleran la validación y despliegue de cambios.",
+    "Las validaciones de URLs deben ser estrictas y claras para prevenir vulnerabilidades.",
+    "Es eficiente definir las reglas y documentación antes de implementar el código.",
+    "Incluir tests negativos y positivos desde el inicio facilita detectar errores tempranos.",
+    "Actualizar scripts CI y documentación en un mismo ciclo ahorra retrabajo y mejora coherencia.",
+    "Revisar con tiempo las políticas de whitelists y estructuras antes de la implementación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -573,5 +578,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T19:11:46.018Z"
+  "lastUpdated": "2026-05-12T19:12:13.435Z"
 }
