@@ -176,6 +176,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-11T21:51:11.414Z",
       "summary": "Ponte en la piel del usuario: estás en CI y quieres que la web no sea una fiesta donde la accesibilidad sea el invitado invisible. Abajo te doy una solución práctica y lista para implementar: comparativa de herramientas, mi recomendación, comandos ex..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 24,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T09:10:56.050Z",
+      "summary": "Plan de consulta (fase 1): [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Amy — confirma por favor el shape mínimo del payload para capturar leads desde posts (ej.: POST /api/ia/seo-generate). ¿Aceptamos solo { email, slug, consent }? ¿Necesitamos checkbo..."
     }
   ],
   "learnedPatterns": [],
@@ -222,5 +229,5 @@
     "Sería útil en futuras tareas proponer soluciones alternativas en caso de no disponibilidad de secciones existentes.",
     "Podría involucrarse en fases más tempranas en la definición de criterios para asegurar coherencia."
   ],
-  "lastUpdated": "2026-05-11T21:51:29.205Z"
+  "lastUpdated": "2026-05-12T09:10:56.493Z"
 }
