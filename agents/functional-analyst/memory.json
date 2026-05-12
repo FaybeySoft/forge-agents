@@ -337,6 +337,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T18:49:18.985Z",
       "summary": "Plan de consultas (Fase 1) 1) Plan (ordenado) — agentes a consultar: 1. code-critic 2. lily-ux 2) Citas (una sola por agente): - action=\"cite_agent\" — code-critic — request: \"Por favor verifica para los PRs #27, #42 y #32 en el repo Johanson1988/mode..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 50,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T18:49:57.148Z",
+      "summary": "Plan de consultas (fase 1): [\"lily-ux\", \"tom-seo\", \"code-critic\"] Citas (una sola por agente — respuesta esperada ≤24h): - action=\"cite_agent\" — lily-ux — request: \"Validar los valores de altura reservada para hero en desktop/tablet/mobile (px o %), ..."
     }
   ],
   "learnedPatterns": [],
@@ -416,5 +423,5 @@
     "Podría anticipar las verificaciones técnicas para reducir re-trabajos y validaciones adicionales.",
     "Podría incluir más detalles técnicos en las solicitudes para acelerar la revisión."
   ],
-  "lastUpdated": "2026-05-12T18:49:31.700Z"
+  "lastUpdated": "2026-05-12T18:49:57.313Z"
 }
