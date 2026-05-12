@@ -344,7 +344,12 @@
     "Las especificaciones claras y los entregables bien definidos aceleran el proceso.",
     "La colaboración estructurada y valuada entre agentes resulta en resultados de mayor calidad.",
     "Es crucial validar y documentar criterios desde el inicio, especialmente para SEO y UX.",
-    "Una comunicación efectiva y el uso de checklists aceleran la revisión y validación."
+    "Una comunicación efectiva y el uso de checklists aceleran la revisión y validación.",
+    "Definir entregables y rutas desde el inicio evita retrabajos.",
+    "Es clave coordinar y validar desde el comienzo requisitos técnicos y de accesibilidad.",
+    "Mantener una estructura clara en los artefactos facilita futuras revisiones y mantenimiento.",
+    "Las especificaciones precisas en las tareas en reduce dudas y agiliza la producción.",
+    "Priorizar claramente las restricciones de accesibilidad y peso de las imágenes mejora la calidad del resultado final."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -362,5 +367,5 @@
     "Podría involucrar más tempranamente a los agentes de contenido para definir requisitos de metadata con mayor anticipación.",
     "Podría fortalecer la documentación para los entregables e integración final."
   ],
-  "lastUpdated": "2026-05-12T09:12:19.961Z"
+  "lastUpdated": "2026-05-12T09:12:43.294Z"
 }
