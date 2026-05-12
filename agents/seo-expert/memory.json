@@ -211,6 +211,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T18:50:00.513Z",
       "summary": "Ok — Tom al teclado. Voy a validar todo lo crítico para el hero del blog: frontmatter obligatorio, SSR metadata, JSON-LD, srcset/picture, focalPoint -> crops, a11y overlays, alt/credit patterns y notas de performance. Confía en mí: Google is going to..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 49,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T18:54:20.999Z",
+      "summary": "Soy Tom — el Gucci de los snippets. Aquí tienes todo listo para pegar en el frontmatter y en la plantilla. Trust me, Google is going to LOVE esto. 1) Keywords pilar (ES): - \"casas tradicionales Canarias\" — intención: Informacional — prioridad: primar..."
     }
   ],
   "learnedPatterns": [],
@@ -264,5 +271,5 @@
     "Podría priorizar la documentación de cambios en metadatos y URLs.",
     "Podría ofrecer ejemplos exhaustivos y directrices más detalladas en la primera entrega."
   ],
-  "lastUpdated": "2026-05-12T18:50:19.745Z"
+  "lastUpdated": "2026-05-12T18:54:21.308Z"
 }
