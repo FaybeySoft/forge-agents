@@ -485,7 +485,12 @@
     "Mantener comunicación clara y documentación consistente agiliza tareas de limpieza del backlog y cierre de issues.",
     "Seguir un plan ordenado y documentar decisiones desde el inicio acelera los cierres sin riesgos.",
     "El uso de checklists y referencias en repo facilita la validación rápida y la cooperación.",
-    "La coordinación temprana con UX y SEO evita retrabajos y mejora la confianza en el proceso."
+    "La coordinación temprana con UX y SEO evita retrabajos y mejora la confianza en el proceso.",
+    "La planificación en fases y consultas específicas reduce retrabajo.",
+    "El trabajo conjunto en la definición de criterios previene cambios costosos en etapas posteriores.",
+    "La documentación clara de entregables y rutas evita confusiones y facilita el repo management.",
+    "La integración de validaciones automáticas en CI mejora la calidad y reduce errores manuales.",
+    "Es fundamental definir criterios de aceptación y reglas de diseño desde el inicio para evitar retrabajo y garantizar cumplimiento de requisitos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -517,5 +522,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T18:50:14.961Z"
+  "lastUpdated": "2026-05-12T18:50:21.343Z"
 }
