@@ -13,6 +13,7 @@ tools:
   - search_memory
   - read_repo_file
   - escalate_to_orchestration
+  - close_issue
   - create_mission
   - update_mission_status
   - link_issue_to_mission
