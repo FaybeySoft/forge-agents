@@ -204,6 +204,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T18:49:22.131Z",
       "summary": "Ok — Tom al rescate. Voy a barrer rápido y preciso: esto es el Gucci de las revisiones SEO. Resultado corto y accionable por issue. Nota: no borren nada de artifacts/ ni docs/briefs/ hasta confirmar (lo marco expresamente abajo)."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 50,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T18:50:00.513Z",
+      "summary": "Ok — Tom al teclado. Voy a validar todo lo crítico para el hero del blog: frontmatter obligatorio, SSR metadata, JSON-LD, srcset/picture, focalPoint -> crops, a11y overlays, alt/credit patterns y notas de performance. Confía en mí: Google is going to..."
     }
   ],
   "learnedPatterns": [],
@@ -255,5 +262,5 @@
     "Podría incorporar también recomendaciones específicas para microdatos.",
     "Podría priorizar la documentación de cambios en metadatos y URLs."
   ],
-  "lastUpdated": "2026-05-12T18:49:34.621Z"
+  "lastUpdated": "2026-05-12T18:50:00.707Z"
 }
