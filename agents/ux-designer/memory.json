@@ -183,6 +183,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T09:10:56.050Z",
       "summary": "Plan de consulta (fase 1): [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Amy — confirma por favor el shape mínimo del payload para capturar leads desde posts (ej.: POST /api/ia/seo-generate). ¿Aceptamos solo { email, slug, consent }? ¿Necesitamos checkbo..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 25,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T09:12:24.121Z",
+      "summary": "[Sub-tarea #30: Wireframes, hero guideline y flujo de captación para Artículo #1 (Casas tradicionales de Canarias)] Ponte en la piel del usuario: llegas desde móvil con poco tiempo y quieres confirmar rápido si este artículo merece la lectura — y, si..."
     }
   ],
   "learnedPatterns": [],
@@ -231,5 +238,5 @@
     "Podría involucrarse en fases más tempranas en la definición de criterios para asegurar coherencia.",
     "Podría colaborar más temprano en la definición de layout y experiencia de usuario."
   ],
-  "lastUpdated": "2026-05-12T09:11:13.198Z"
+  "lastUpdated": "2026-05-12T09:12:24.306Z"
 }
