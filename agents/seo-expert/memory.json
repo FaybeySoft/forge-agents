@@ -196,7 +196,8 @@
     "Proporcionó una lista de keywords con intención y prioridad, facilitando el enfoque SEO.",
     "Aportó especificaciones técnicas precisas para metadata y structured data.",
     "Su checklist lista para QA y compatible con CI fue muy útil.",
-    "Brindó reglas precisas sobre límites de keyword y long-tail variations."
+    "Brindó reglas precisas sobre límites de keyword y long-tail variations.",
+    "Proporcionó snippets útiles y un script listo para integración, facilitando los cambios en el CI."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -215,7 +216,8 @@
     "Podría incluir recomendaciones sobre la integración en la estrategia general desde el inicio.",
     "Podría colaborar más en la creación de notas o checklists para QA.",
     "Debería especificar un keyword principal final claramente distinto en schema JSON.",
-    "Podría facilitar ejemplos prácticos de implementación en el contenido."
+    "Podría facilitar ejemplos prácticos de implementación en el contenido.",
+    "Sería bueno que confirmara antes que las rutas relativas iban a complicar el SEO y la carga, para evitar tareas innecesarias."
   ],
-  "lastUpdated": "2026-05-12T09:30:23.148Z"
+  "lastUpdated": "2026-05-12T09:30:37.907Z"
 }
