@@ -197,6 +197,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T09:30:24.239Z",
       "summary": "Ponte en la piel del usuario: llegas desde móvil, con poca paciencia y una red que a veces ronca — quieres confirmar rápido que las imágenes están accesibles, optimizadas y que el artículo cumple SEO. Plan de consulta: [\"amy\",\"tom\"]. action=\"cite_age..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 37,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T12:47:59.100Z",
+      "summary": "Ponte en la piel del usuario: vamos a evitar PRs de blog sin frontmatter, sin hero o con imágenes que rompen el layout. Plan de consulta (fase 1): [\"amy\",\"tom\"]. action=\"cite_agent\" to amy: Amy — por favor confirma: 1) ¿email mínimo para captura de l..."
     }
   ],
   "learnedPatterns": [],
@@ -251,5 +258,5 @@
     "Podría participar más en la definición de reglas de variaciones y colocación.",
     "Podría mejorar en comunicar claramente en qué momento los cambios afectan directamente al usuario final."
   ],
-  "lastUpdated": "2026-05-12T12:43:37.163Z"
+  "lastUpdated": "2026-05-12T12:47:59.337Z"
 }
