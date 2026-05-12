@@ -21,6 +21,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T09:10:57.881Z",
       "summary": "[Sub-tarea #29: Brief y assets para Artículo #1 — casas tradicionales de Canarias] Objetivo principal: artículo SEO sobre la keyword principal \"casas tradicionales de Canarias\". Fuentes usadas del repo: artifacts/seo/article-1-prompt.txt, artifacts/s..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 26,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T09:14:43.148Z",
+      "summary": "Plan: [\"seo-expert\",\"functional-analyst\",\"ux-designer\"] cite_agent seo-expert: Por favor confirma (una vez) si hay alguna keyword prioritaria final distinta a las propuestas y si artifacts/seo/article-1-schema.json contiene un mainEntityName preferid..."
     }
   ],
   "learnedPatterns": [],
@@ -33,5 +40,5 @@
     "Podría mejorar en la anticipación de los requisitos de metadata para reducir iteraciones finales."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-12T09:10:58.044Z"
+  "lastUpdated": "2026-05-12T09:14:43.321Z"
 }
