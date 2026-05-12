@@ -353,6 +353,12 @@
       "issueNumber": 29,
       "outcome": "ready",
       "timestamp": "2026-05-12T18:50:50.010Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 49,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-12T18:54:18.075Z"
     }
   ],
   "learnedPatterns": [
@@ -531,5 +537,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T18:51:14.024Z"
+  "lastUpdated": "2026-05-12T18:54:18.257Z"
 }
