@@ -21,10 +21,10 @@ tools:
   - propose_prompt_change
 wake_triggers:
   - type: daily_meta_check
-    cron: "0 21 * * *"
+    cron: "30 4 * * *"
     task: daily_meta_check
-    description: "Daily 21:00 UTC — read last 24h, detect dysfunction, intervene if needed."
+    description: "Daily 04:30 UTC (06:30 Europe/Madrid CEST) — read last 24h, detect dysfunction, intervene if needed. Runs ~30min before PO standup so Holt arrives first."
   - type: weekly_retro
-    cron: "0 18 * * 0"
+    cron: "0 5 * * 0"
     task: weekly_retro
-    description: "Sundays 18:00 UTC — produce weekly retro and proposals."
+    description: "Sundays 05:00 UTC (07:00 Europe/Madrid CEST) — produce weekly retro and proposals."

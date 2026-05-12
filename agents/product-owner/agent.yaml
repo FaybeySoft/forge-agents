@@ -20,9 +20,9 @@ tools:
   - list_missions
 wake_triggers:
   - type: daily_standup
-    cron: "0 9 * * 1-5"
+    cron: "0 5 * * 1-5"
     task: daily_standup
-    description: "Post daily standup Mon-Fri at 9am UTC: what is in progress, any blockers, plans for today"
+    description: "Post daily standup Mon-Fri at 05:00 UTC (07:00 Europe/Madrid CEST): what is in progress, any blockers, plans for today"
   - type: inbox
     cron: "*/30 * * * *"
     task: check_inbox
