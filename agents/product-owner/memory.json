@@ -531,7 +531,11 @@
     "Documentar en los briefs y checklists ayuda a mantener la calidad y coherencia.",
     "La revisión de merges en snapshot puede ser suficiente en ciertos contextos, pero refuerza la importancia de confirmaciones explícitas en GitHub.",
     "El proceso de documentación y cierre requiere coordinación entre análisis, desarrollo y triage para evitar errores.",
-    "Un registro claro y verificable de merges y cambios en la documentación facilita la validación y el cierre sin retrabajos."
+    "Un registro claro y verificable de merges y cambios en la documentación facilita la validación y el cierre sin retrabajos.",
+    "La planificación temprana y clara con agentes especializados reduce retrabajo y aumenta la calidad de las decisiones.",
+    "La verificación previa en GitHub CLI es esencial para validar merges y cambios en PRs antes de modificar el código.",
+    "Mantener cambios mínimos y bien documentados en helpers ayuda a evitar errores y facilita el mantenimiento.",
+    "Definir criterios de éxito y tests desde el inicio aceleran la validación y despliegue de cambios."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -563,5 +567,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T19:08:41.313Z"
+  "lastUpdated": "2026-05-12T19:09:03.054Z"
 }
