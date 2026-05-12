@@ -237,7 +237,8 @@
     "Definió especificaciones claras para imágenes y responsive design.",
     "Entregó wireframes y guías en los formatos y rutas requeridas, respetando las restricciones.",
     "Validó la estructura y accesibilidad, asegurando que las reglas sean usables en el contenido.",
-    "Verificó los textos de alt, captions y credits con precisión, asegurando accesibilidad y consistencia."
+    "Verificó los textos de alt, captions y credits con precisión, asegurando accesibilidad y consistencia.",
+    "Definió reglas de accesibilidad y presentation fallback también en escenarios móviles."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -263,7 +264,8 @@
     "Podría colaborar más temprano en la definición de layout y experiencia de usuario.",
     "Podría integrar más feedback de testing de accesibilidad en fases tempranas.",
     "Podría participar más en la definición de reglas de variaciones y colocación.",
-    "Podría mejorar en comunicar claramente en qué momento los cambios afectan directamente al usuario final."
+    "Podría mejorar en comunicar claramente en qué momento los cambios afectan directamente al usuario final.",
+    "Podría documentar mejores prácticas y guías visuales para facilitar futuras implementaciones."
   ],
-  "lastUpdated": "2026-05-12T12:48:07.426Z"
+  "lastUpdated": "2026-05-12T12:48:23.600Z"
 }
