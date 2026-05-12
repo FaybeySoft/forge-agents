@@ -496,7 +496,10 @@
     "El trabajo conjunto en la definición de criterios previene cambios costosos en etapas posteriores.",
     "La documentación clara de entregables y rutas evita confusiones y facilita el repo management.",
     "La integración de validaciones automáticas en CI mejora la calidad y reduce errores manuales.",
-    "Es fundamental definir criterios de aceptación y reglas de diseño desde el inicio para evitar retrabajo y garantizar cumplimiento de requisitos."
+    "Es fundamental definir criterios de aceptación y reglas de diseño desde el inicio para evitar retrabajo y garantizar cumplimiento de requisitos.",
+    "Validar cobertura técnica con un experto antes de cerrar issues es crucial para evitar retrabajos.",
+    "Las decisiones deben documentarse claramente para mantener la trazabilidad.",
+    "El proceso de comunicación y validación en múltiples pasos reduce errores y aumenta la confianza en las decisiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -528,5 +531,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T18:50:50.294Z"
+  "lastUpdated": "2026-05-12T18:51:14.024Z"
 }
