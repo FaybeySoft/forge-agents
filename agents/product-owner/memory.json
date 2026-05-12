@@ -465,7 +465,12 @@
     "La coordinación temprana con el equipo técnico simplifica la incorporación de cambios mínimos.",
     "La revisión de referencias y justificaciones clara evita confusiones en cierres de issues.",
     "La coordinación en la documentación previa garantiza cierres sin retrabajos.",
-    "Mantener los criterios de no modificar issues críticos con constraints ayuda a reducir errores."
+    "Mantener los criterios de no modificar issues críticos con constraints ayuda a reducir errores.",
+    "Es fundamental definir claramente el proceso de cierre con ventanas de objeción y confirmación técnica anticipada.",
+    "La documentación previa y el almacenaje organizado simplifican el proceso de cierre y certificación.",
+    "La coordinación con agentes especializados evita errores técnicos y asegura el estado correcto del backlog.",
+    "Planificar en fases, primero la revisión técnica y luego el cierre formal, mejora la seguridad del proceso.",
+    "Mantener comunicación clara y documentación consistente agiliza tareas de limpieza del backlog y cierre de issues."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -495,5 +500,5 @@
     "Podría ajustar el timing para validar los documentos antes del cierre final.",
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento."
   ],
-  "lastUpdated": "2026-05-12T18:42:38.846Z"
+  "lastUpdated": "2026-05-12T18:42:41.891Z"
 }
