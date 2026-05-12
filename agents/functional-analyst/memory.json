@@ -393,6 +393,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-12T19:14:50.005Z",
       "summary": "Plan de consultas (fase 1): [\"seo-expert\",\"code-critic\"] Citas (una sola petición por agente): - action=\"cite_agent\" — seo-expert — request: \"Confirmar que en JSON-LD para article/product la propiedad image PUEDE ser string | string[] y que todos los..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 61,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T19:17:49.414Z",
+      "summary": "Plan (fase 1): consultar en este orden a: 1) tom-seo, 2) code-critic. Nota rápida de Amy (binder abierto): según los requisitos, esto debe ser SSR-only, condicionado a isLCP, apuntar al JPEG 1600w en el origin, incluir imagesrcset con todas variantes..."
     }
   ],
   "learnedPatterns": [],
@@ -486,5 +493,5 @@
     "Podría haber definido mejores criterios de testing extremos en fases tempranas.",
     "Aún falta definir exhaustivamente los casos de prueba en tests unitarios."
   ],
-  "lastUpdated": "2026-05-12T19:15:06.632Z"
+  "lastUpdated": "2026-05-12T19:17:49.727Z"
 }
