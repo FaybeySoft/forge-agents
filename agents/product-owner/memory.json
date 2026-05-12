@@ -505,7 +505,12 @@
     "Es fundamental definir criterios de aceptación y reglas de diseño desde el inicio para evitar retrabajo y garantizar cumplimiento de requisitos.",
     "Validar cobertura técnica con un experto antes de cerrar issues es crucial para evitar retrabajos.",
     "Las decisiones deben documentarse claramente para mantener la trazabilidad.",
-    "El proceso de comunicación y validación en múltiples pasos reduce errores y aumenta la confianza en las decisiones."
+    "El proceso de comunicación y validación en múltiples pasos reduce errores y aumenta la confianza en las decisiones.",
+    "Definir claramente las fases y roles desde el inicio ahorra retrabajo.",
+    "La comunicación temprana con agentes especializados acelera la entrega.",
+    "Es importante establecer expectativas realistas para generación de assets.",
+    "La coordinación en dependencias y deadlines reduce riesgos de retraso.",
+    "Documentar en los briefs y checklists ayuda a mantener la calidad y coherencia."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -537,5 +542,5 @@
     "Podría mejorar en la planificación de la comunicación para reducir tiempos y mejorar el seguimiento.",
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo."
   ],
-  "lastUpdated": "2026-05-12T18:54:18.257Z"
+  "lastUpdated": "2026-05-12T18:54:40.437Z"
 }
