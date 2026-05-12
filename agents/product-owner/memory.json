@@ -329,6 +329,12 @@
       "issueNumber": 27,
       "outcome": "ready",
       "timestamp": "2026-05-12T18:38:36.113Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 46,
+      "outcome": "ready",
+      "timestamp": "2026-05-12T18:42:24.726Z"
     }
   ],
   "learnedPatterns": [
@@ -487,5 +493,5 @@
     "Podría reforzar la comunicación en fases previas para evitar ambiguidades en alcance.",
     "Podría ajustar el timing para validar los documentos antes del cierre final."
   ],
-  "lastUpdated": "2026-05-12T18:42:01.074Z"
+  "lastUpdated": "2026-05-12T18:42:24.899Z"
 }
