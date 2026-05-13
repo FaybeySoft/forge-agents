@@ -98,7 +98,8 @@
     "Proporcionó alternativas y documentación clara.",
     "Confirmó la intención de producir y documentar el brief en el plazo acordado.",
     "Preparó un draft alineado a criterios definidos y entregas en paths concretos.",
-    "Produjo fixtures y plan de pruebas detallados, con foco en cobertura."
+    "Produjo fixtures y plan de pruebas detallados, con foco en cobertura.",
+    "Preparó una explicación clara y en español de las reglas mínimas para los validadores."
   ],
   "areasToImprove": [
     "Podría anticipar más las restricciones del repo para evitar propuestas que requieran crear nuevas carpetas.",
@@ -111,8 +112,9 @@
     "Podría aportar más en la estimación de costes y en la elaboración de resumen ejecutivo.",
     "Debería anticipar posibles ambigüedades en las fuentes para mayor precisión.",
     "Mejorar en la documentación de dependencias y marcar claramente los items cubiertos.",
-    "Podría mejorar la documentación en línea y la comunicación de dependencias."
+    "Podría mejorar la documentación en línea y la comunicación de dependencias.",
+    "Podría añadir ejemplos concretos y casos de prueba como referencia."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T05:33:11.467Z"
+  "lastUpdated": "2026-05-13T05:56:07.675Z"
 }
