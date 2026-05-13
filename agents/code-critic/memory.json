@@ -322,6 +322,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:30:37.953Z",
       "summary": "Oh, what fresh drivel — someone waved a \"fix\" flag (PR #161) and hoped for fairy dust. I inspected the repo, the tests, and the audit artifacts. Below — a focused, merciless audit that answers your checklist point‑by‑point and gives a concrete remedi..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 170,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:36:24.986Z",
+      "summary": "Resumen ejecutivo (rápido): 1) Sí: hay riesgo real de XSS por JSON‑LD si cualquier sitio escribe application/ld+json con contenido no procesado. 2) Solución propuesta: deep‑escape de TODAS las strings antes de JSON.stringify + mantener post‑serialize..."
     }
   ],
   "learnedPatterns": [],
@@ -428,5 +435,5 @@
     "Podría mejorar en sugerir patches específicos o código de ejemplo en respuestas para acelerar la corrección."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:30:52.157Z"
+  "lastUpdated": "2026-05-13T07:36:25.287Z"
 }
