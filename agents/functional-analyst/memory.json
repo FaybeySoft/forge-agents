@@ -638,6 +638,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:41:21.429Z",
       "summary": "Plan de consultas (Fase 1): [\"code-critic\", \"seo-expert\"] ACTION (cite_agent) — code-critic — request: \"Confirmar riesgos de seguridad en PRs que activan CI: 1) listar rutas con uso de dangerouslySetInnerHTML o serialización JSON-LD insegura; 2) conf..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 139,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:43:09.725Z",
+      "summary": "Plan de consulta (fase 1): [\"code-critic\", \"seo-expert\", \"lily-ux\"] CITAS (una por agente, acción solicitada): - action=\"cite_agent\" — code-critic — Request: \"Ejecuta localmente los tests en app/test/jsonld.* con vitest (comando exacto), confirma si ..."
     }
   ],
   "learnedPatterns": [],
@@ -789,5 +796,5 @@
     "Podría adelantarse a involucrarse en la creación de artefactos desde las primeras fases.",
     "Mayor énfasis en definir criterios y límites claros para escalación."
   ],
-  "lastUpdated": "2026-05-13T06:41:32.036Z"
+  "lastUpdated": "2026-05-13T06:43:10.056Z"
 }
