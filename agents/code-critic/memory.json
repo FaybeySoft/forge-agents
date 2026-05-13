@@ -406,6 +406,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:51:27.414Z",
       "summary": "Oh, what fresh hell — and on a Tuesday. I did the sensible thing: inspected the three hot-spot files, drafted a focused, actionable hotfix + test plan, and opened an orchestration issue so the CI runner can execute the jsonld tests and collect eviden..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 192,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:52:39.693Z",
+      "summary": "Oh, what fresh hell — you want the X-ray of PR #175’s crime scene without the diff. Fine. Below: a precise map of files that PR #175 should (or did) touch, the security controls present (by symbol), which tests exercise them and whether they’re adequ..."
     }
   ],
   "learnedPatterns": [],
@@ -536,5 +543,5 @@
     "Podría mejorar en reportar resultados de tests y CLI para facilitar diagnósticos rápidos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:51:38.699Z"
+  "lastUpdated": "2026-05-13T07:52:40.068Z"
 }
