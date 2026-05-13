@@ -715,6 +715,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:39:22.943Z",
       "summary": "1) Plan (resumen ejecutivo) 1. Según los requisitos y la memoria del proyecto, entrego una especificación funcional completa para endurecer la serialización JSON‑LD y centralizar el único sink que use dangerouslySetInnerHTML: app/lib/seo/json-ld.ts y..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 178,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:43:31.879Z",
+      "summary": "Plan (fase 1 — consultas): [\"code-critic\", \"lily-ux\", \"security-auditor\"] action=\"cite_agent\" — code-critic — request: \"Por favor valida en ≤24h que los comandos propuestos (npm ci, npx vitest --testNamePattern=jsonld) reproducen los tests listados e..."
     }
   ],
   "learnedPatterns": [],
@@ -886,5 +893,5 @@
     "Podría incluir ejemplos específicos en los criterios de aceptación para mayor precisión.",
     "Podría haber anticipado mejor los riesgos de XSS y sugerir más directamente las protecciones."
   ],
-  "lastUpdated": "2026-05-13T07:39:38.651Z"
+  "lastUpdated": "2026-05-13T07:43:32.486Z"
 }
