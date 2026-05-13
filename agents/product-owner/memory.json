@@ -996,7 +996,11 @@
     "Es muy importante tener evidencia concreta y tests automatizados antes de aprobar cambios en código crítico.",
     "La coordinación y consulta en fases tempranas previene errores y ahorra tiempo en revisiones.",
     "La planificación y documentación clara de entregables facilitan la trazabilidad y cumplimiento de requisitos de seguridad.",
-    "La participación de especialistas (analistas, código, SEO, seguridad) en fases diferentes asegura una revisión completa y sin sorpresas."
+    "La participación de especialistas (analistas, código, SEO, seguridad) en fases diferentes asegura una revisión completa y sin sorpresas.",
+    "Es fundamental tener evidencia reproducible y diff claro en tests para validar cobertura efectiva.",
+    "La coordinación temprana entre análisis técnico, seguridad y SEO reduce riesgos de falsa seguridad.",
+    "Priorizar auditoría manual y automatizada en PRs críticos asegura mayor calidad en entregables de seguridad.",
+    "Los checklists y evidencias claras simplifican la revisión y verifican la completitud del trabajo."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1044,5 +1048,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:37:16.552Z"
+  "lastUpdated": "2026-05-13T07:37:24.200Z"
 }
