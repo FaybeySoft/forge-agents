@@ -853,7 +853,11 @@
     "La documentación de artefactos en carpetas específicas y en formatos unificados agiliza la verificación y el seguimiento de las tareas.",
     "Los tests automatizados en CI son esenciales para validar correcciones y evitar regresiones en seguridad.",
     "Una comunicación clara y concreta en las consultas ahorra tiempo y garantiza entregables útiles.",
-    "La contratación de expertos especializados es clave para tareas críticas como auditorías de seguridad, especialmente cuando PRs están vacíos o son superficiales."
+    "La contratación de expertos especializados es clave para tareas críticas como auditorías de seguridad, especialmente cuando PRs están vacíos o son superficiales.",
+    "La coordinación en fases permite integrar impactos de SEO, seguridad y funcionalidad.",
+    "Tests SSR son clave para validar seguridad sin dependencia en DOM emulado en CI.",
+    "Mantener artefactos y fixtures en paths existentes evita complejidad adicional en estructura repo.",
+    "Priorizar la comunicación estructurada y documentada previene retrabajos y desconexiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -897,5 +901,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:37:56.602Z"
+  "lastUpdated": "2026-05-13T06:38:17.149Z"
 }
