@@ -980,7 +980,11 @@
     "Mapear callers y definir criterios antes de modificar código crítico facilita la seguridad.",
     "Coordinar con SEO y seguridad en fases tempranas evita retrabajos y riesgos de compatibilidad.",
     "Limitar el alcance a archivos clave reduce la complejidad y errores.",
-    "La comunicación clara y la definición de criterios verificables son esenciales en pruebas de seguridad."
+    "La comunicación clara y la definición de criterios verificables son esenciales en pruebas de seguridad.",
+    "Es muy importante tener evidencia concreta y tests automatizados antes de aprobar cambios en código crítico.",
+    "La coordinación y consulta en fases tempranas previene errores y ahorra tiempo en revisiones.",
+    "La planificación y documentación clara de entregables facilitan la trazabilidad y cumplimiento de requisitos de seguridad.",
+    "La participación de especialistas (analistas, código, SEO, seguridad) en fases diferentes asegura una revisión completa y sin sorpresas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1028,5 +1032,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:36:40.975Z"
+  "lastUpdated": "2026-05-13T07:36:49.405Z"
 }
