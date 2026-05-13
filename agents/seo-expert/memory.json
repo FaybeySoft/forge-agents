@@ -302,6 +302,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T05:37:17.162Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente — responder UNA VEZ por favor): - action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta) los exports relevantes..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 96,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T05:40:27.173Z",
+      "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica la ruta exacta si ya existe) estos exports para los últimos 6 meses: 1) Search Console — top 20 queries (CSV: query, clic..."
     }
   ],
   "learnedPatterns": [],
@@ -381,5 +388,5 @@
     "Debe ampliar las reglas SEO para cubrir casos edge y mejorar el formato del feedback en los comentarios.",
     "No entregó todavía los thresholds definitivos ni el snippet de CI, lo que retrasó la confirmación."
   ],
-  "lastUpdated": "2026-05-13T05:37:27.557Z"
+  "lastUpdated": "2026-05-13T05:40:27.934Z"
 }
