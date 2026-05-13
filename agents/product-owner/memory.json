@@ -455,6 +455,12 @@
       "issueNumber": 86,
       "outcome": "ready",
       "timestamp": "2026-05-13T05:32:05.199Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 87,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:32:52.626Z"
     }
   ],
   "learnedPatterns": [
@@ -701,5 +707,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:32:21.882Z"
+  "lastUpdated": "2026-05-13T05:32:53.032Z"
 }
