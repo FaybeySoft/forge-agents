@@ -579,7 +579,10 @@
     "El esfuerzo en definir criterios claros desde inicio facilita automatizaciones y bloqueos efectivos.",
     "Reusar patrones existentes ahorra tiempo y mantiene coherencia en el proyecto.",
     "La coordinación temprana con todos los agentes reduce retrabajos y malentendidos.",
-    "No crear carpetas raíz nuevas en PR evita problemas en políticas del repo y simplifica migraciones."
+    "No crear carpetas raíz nuevas en PR evita problemas en políticas del repo y simplifica migraciones.",
+    "Priorizar la consulta a agentes especializados en fases tempranas ayuda a resolver riesgos complejos más rápido.",
+    "Una planificación secuencial y clara evita retrabajos y malas interpretaciones.",
+    "Definir entregables y ubicaciones en el repo desde el inicio mantiene la estructura y facilita revisiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -615,5 +618,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:13:32.532Z"
+  "lastUpdated": "2026-05-13T05:13:37.381Z"
 }
