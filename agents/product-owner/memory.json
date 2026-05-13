@@ -721,7 +721,11 @@
     "La comunicación clara y la documentación rigurosa en artifacts/audit son clave para la trazabilidad y la confianza en el proceso.",
     "Tareas de auditoría en seguridad y SEO deben planificarse con antelación y en fases ordenadas para mayor eficiencia.",
     "La documentación automática y los artefactos claros en un repositorio ayudan a mantener un historial de decisiones y evidencia.",
-    "La colaboración entre agentes especializados permite identificar y mitigar riesgos rápidamente y con mayor precisión."
+    "La colaboración entre agentes especializados permite identificar y mitigar riesgos rápidamente y con mayor precisión.",
+    "Definir claramente los criterios antes de empezar ahorra retrabajos.",
+    "Mantener estructura de artefactos en carpetas existentes facilita la integración.",
+    "Es fundamental que los agentes aporten detalles técnicos precisos.",
+    "Los sub-tasks para el desarrollo técnico agilizan la entrega de especificaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -761,5 +765,5 @@
     "Podría mejorar en documentar más los pasos intermedios, especialmente las decisiones previas para futuros reviews.",
     "Podría fortalecer la comunicación en los entregables intermedios."
   ],
-  "lastUpdated": "2026-05-13T05:47:18.433Z"
+  "lastUpdated": "2026-05-13T05:47:34.508Z"
 }
