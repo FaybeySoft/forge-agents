@@ -217,6 +217,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:17:55.418Z",
       "summary": "Ah, splendid — you summoned me to tidy up the mess. Short version: the repo already contains the right mitigation pattern (JSON.stringify + escaping + SafeJsonLd wrapper) and test harnesses, but there is a subtle bug that breaks escaping for U+2028 /..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 126,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:29:42.121Z",
+      "summary": "Oh, delightful — another surgical strike to stop JSON‑LD from being a XSS canvas. Below: a compact, actionable test+CI plan (≤300 words) with exact test paths, assertions and minimal CI changes. Implement the new safe wrapper at app/components/seo/js..."
     }
   ],
   "learnedPatterns": [],
@@ -291,5 +298,5 @@
     "Sería útil integrar automáticamente el reporte en los workflows de CI para mayor eficiencia."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:18:09.389Z"
+  "lastUpdated": "2026-05-13T06:29:42.293Z"
 }
