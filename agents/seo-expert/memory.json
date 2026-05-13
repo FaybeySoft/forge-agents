@@ -525,6 +525,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:48:40.787Z",
       "summary": "Plan: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports de los últimos 6 meses que usamos habitualmente: 1) Search Console — top 20 queri..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 189,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:51:29.335Z",
+      "summary": "Plan: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una vez cada agente): - action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la ruta exacta) los exports de los últimos 6 meses usados habitualmente: 1) Search Con..."
     }
   ],
   "learnedPatterns": [],
@@ -668,5 +675,5 @@
     "Debería ofrecer más recomendaciones de tests específicos y automáticos.",
     "Debería participar en más fases para validar también impactos de accesibilidad y rendimiento."
   ],
-  "lastUpdated": "2026-05-13T07:48:58.486Z"
+  "lastUpdated": "2026-05-13T07:51:29.697Z"
 }
