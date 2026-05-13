@@ -976,7 +976,11 @@
     "El uso de agentes especializados centraliza conocimientos y reduce errores humanos.",
     "Es fundamental validar y sanitizar en puntos críticos (app/lib/seo/) antes de cualquier exposición, especialmente en datos estructurados.",
     "Definir y automatizar tests de inyección XSS en JSON-LD ayuda a detectar vulnerabilidades de forma temprana.",
-    "La comunicación clara y el bloqueo de cambios sin evidencia fortalecen la seguridad y la calidad del producto."
+    "La comunicación clara y el bloqueo de cambios sin evidencia fortalecen la seguridad y la calidad del producto.",
+    "Mapear callers y definir criterios antes de modificar código crítico facilita la seguridad.",
+    "Coordinar con SEO y seguridad en fases tempranas evita retrabajos y riesgos de compatibilidad.",
+    "Limitar el alcance a archivos clave reduce la complejidad y errores.",
+    "La comunicación clara y la definición de criterios verificables son esenciales en pruebas de seguridad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1024,5 +1028,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:36:23.288Z"
+  "lastUpdated": "2026-05-13T07:36:40.975Z"
 }
