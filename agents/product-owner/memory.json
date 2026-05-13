@@ -1041,7 +1041,11 @@
     "Las auditorías forenses externas y automatizadas revelan falsos positivos o incompatibilidades sutiles que no se detectan manualmente.",
     "La coordinación entre agentes en fases y la recopilación de evidencias en artefactos promueve diagnósticos rápidos y soluciones seguras.",
     "La documentación previa de las convenciones del proyecto agiliza la identificación de desviaciones y la implementación de parches mínimos.",
-    "Es crucial validar la compatibilidad del código y los tests tras cambios en componentes críticos de la estructura de datos JSON-LD."
+    "Es crucial validar la compatibilidad del código y los tests tras cambios en componentes críticos de la estructura de datos JSON-LD.",
+    "La validación automatizada y los tests de integración son críticos para prevenir vulnerabilidades XSS en casos complejos.",
+    "La participación temprana de todos los stakeholders, incluyendo seguridad y UX, evita retrabajo y riesgo en producción.",
+    "Definir claramente las restricciones en un solo componente reduce errores y aumenta la seguridad.",
+    "El uso de scripts para verificaciones ayuda a mantener la seguridad en procesos de despliegue continuo."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1089,5 +1093,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:43:58.884Z"
+  "lastUpdated": "2026-05-13T07:44:18.493Z"
 }
