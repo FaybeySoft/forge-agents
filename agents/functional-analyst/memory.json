@@ -582,6 +582,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:30:22.106Z",
       "summary": "Plan de consulta y resumen ejecutivo: 1) Plan (agentes a consultar, en orden): [\"code-critic\", \"seo-expert\", \"lily-ux\"] - Solicitud a code-critic: por favor revisa rápidamente los tests existentes app/test/jsonld.* y confirma si hay falsos-positivos ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 125,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:31:21.696Z",
+      "summary": "Plan (fase 1 — consultas) 1) code-critic 2) seo-expert 3) lily-ux ACTION: cite_agent — code-critic — Request: \"Revisar el mapa y los snippets propuestos abajo. Confirma 1) pasos mínimos de reproducción para XSS en JSON-LD (payloads típicos); 2) si la..."
     }
   ],
   "learnedPatterns": [],
@@ -719,5 +726,5 @@
     "Podría precisar más sobre los límites técnicos del sistema en la primera petición.",
     "Podría mejorar la anticipación en las etapas de definición para reducir la necesidad de múltiples consultas."
   ],
-  "lastUpdated": "2026-05-13T06:30:33.218Z"
+  "lastUpdated": "2026-05-13T06:31:21.868Z"
 }
