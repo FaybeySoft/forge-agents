@@ -569,7 +569,11 @@
     "Definir claramente los criterios de validación (URLs absolutas) desde inicio ahorra errores.",
     "Crear helpers y utilidades de forma determinista permite reutilización y consistencia.",
     "Los tests unitarios y de integración son esenciales para verificar que no se vuelvan URLs relativas en el output.",
-    "Una escucha activa y coordinación en fases secuenciales agiliza el proceso de normalización y validación."
+    "Una escucha activa y coordinación en fases secuenciales agiliza el proceso de normalización y validación.",
+    "El esfuerzo en definir criterios claros desde inicio facilita automatizaciones y bloqueos efectivos.",
+    "Reusar patrones existentes ahorra tiempo y mantiene coherencia en el proyecto.",
+    "La coordinación temprana con todos los agentes reduce retrabajos y malentendidos.",
+    "No crear carpetas raíz nuevas en PR evita problemas en políticas del repo y simplifica migraciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -603,5 +607,5 @@
     "Podría mejorar en la priorización de consultas para reducir tiempos y optimizar el flujo.",
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad."
   ],
-  "lastUpdated": "2026-05-13T05:07:21.668Z"
+  "lastUpdated": "2026-05-13T05:07:27.177Z"
 }
