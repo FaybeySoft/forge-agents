@@ -428,7 +428,8 @@
     "Validó riesgos SEO y propuso pasos rápidos para cambios en imágenes y JSON-LD.",
     "Confirmó que las validaciones no afectan la semántica SEO de los JSON-LD.",
     "Validó impacto en indexación y aportó conocimientos detallados sobre escapes en JSON-LD.",
-    "Proporcionó un plan de consulta eficiente, enfocando en riesgos SEO y structured data."
+    "Proporcionó un plan de consulta eficiente, enfocando en riesgos SEO y structured data.",
+    "Coordinar con el equipo y definir claramente los pasos finales de verificación de schema y snippets en Google Rich Results."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -476,7 +477,8 @@
     "Podría mejorar en comunicar riesgos en formatos más visuales y en métricas específicas.",
     "Debería revisar también los impactos en las métricas de Core Web Vitals.",
     "Podría ofrecer ejemplos concretos de fallos de SEO relacionados con escapes no controlados.",
-    "Podría colaborar más en la validación final del contenido técnico en lugar de solo definir la fase 1."
+    "Podría colaborar más en la validación final del contenido técnico en lugar de solo definir la fase 1.",
+    "Ser más proactivo en detectando edge cases que puedan afectar los esquemas y marcas estructurales."
   ],
-  "lastUpdated": "2026-05-13T06:31:25.028Z"
+  "lastUpdated": "2026-05-13T06:31:36.156Z"
 }
