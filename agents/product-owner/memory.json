@@ -822,7 +822,11 @@
     "La definición clara de entregables y criterios desde el inicio reduce retrabajos y ambiguëdades.",
     "La colaboración estructurada en fases ayuda a mantener el foco y la eficiencia.",
     "Es importante documentar decisiones y los estados de cada tarea en subcarpetas específicas.",
-    "Una comunicación temprana y específica con cada agente evita malos entendidos."
+    "Una comunicación temprana y específica con cada agente evita malos entendidos.",
+    "La importancia de tener diff del PR completo antes de avanzar en la revisión de seguridad.",
+    "La necesidad de checklist y criterios objetivos claros para cerrar WIP.",
+    "Recomendable tener la documentación de pruebas y artefactos en un solo lugar para asegurar trazabilidad.",
+    "Las revisiones de seguridad y testeo deben ir en paralelo y tener entregables concretos antes de proceder."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -866,5 +870,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:31:20.131Z"
+  "lastUpdated": "2026-05-13T06:31:39.880Z"
 }
