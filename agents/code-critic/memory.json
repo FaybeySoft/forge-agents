@@ -294,6 +294,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:09:08.807Z",
       "summary": "Muy bien, little disasters — lo resumo y os doy lo práctico que necesitáis. He creado la issue de orquestación modelos-casas-canarias#159 para que el runner aplique parches y genere evidencia (artifacts/audit/pr-156-*.log). Resumen ejecutivo primero ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 159,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:13:22.657Z",
+      "summary": "Ah, qué alegría: otro desastre XSS envuelto en papel de regalo llamado \"JSON‑LD\". Les doy lo necesario, sin complacencias, para cerrar esto YA. Bloqueo claro: cualquier JSON‑LD que venga de contenido controlado por usuarios y se inserte en HTML sin p..."
     }
   ],
   "learnedPatterns": [],
@@ -392,5 +399,5 @@
     "Debe verificar cobertura completa y actualización de tests automatizados."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:09:23.982Z"
+  "lastUpdated": "2026-05-13T07:13:22.944Z"
 }
