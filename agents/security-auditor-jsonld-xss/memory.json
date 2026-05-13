@@ -1,0 +1,16 @@
+{
+  "agentSlug": "security-auditor-jsonld-xss",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 200,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:58:17.442Z"
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-05-13T07:58:17.629Z"
+}
