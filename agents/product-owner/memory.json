@@ -615,7 +615,11 @@
     "Las consultas en fases definen mejor los requisitos y minimizan retrabajos.",
     "Es fundamental tener reglas claras y automatizables en pipelines para evitar bloqueos manuales.",
     "Mantener documentación actualizada y estructurada ayuda a la repetibilidad.",
-    "El trabajo en equipo, con roles definidos y comunicación transparente, acelera procesos."
+    "El trabajo en equipo, con roles definidos y comunicación transparente, acelera procesos.",
+    "El proceso en fases con verificación de assets, análisis técnico y validación UX evita pérdidas y revisiones reactivas.",
+    "La comunicación clara y la asignación de tareas específicas reducen errores y mejoran la eficiencia.",
+    "Incorporar verificaciones automáticas en CI favorece mantenibilidad y escalabilidad.",
+    "Es clave establecer un orden de consultas y respetar las dependencias para cerrar issues de forma definitiva."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -651,5 +655,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:18:40.921Z"
+  "lastUpdated": "2026-05-13T05:18:52.823Z"
 }
