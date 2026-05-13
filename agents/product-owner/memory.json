@@ -1143,7 +1143,10 @@
     "Limitar agentes a los críticos en fases iniciales ahorra tiempo y enfoca esfuerzos.",
     "Definir criterios claros y mapas de callsites ayuda a detectar errores en frameworks complejos.",
     "Reproducir localmente los tests y auditorías antes de implementar cambios asegura calidad y seguridad.",
-    "Mantener documentación y artefactos en rutas estándar facilita auditorías y revisiones futuras."
+    "Mantener documentación y artefactos en rutas estándar facilita auditorías y revisiones futuras.",
+    "La colaboración escalonada y la definición de criterios verificables son esenciales en cambios críticos de seguridad.",
+    "Priorizar cambios mínimos y refactorizaciones en componentes clave reduce riesgos y facilita las revisiones.",
+    "Es importante coordinar con especialistas en SEO y UX para evitar impactos en la visibilidad y usabilidad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1195,5 +1198,5 @@
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial.",
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests."
   ],
-  "lastUpdated": "2026-05-13T07:59:37.762Z"
+  "lastUpdated": "2026-05-13T08:00:01.284Z"
 }
