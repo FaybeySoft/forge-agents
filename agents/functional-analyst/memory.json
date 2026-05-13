@@ -463,6 +463,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T05:26:57.513Z",
       "summary": "Resumen ejecutivo y plan (según los requisitos): 1) Conclusión rápida: La tabla Markdown (docs/triage/palmares-assets-inventory.md) CUBRE semánticamente las filas y columnas del CSV (docs/triage/palmares-assets-inventory.csv) y conserva el orden. Sin..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 86,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T05:32:07.156Z",
+      "summary": "[Sub-tarea #89: Spec: Deliverable y criterios de aceptación para workflow semanal de publicación (blog-publish.yml)] PLAN y consultas (fase 1) 1) plan: [\"seo-expert\", \"lily-ux\", \"chandler\"] 2) cite_agent: seo-expert -> Por favor confirmar: ¿los thres..."
     }
   ],
   "learnedPatterns": [],
@@ -574,5 +581,5 @@
     "Podría ofrecer ejemplos más específicos en los comandos para mayor automatización.",
     "Podría mejorar en detallar más los casos borde y escenarios límite en los informes de evaluación."
   ],
-  "lastUpdated": "2026-05-13T05:27:05.564Z"
+  "lastUpdated": "2026-05-13T05:32:07.517Z"
 }
