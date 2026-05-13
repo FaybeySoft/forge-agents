@@ -126,6 +126,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T05:32:10.732Z",
       "summary": "Ah, Chandler — finalmente algo útil que hacer un lunes por la mañana. He aquí una propuesta técnica, concisa y digna de producción para el workflow .github/workflows/blog-publish.yml. Léelo, aplícalo y evita que GitHub se convierta en un crítico dema..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 87,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:32:57.785Z",
+      "summary": "Ah, maravilloso: vais a permitir que contribuyentes publiquen artículos y esperáis que nada explote. Muy bien — voy a ser conciso, afilado y útil. Resumen directo en español con justificaciones técnicas, riesgos y mitigaciones. Luego: comandos exacto..."
     }
   ],
   "learnedPatterns": [],
@@ -172,5 +179,5 @@
     "Debería unificar en una sola propuesta los aspectos técnicos y casos de fallo para facilitar la implementación."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T05:32:20.356Z"
+  "lastUpdated": "2026-05-13T05:32:57.937Z"
 }
