@@ -695,6 +695,12 @@
       "issueNumber": 191,
       "outcome": "ready",
       "timestamp": "2026-05-13T07:48:36.521Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 189,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:51:23.487Z"
     }
   ],
   "learnedPatterns": [
@@ -1127,5 +1133,5 @@
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales.",
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial."
   ],
-  "lastUpdated": "2026-05-13T07:49:02.144Z"
+  "lastUpdated": "2026-05-13T07:51:23.701Z"
 }
