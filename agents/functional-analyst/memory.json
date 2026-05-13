@@ -815,7 +815,8 @@
     "Elaboró un plan de consulta claro y priorizó aspectos críticos para seguridad.",
     "Proporcionó un análisis claro y una diferenciación precisa de criterios y tests.",
     "Proporcionó especificaciones claras y completó las entregas en tiempo y forma.",
-    "Proporcionó la checklist paso a paso e instrucciones claras para montar el harness SSR."
+    "Proporcionó la checklist paso a paso e instrucciones claras para montar el harness SSR.",
+    "Análisis detallado y diagnóstico preciso de los artefactos y fallos en tests relacionados con la exportación JSON-LD."
   ],
   "areasToImprove": [
     "Anticipar posibles casos extremos",
@@ -900,7 +901,8 @@
     "Debería solicitar desde el inicio entregables específicos y checklist para facilitar revisión.",
     "Podría incluir ejemplos específicos en los criterios de aceptación para mayor precisión.",
     "Podría haber anticipado mejor los riesgos de XSS y sugerir más directamente las protecciones.",
-    "Podría mejorar la estimación de tiempos y la documentación de los comandos específicos para evitar dudas."
+    "Podría mejorar la estimación de tiempos y la documentación de los comandos específicos para evitar dudas.",
+    "Incluir validaciones automáticas en la etapa de integración continua para detectar incompatibilidades de exportación."
   ],
-  "lastUpdated": "2026-05-13T07:43:46.014Z"
+  "lastUpdated": "2026-05-13T07:43:50.905Z"
 }
