@@ -750,6 +750,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:47:00.868Z",
       "summary": "Plan de consultas (fase 1): [\"code-critic\",\"seo-expert\",\"lily-ux\"] ACTION: cite_agent — code-critic — Request: Ejecuta los tests vitest relacionados con jsonld y devuelve: 1) lista de tests que fallan localmente (paths y mensajes), 2) comando exacto ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 191,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:48:38.273Z",
+      "summary": "Resumen ejecutivo y decisión (rápida): 1) Recomendación (elige UNA opción): - Recomiendo opción 1: cambiar ensureSafeJsonLd para aceptar unknown (objeto|string) y que la función se encargue de serializar/validar/escapar. Justificación: según los requ..."
     }
   ],
   "learnedPatterns": [],
@@ -929,5 +936,5 @@
     "Podría colaborar más estrechamente en la integración con los tests automatizados.",
     "Podría reducir la latencia en la entrega de información previa y mejorar el análisis de dependencias."
   ],
-  "lastUpdated": "2026-05-13T07:47:12.819Z"
+  "lastUpdated": "2026-05-13T07:48:38.663Z"
 }
