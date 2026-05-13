@@ -1122,7 +1122,11 @@
     "Priorizar la ejecución de tests automatizados y cobertura en la fase inicial reduce riesgos en producción.",
     "La colaboración con agentes especializados permite detectar rápidamente problemas y proponer mejoras concretas.",
     "Definir objetivos de cobertura con métricas claras ayuda a medir el éxito de las auditorías y tests automáticos.",
-    "Mantener un foco en línea y ramas sin cobertura o con fallos críticos es prioritario para mejorar la seguridad y fiabilidad."
+    "Mantener un foco en línea y ramas sin cobertura o con fallos críticos es prioritario para mejorar la seguridad y fiabilidad.",
+    "La auditoría especializada y los tests automáticos son imprescindibles para prevenir vulnerabilidades graves en seguridad.",
+    "La centralización y automatización en sanitización y renderizado evita riesgos de XSS y mejora el mantenimiento.",
+    "Definir procesos claros de revisión y consulta en fases anticipa problemas y resguarda la calidad.",
+    "El trabajo coordinado entre analistas, desarrolladores y auditores reduce retrabajos y aumenta la confianza en los cambios."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1174,5 +1178,5 @@
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial.",
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests."
   ],
-  "lastUpdated": "2026-05-13T07:58:09.313Z"
+  "lastUpdated": "2026-05-13T07:58:33.290Z"
 }
