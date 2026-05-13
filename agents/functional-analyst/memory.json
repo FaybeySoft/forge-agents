@@ -575,6 +575,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:29:38.991Z",
       "summary": "Plan de consulta (fase 1) 1) seo-expert 2) code-critic 3) lily-ux ACTION: cite_agent — seo-expert — Request: \"Confirmar si escapar determinista en JSON-LD (p. ej. '<' -> '\\\\u003c', U+2028/U+2029 -> '\\\\u2028'/'\\\\u2029') afecta negativamente al parsing..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 124,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:30:22.106Z",
+      "summary": "Plan de consulta y resumen ejecutivo: 1) Plan (agentes a consultar, en orden): [\"code-critic\", \"seo-expert\", \"lily-ux\"] - Solicitud a code-critic: por favor revisa rápidamente los tests existentes app/test/jsonld.* y confirma si hay falsos-positivos ..."
     }
   ],
   "learnedPatterns": [],
@@ -710,5 +717,5 @@
     "Podría mejorar en anticipar riesgos potenciales en ambientes de integración continua.",
     "Podría precisar más sobre los límites técnicos del sistema en la primera petición."
   ],
-  "lastUpdated": "2026-05-13T06:29:39.350Z"
+  "lastUpdated": "2026-05-13T06:30:22.320Z"
 }
