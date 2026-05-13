@@ -586,7 +586,8 @@
     "Colaboró en definir criterios de seguridad sin romper la validación SEO y schema.",
     "Proporcionó scripts y heurísticas claras, así como payloads recomendados, facilitando la detección y análisis en los logs.",
     "Revisión técnica exhaustiva del impacto en motores de búsqueda y detección del posible impacto del parche en la visibilidad SEO.",
-    "Aportó validaciones de compatibilidad y campañas de normalización SEO."
+    "Aportó validaciones de compatibilidad y campañas de normalización SEO.",
+    "Aportó criterios claros y criterios de compatibilidad SEO que aseguraron la integridad del contenido estructurado."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -653,7 +654,8 @@
     "Debería ayudar también en validar la indexación tras cambios en JSON-LD.",
     "Podría incluir ejemplos de fallos comunes y cómo detectarlos con mayor precisión.",
     "Proponer mejoras automáticas en la integración de datos estructurados para evitar errores en la detección.",
-    "Ser más proactivo en detectar no solo fallos de seguridad, sino impactos en rich snippets y datos estructurados."
+    "Ser más proactivo en detectar no solo fallos de seguridad, sino impactos en rich snippets y datos estructurados.",
+    "Requiere una revisión más profunda de la integración de datos y su impacto en el rendimiento."
   ],
-  "lastUpdated": "2026-05-13T07:47:05.962Z"
+  "lastUpdated": "2026-05-13T07:47:08.937Z"
 }
