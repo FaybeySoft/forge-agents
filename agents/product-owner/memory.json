@@ -892,7 +892,12 @@
     "Las verificaciones autom\u0000e1ticas, aunque costosas, previenen fallos graves.",
     "La colaboración en fases tempranas con agentes especializados reduce retrabajos y mejora la calidad.",
     "Documentar los criterios y las verificaciones desde inicio es clave para verificar antes de avanzar.",
-    "Las verificaciones automáticas en CI/CD son esenciales para detectar vulnerabilidades y errores de forma continua."
+    "Las verificaciones automáticas en CI/CD son esenciales para detectar vulnerabilidades y errores de forma continua.",
+    "Es fundamental definir claramente las reglas de triage y escalamiento para evitar trabajos duplicados o mal enfocados.",
+    "Copiar y adaptar workflows existentes acelera la integración, pero requiere pruebas exhaustivas para evitar errores.",
+    "La firma humana previa a cambios críticos ayuda a prevenir riesgos y errores en producción.",
+    "Automatizar las validaciones en CI, incluyendo chequeos de seguridad y riesgos, mejora significativamente la calidad del código.",
+    "Coordinar con agentes especializados en seguridad, CI y arquitectura técnica reduce la carga en el PO y asegura mejores entregables."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -938,5 +943,5 @@
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes.",
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones."
   ],
-  "lastUpdated": "2026-05-13T06:41:20.209Z"
+  "lastUpdated": "2026-05-13T06:41:36.817Z"
 }
