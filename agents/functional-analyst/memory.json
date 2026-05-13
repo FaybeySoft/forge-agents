@@ -505,6 +505,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T05:40:30.862Z",
       "summary": "Resumen ejecutivo: 1 párrafo: El hallazgo HIGH reportado por code-critic (posible XSS vía JSON-LD sin escape) está documentado en artefactos existentes y representa un riesgo real para la seguridad y la trazabilidad de cierre de los issues #39/#40/#4..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 94,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:43:05.219Z",
+      "summary": "Plan de consulta (fase 1): [seo-expert, lily-ux, code-critic] ACTION: cite_agent — seo-expert — Request: \"Confirmar si hay reglas SEO que obliguen a incluir <script type=\\\"application/ld+json\\\"> con JSON sin transformar; indicar campos que deben perm..."
     }
   ],
   "learnedPatterns": [],
@@ -624,5 +631,5 @@
     "Podría mejorar en definir mejor los critérios técnicos específicos de validación de imágenes.",
     "Podría mejorar la especificidad de los criterios de impacto y recomendaciones de corrección."
   ],
-  "lastUpdated": "2026-05-13T05:40:41.385Z"
+  "lastUpdated": "2026-05-13T05:43:05.564Z"
 }
