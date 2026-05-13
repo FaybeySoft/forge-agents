@@ -1132,7 +1132,12 @@
     "La auditoría especializada y los tests automáticos son imprescindibles para prevenir vulnerabilidades graves en seguridad.",
     "La centralización y automatización en sanitización y renderizado evita riesgos de XSS y mejora el mantenimiento.",
     "Definir procesos claros de revisión y consulta en fases anticipa problemas y resguarda la calidad.",
-    "El trabajo coordinado entre analistas, desarrolladores y auditores reduce retrabajos y aumenta la confianza en los cambios."
+    "El trabajo coordinado entre analistas, desarrolladores y auditores reduce retrabajos y aumenta la confianza en los cambios.",
+    "La revisión automatizada y evidencia reproducible previene errores críticos en seguridad y compatibilidad.",
+    "Limitar agentes a los críticos en fases iniciales ahorra tiempo y enfoca esfuerzos.",
+    "Definir criterios claros y mapas de callsites ayuda a detectar errores en frameworks complejos.",
+    "Reproducir localmente los tests y auditorías antes de implementar cambios asegura calidad y seguridad.",
+    "Mantener documentación y artefactos en rutas estándar facilita auditorías y revisiones futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1184,5 +1189,5 @@
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial.",
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests."
   ],
-  "lastUpdated": "2026-05-13T07:59:15.653Z"
+  "lastUpdated": "2026-05-13T07:59:35.546Z"
 }
