@@ -1112,7 +1112,11 @@
     "La centralización en un componente único de JSON-LD facilita control y mantiene la seguridad en renderizado.",
     "Revisar protocolos peligrosos en entradas JSON en lugar de solo en strings puede evitar vectores de ataque.",
     "Implementar fail-fast en detecciones de referencia circular y ataques de protocolo previene propagación del problema.",
-    "Es importante validar exhaustivamente los tests y artefactos antes del merge y contar con revisión formal de seguridad para cambios que manipulan datos estructurados."
+    "Es importante validar exhaustivamente los tests y artefactos antes del merge y contar con revisión formal de seguridad para cambios que manipulan datos estructurados.",
+    "Priorizar la ejecución de tests automatizados y cobertura en la fase inicial reduce riesgos en producción.",
+    "La colaboración con agentes especializados permite detectar rápidamente problemas y proponer mejoras concretas.",
+    "Definir objetivos de cobertura con métricas claras ayuda a medir el éxito de las auditorías y tests automáticos.",
+    "Mantener un foco en línea y ramas sin cobertura o con fallos críticos es prioritario para mejorar la seguridad y fiabilidad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1164,5 +1168,5 @@
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial.",
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests."
   ],
-  "lastUpdated": "2026-05-13T07:57:21.537Z"
+  "lastUpdated": "2026-05-13T07:57:23.557Z"
 }
