@@ -500,7 +500,8 @@
     "Proporcionó un mapeo completo de call-sites y priorización de parches efectivos.",
     "Evaluó correctamente los aspectos de riesgo XSS y la mitigación.",
     "Excelente en validar impacto SEO y especificar qué campos deben permanecer sin escapar.",
-    "Sus recomendaciones aseguraron que la solución mantiene los rich snippets y desempeño SEO."
+    "Sus recomendaciones aseguraron que la solución mantiene los rich snippets y desempeño SEO.",
+    "Validó que los cambios en JSON-LD mantienen la integridad del marcado estructurado y no rompen la SEO."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -557,7 +558,8 @@
     "Podría mejorar en estimar tiempos y recursos para parcheo manual si los parches existentes fallan.",
     "Podría ampliar el análisis a otros esquemas y puntos de inyección.",
     "Podría haber involucrado antes en análisis técnico profundo.",
-    "Podría incluir también validaciones en herramientas de análisis SEO y tests automáticos."
+    "Podría incluir también validaciones en herramientas de análisis SEO y tests automáticos.",
+    "Debería incluir en futuras revisiones las implicaciones en rendimiento y carga en la página."
   ],
-  "lastUpdated": "2026-05-13T07:24:28.670Z"
+  "lastUpdated": "2026-05-13T07:24:40.845Z"
 }
