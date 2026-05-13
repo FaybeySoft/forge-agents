@@ -119,6 +119,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T05:26:58.979Z",
       "summary": "Oh, qué maravilla — otra semilla de bug lista para florecer en producción si no la cortamos de raíz. Voy a ser breve, preciso y deliciosamente cruel: aquí tienes la suite mínima de casos de prueba, las aserciones exactas en estilo Jest/TS pseudocódig..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 86,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T05:32:10.732Z",
+      "summary": "Ah, Chandler — finalmente algo útil que hacer un lunes por la mañana. He aquí una propuesta técnica, concisa y digna de producción para el workflow .github/workflows/blog-publish.yml. Léelo, aplícalo y evita que GitHub se convierta en un crítico dema..."
     }
   ],
   "learnedPatterns": [],
@@ -163,5 +170,5 @@
     "Debería incluir más casos extremos y verificar la integración con diferentes formatos de URL y delimitadores."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T05:27:06.925Z"
+  "lastUpdated": "2026-05-13T05:32:10.997Z"
 }
