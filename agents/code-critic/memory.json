@@ -224,6 +224,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:29:42.121Z",
       "summary": "Oh, delightful — another surgical strike to stop JSON‑LD from being a XSS canvas. Below: a compact, actionable test+CI plan (≤300 words) with exact test paths, assertions and minimal CI changes. Implement the new safe wrapper at app/components/seo/js..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 124,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:30:25.123Z",
+      "summary": "Bien. He leído el barrizal y lo he convertido en instrucciones limpias, parches y pruebas. A continuación tienes todo en español, directo y sin poesía inútil. Guarda esto tal cual en artifacts/audit/jsonld-security-review.md y prepara la PR con los p..."
     }
   ],
   "learnedPatterns": [],
@@ -300,5 +307,5 @@
     "Debe reforzar la integración continua para detectar automáticamente vulnerabilidades en futuros cambios."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:29:52.799Z"
+  "lastUpdated": "2026-05-13T06:30:25.415Z"
 }
