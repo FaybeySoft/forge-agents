@@ -260,7 +260,8 @@
     "Proporcionó un plan técnico claro y accionable, identificando los pasos precisos para parchear y verificar los problemas.",
     "Proporciona revisiones exhaustivas y checklist claros para verificar PR, y comparte evidencias verificables.",
     "Revisó aspectos de seguridad, XSS y secretos con detalle y evidencia.",
-    "Identificó la vulnerabilidad técnica y proporcionó un plan claro para los parches."
+    "Identificó la vulnerabilidad técnica y proporcionó un plan claro para los parches.",
+    "Propuso un plan de pruebas claro, con niveles específicos (unit, SSR, XSS) que guían el proceso."
   ],
   "areasToImprove": [
     "Podría dar más ejemplos de patrones en diferentes contextos del repo para mayor cobertura.",
@@ -295,8 +296,9 @@
     "Podría ofrecer más detalles en los comandos específicos o snippets para facilitar la implementación.",
     "Debería integrar más pruebas automáticas para disminuir tareas manuales.",
     "Podría mejorar en reducir el uso de sarcasmo junto a feedback técnico para mayor claridad.",
-    "Sería útil integrar automáticamente el reporte en los workflows de CI para mayor eficiencia."
+    "Sería útil integrar automáticamente el reporte en los workflows de CI para mayor eficiencia.",
+    "Debe reforzar la integración continua para detectar automáticamente vulnerabilidades en futuros cambios."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:29:42.293Z"
+  "lastUpdated": "2026-05-13T06:29:52.799Z"
 }
