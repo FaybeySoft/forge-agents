@@ -460,7 +460,8 @@
     "Coordinar con el equipo y definir claramente los pasos finales de verificación de schema y snippets en Google Rich Results.",
     "Revisó con precisión los vectores en JSON-LD y confirmó las mitigaciones aplicadas.",
     "Validó impacto en indexación y puntuación SEO, asegurando compatibilidad.",
-    "Validó correctamente la estrategia de escape y aseguró la cobertura de ensureSafeJsonLd."
+    "Validó correctamente la estrategia de escape y aseguró la cobertura de ensureSafeJsonLd.",
+    "Propuestas de snippets y reglas concretas para integración."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -512,7 +513,8 @@
     "Ser más proactivo en detectando edge cases que puedan afectar los esquemas y marcas estructurales.",
     "Podría mejorar en identificar condiciones de escape no cubiertas por los parches actuales.",
     "Podría contribuir con recomendaciones sobre mejorEscaping en serialización para mayor seguridad.",
-    "Debería tener mayor participación en la fase de planificación para definir scope y cobertura en etapas tempranas."
+    "Debería tener mayor participación en la fase de planificación para definir scope y cobertura en etapas tempranas.",
+    "Debe mantener una comunicación más proactiva en la coordinación con workflows."
   ],
-  "lastUpdated": "2026-05-13T06:41:23.326Z"
+  "lastUpdated": "2026-05-13T06:41:33.423Z"
 }
