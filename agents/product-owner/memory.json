@@ -927,7 +927,12 @@
     "Centralizar funciones de sanitización en ensureSafeJsonLd ayuda a mitigar XSS.",
     "Requiere colaboración automática para recuperación de evidencia y ejecución de tests en CI.",
     "Es importante bloquear merges sin evidencia concreta de mitigación y cobertura de pruebas.",
-    "La coordinación entre agentes especializados mejora la calidad del análisis y seguridad."
+    "La coordinación entre agentes especializados mejora la calidad del análisis y seguridad.",
+    "Coordinar desde el inicio con FA, SEO y code-critic es clave para evitar regresiones.",
+    "Documentar y validar impactos SEO antes de aplicar cambios asegura compatibilidad.",
+    "La centralización de serialización y uso de componentes unificados reducen riesgos de seguridad.",
+    "La comunicación clara y los checklists facilitan revisar y cerrar issues de seguridad.",
+    "Es importante mantener bloqueos robustos en merge hasta completar validaciones y logs."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -975,5 +980,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:13:31.405Z"
+  "lastUpdated": "2026-05-13T07:13:38.207Z"
 }
