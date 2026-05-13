@@ -699,7 +699,10 @@
     "La definición de artefactos y criterios claros desde temprano facilita mucho la validación automatizada.",
     "Es fundamental alinear a todos los agentes en los umbrales y reglas antes de tocar scripts y pipelines.",
     "La comunicación en fases y la consulta estructurada mejora la coordinación y evita retrabajos.",
-    "Mantener los artefactos en ubicaciones conocidas y estándares del repo ayuda a automatizar verificaciones."
+    "Mantener los artefactos en ubicaciones conocidas y estándares del repo ayuda a automatizar verificaciones.",
+    "Es crucial evaluar siempre el escaping en generación de JSON para evitar inyecciones de scripts.",
+    "La colaboración rápida entre seguridad, SEO y desarrollo permite abordar vulnerabilidades efectivamente.",
+    "El uso de checklists y artefactos estructurados reduce errores y mejora la trazabilidad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -739,5 +742,5 @@
     "Podría mejorar en documentar más los pasos intermedios, especialmente las decisiones previas para futuros reviews.",
     "Podría fortalecer la comunicación en los entregables intermedios."
   ],
-  "lastUpdated": "2026-05-13T05:40:22.788Z"
+  "lastUpdated": "2026-05-13T05:40:36.993Z"
 }
