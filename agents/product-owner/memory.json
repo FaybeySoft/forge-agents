@@ -702,7 +702,11 @@
     "Mantener los artefactos en ubicaciones conocidas y estándares del repo ayuda a automatizar verificaciones.",
     "Es crucial evaluar siempre el escaping en generación de JSON para evitar inyecciones de scripts.",
     "La colaboración rápida entre seguridad, SEO y desarrollo permite abordar vulnerabilidades efectivamente.",
-    "El uso de checklists y artefactos estructurados reduce errores y mejora la trazabilidad."
+    "El uso de checklists y artefactos estructurados reduce errores y mejora la trazabilidad.",
+    "Es fundamental definir claramente los criterios de aceptación y entregables desde el inicio para agilizar las verificaciones.",
+    "La colaboración temprana con agentes especializados evita retrasos y reduce riesgos.",
+    "Automatizar verificaciones y mantener artefactos en un formato estandarizado facilita futuras auditorías y revisiones.",
+    "La comunicación clara y la documentación rigurosa en artifacts/audit son clave para la trazabilidad y la confianza en el proceso."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -742,5 +746,5 @@
     "Podría mejorar en documentar más los pasos intermedios, especialmente las decisiones previas para futuros reviews.",
     "Podría fortalecer la comunicación en los entregables intermedios."
   ],
-  "lastUpdated": "2026-05-13T05:40:36.993Z"
+  "lastUpdated": "2026-05-13T05:40:44.035Z"
 }
