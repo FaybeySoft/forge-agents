@@ -329,6 +329,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:36:24.986Z",
       "summary": "Resumen ejecutivo (rápido): 1) Sí: hay riesgo real de XSS por JSON‑LD si cualquier sitio escribe application/ld+json con contenido no procesado. 2) Solución propuesta: deep‑escape de TODAS las strings antes de JSON.stringify + mantener post‑serialize..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 171,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:36:30.976Z",
+      "summary": "Ah, qué calamidad predecible. He inspeccionado el código y he lanzado la orquestación para que ejecute pruebas y capture evidencias (issue creada: modelos-casas-canarias#176). Resumen ejecutivo: la función ensureSafeJsonLd existe y aplica escapes raz..."
     }
   ],
   "learnedPatterns": [],
@@ -435,5 +442,5 @@
     "Podría mejorar en sugerir patches específicos o código de ejemplo en respuestas para acelerar la corrección."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:36:25.287Z"
+  "lastUpdated": "2026-05-13T07:36:31.261Z"
 }
