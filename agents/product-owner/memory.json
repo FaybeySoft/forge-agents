@@ -1000,7 +1000,11 @@
     "Es fundamental tener evidencia reproducible y diff claro en tests para validar cobertura efectiva.",
     "La coordinación temprana entre análisis técnico, seguridad y SEO reduce riesgos de falsa seguridad.",
     "Priorizar auditoría manual y automatizada en PRs críticos asegura mayor calidad en entregables de seguridad.",
-    "Los checklists y evidencias claras simplifican la revisión y verifican la completitud del trabajo."
+    "Los checklists y evidencias claras simplifican la revisión y verifican la completitud del trabajo.",
+    "La consulta estructurada en fases con agentes especializados asegura decisiones informadas y balanceadas.",
+    "Definir criterios y tests claros desde el inicio ayuda a evitar retrabajos y incrementa la confianza en la implementación.",
+    "El incluir reglas automáticas en CI para detectar peligros de seguridad ahorra inspecciones manuales y refuerza la seguridad.",
+    "Mantener compatibilidad hacia atrás es clave para no romper integraciones existentes y facilitar migraciones controladas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1048,5 +1052,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:37:24.200Z"
+  "lastUpdated": "2026-05-13T07:37:36.827Z"
 }
