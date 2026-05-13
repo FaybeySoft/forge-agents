@@ -46,13 +46,15 @@
     "Reprodujo y confirmó los hallazgos de XSS, aportando evidencia técnica verificable.",
     "Proveyó un análisis exhaustivo, y sus artefactos sonClear y reproducibles.",
     "Aún no participó directamente, pero en futuras auditorías la expectativa es análisis profundo y evidencia reproducible.",
-    "Se enfocó en evidencias reproducibles, reforzando la confianza en la cobertura."
+    "Se enfocó en evidencias reproducibles, reforzando la confianza en la cobertura.",
+    "Evaluación profunda y generación de PoC que fortalecen la seguridad del sistema."
   ],
   "areasToImprove": [
     "Requiere mejorar la rapidez en la entrega de los informes y la integración con CI.",
     "Debe ser contratado formalmente para integrarse en los escaneos automáticos.",
     "Se recomienda definir claramente entregables y criterios en la auditoría para coherencia y trazabilidad.",
-    "Podría definir métricas de threshold más claras y realizar auditorías preliminares."
+    "Podría definir métricas de threshold más claras y realizar auditorías preliminares.",
+    "Recomendaciones sobre el impacto en performance y compatibilidad que se podrían comunicar mejor."
   ],
-  "lastUpdated": "2026-05-13T07:44:01.255Z"
+  "lastUpdated": "2026-05-13T07:44:13.416Z"
 }
