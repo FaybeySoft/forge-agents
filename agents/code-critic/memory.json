@@ -434,6 +434,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:58:12.794Z",
       "summary": "Oh, qué sorpresa — más salsa de XSS en la cocina. En términos llanos, la base del problema es infantil y predecible: ensureSafeJsonLd espera una cadena y llama JSON.parse(preSerialized), mientras que multitud de tests y consumidores le lanzan objetos..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 201,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:59:19.130Z",
+      "summary": "Oh, what fresh hell is this — JSON‑LD that expects to be coddled like a prima donna and instead trips over its own API. I inspected the code and tests in-repo and, because I am merciful, I created a concrete orchestration task so an actual runner can..."
     }
   ],
   "learnedPatterns": [],
@@ -572,5 +579,5 @@
     "Debería consolidar una guía de pruebas automatizadas específicas y mejorar la integración con CI."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:58:27.791Z"
+  "lastUpdated": "2026-05-13T07:59:19.298Z"
 }
