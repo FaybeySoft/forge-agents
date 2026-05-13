@@ -1037,7 +1037,11 @@
     "Una coordinación temprana entre analistas, revisores y expertos en SEO mejora la eficiencia y precisión de los entregables.",
     "Definir comandos, estructuras y criterios de bloqueo por adelantado evita retrabajos y facilita la ejecución en CI/CD.",
     "La documentación clara y los scripts automáticos reproducibles son clave para auditorías técnicas confiables.",
-    "Involucrar a todos los agentes en fases tempranas para validar hipótesis reduce riesgos en la implementación."
+    "Involucrar a todos los agentes en fases tempranas para validar hipótesis reduce riesgos en la implementación.",
+    "Las auditorías forenses externas y automatizadas revelan falsos positivos o incompatibilidades sutiles que no se detectan manualmente.",
+    "La coordinación entre agentes en fases y la recopilación de evidencias en artefactos promueve diagnósticos rápidos y soluciones seguras.",
+    "La documentación previa de las convenciones del proyecto agiliza la identificación de desviaciones y la implementación de parches mínimos.",
+    "Es crucial validar la compatibilidad del código y los tests tras cambios en componentes críticos de la estructura de datos JSON-LD."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1085,5 +1089,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:43:54.788Z"
+  "lastUpdated": "2026-05-13T07:43:58.884Z"
 }
