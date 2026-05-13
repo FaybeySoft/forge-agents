@@ -412,7 +412,8 @@
     "Validó que el escaping no rompe el SEO ni la parseabilidad y propuso tests específicos.",
     "Claramente supo comunicar las áreas de impacto y entregó un plan con entregables concretos para cerrar PR #103.",
     "Validó riesgos SEO y propuso pasos rápidos para cambios en imágenes y JSON-LD.",
-    "Confirmó que las validaciones no afectan la semántica SEO de los JSON-LD."
+    "Confirmó que las validaciones no afectan la semántica SEO de los JSON-LD.",
+    "Validó impacto en indexación y aportó conocimientos detallados sobre escapes en JSON-LD."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -458,7 +459,8 @@
     "Debería anticipar mayor integración con las validaciones automáticas del pipeline.",
     "Podría mejorar en la integración con los tests automáticos y la evidencia de CI para mayor trazabilidad.",
     "Podría mejorar en comunicar riesgos en formatos más visuales y en métricas específicas.",
-    "Debería revisar también los impactos en las métricas de Core Web Vitals."
+    "Debería revisar también los impactos en las métricas de Core Web Vitals.",
+    "Podría ofrecer ejemplos concretos de fallos de SEO relacionados con escapes no controlados."
   ],
-  "lastUpdated": "2026-05-13T06:29:41.066Z"
+  "lastUpdated": "2026-05-13T06:29:50.866Z"
 }
