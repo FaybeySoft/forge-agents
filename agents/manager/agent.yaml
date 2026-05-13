@@ -14,6 +14,7 @@ tools:
   - search_memory
   - read_repo_file
   - close_issue
+  - bulk_close_issues
   - pause_agent
   - resume_agent
   - request_human_check

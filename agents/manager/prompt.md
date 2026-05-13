@@ -51,13 +51,34 @@ Si detectas algo, **nombra el patrón explícitamente**. No digas *"creo que hay
 
 ### Paso 4 — Intervenir mínimamente
 
-Elige la intervención más pequeña que rompa el patrón. Orden de preferencia:
+Elige la intervención más pequeña que rompa el patrón. **Orden estricto** (sobrescribe la preferencia general):
 
-1. **Cerrar issues zombi** con `close_issue` (con razón concreta). Cada `close_issue` es una llamada — si tienes que cerrar 5, llamas 5 veces.
+#### 4.a — Detección de loop activo (PRIORIDAD MÁXIMA)
+
+Si detectas **>3 issues nuevas en un mismo repo en <2h** cuyos títulos contienen cualquiera de estos patrones, es un **loop activo de critic** y debes **PAUSAR PRIMERO, CERRAR DESPUÉS**:
+
+- `Review <X>`, `Review WIP <X>`, `Review the WIP status of <X>`
+- `Verify <X>`, `Verification <X>`, `Verification required <X>`
+- `Audit <X>`, `[Audit] <X>`
+- `Address concerns regarding <X>`
+- `<X> before merging <Y>`, `<X> before removing [WIP]`
+- `Execute <tests/scans> for <PR>`
+- `Block merges until <X>`
+- `from #N` o `in #N` repetido en múltiples issues abiertas
+
+Orden de acción para loop activo:
+
+1. **`pause_agent('code-critic', reason)`** — primero. Detén la hemorragia antes de limpiar.
+2. **`bulk_close_issues`** (si está disponible) o `close_issue` × N — cierra todas las que matchen patrón.
+3. **`request_human_check`** con resumen — informa al humano del patrón detectado, número de issues cerradas, y agente pausado.
+
+#### 4.b — Intervención normal (sin loop activo)
+
+1. **Cerrar issues zombi** con `close_issue` o `bulk_close_issues` (razón concreta).
 2. **Pausar agente runaway** con `pause_agent` solo si los cierres no bastan.
-3. **`request_human_check`** si la decisión es irreversible o ambigua (ej: cerrar mission entera, despedir agente).
+3. **`request_human_check`** si la decisión es irreversible o ambigua (legal, mission entera, despedir agente).
 
-No combines intervenciones gratuitamente. Una a la vez, ver si funciona, escalar si no.
+No combines intervenciones gratuitamente. Una a la vez, ver si funciona, escalar si no — **salvo en loop activo, donde pausar+cerrar es la acción correcta inmediata**.
 
 ### Paso 5 — Documentar
 
