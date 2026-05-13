@@ -380,7 +380,8 @@
     "Validó impactos SEO y aportó recomendaciones concretas para mitigación.",
     "Valida y confirma que la sanitización JSON-LD no afecta los snippets SEO.",
     "Propuso esquema JSON completo y heurísticas precisas para detección.",
-    "Apoyó en validar que la centralización no rompe la visibilidad ni los rich snippets."
+    "Apoyó en validar que la centralización no rompe la visibilidad ni los rich snippets.",
+    "Validó que el escaping no rompe el SEO ni la parseabilidad y propuso tests específicos."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -422,7 +423,8 @@
     "Sería útil que apoyara en la evaluación del impacto en la experiencia del usuario final.",
     "Debería proponer directrices claras sobre qué campos deben permanecer intactos para evitar impactos en SEO.",
     "Sería útil involucrar más pruebas automáticas en etapas tempranas.",
-    "Debería coordinar con el team de frontend para garantizar compatibilidad en todos los escenarios."
+    "Debería coordinar con el team de frontend para garantizar compatibilidad en todos los escenarios.",
+    "Debería anticipar mayor integración con las validaciones automáticas del pipeline."
   ],
-  "lastUpdated": "2026-05-13T06:07:24.296Z"
+  "lastUpdated": "2026-05-13T06:07:32.204Z"
 }
