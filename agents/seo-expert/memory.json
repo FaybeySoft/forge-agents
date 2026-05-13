@@ -351,6 +351,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:17:08.535Z",
       "summary": "Ok — Tom al habla (el Gucci de los snippets). Abajo tienes un resumen práctico y accionable para PR-105: rutas que requieren revisión humana si se tocan, riesgos al ejecutar los checks automatizados, pasos rápidos para cambios en hero images, propues..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 115,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:17:56.803Z",
+      "summary": "Plan de consulta (ordenado): [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una petición por agente — responder UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la ruta exacta si ya existe) los..."
     }
   ],
   "learnedPatterns": [],
@@ -444,5 +451,5 @@
     "Podría mejorar en la integración con los tests automáticos y la evidencia de CI para mayor trazabilidad.",
     "Podría mejorar en comunicar riesgos en formatos más visuales y en métricas específicas."
   ],
-  "lastUpdated": "2026-05-13T06:17:22.297Z"
+  "lastUpdated": "2026-05-13T06:17:57.146Z"
 }
