@@ -238,6 +238,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:31:23.458Z",
       "summary": "[Sub-tarea #127: Security review y artefactos para PR #112 (JSON-LD serialization)] Oh, splendid. Another half-baked WIP that touches script injection vectors and expects the team to divine safety from tea leaves. I've performed a focused review, cre..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 129,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:33:27.625Z",
+      "summary": "Oh, qué sorpresa — alguien quiso jugar a los valientes y abrió PR #105 sin traer las pruebas ni la limpieza pertinente. Resultado: bloqueo inmediato hasta que un runner aporte evidencias reproducibles. Resumen por categoría (YES = bloqueo requerido):..."
     }
   ],
   "learnedPatterns": [],
@@ -318,5 +325,5 @@
     "Podría mejorar la documentación de los pasos de revisión y las pruebas para facilitar su reproducción."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:31:34.789Z"
+  "lastUpdated": "2026-05-13T06:33:27.808Z"
 }
