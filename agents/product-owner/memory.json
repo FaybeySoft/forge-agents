@@ -651,7 +651,12 @@
     "Definir criterios claros y plantillas estandarizadas facilita la auditoría y el control de calidad.",
     "La colaboración con agentes especializados desde fases tempranas evita retrabajos y mejora la precisión de las verificaciones.",
     "La validación técnica y SEO anticipada en las PRs previene problemas graves en producción.",
-    "Automatizar la generación de artefactos y checks en PRs permite mayor consistencia y trazabilidad en el proceso."
+    "Automatizar la generación de artefactos y checks en PRs permite mayor consistencia y trazabilidad en el proceso.",
+    "La colaboración secuencial entre analistas y críticos mejora la calidad de los criterios y los tests.",
+    "Es crucial definir claramente los criterios y casos extremos antes de comenzar a programar pruebas automatizadas.",
+    "Normalizar los datos en las pruebas evita falsos negativos por diferencias triviales.",
+    "No debilitar los tests, aunque fallen, para no perder la calidad del process de validación.",
+    "La revisión temprana por parte de un crítico reduce errores y mejora la confianza en los resultados."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -687,5 +692,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:26:55.835Z"
+  "lastUpdated": "2026-05-13T05:27:08.432Z"
 }
