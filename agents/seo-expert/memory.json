@@ -356,7 +356,8 @@
     "Contribuyó con reglas concretas y thresholds para validaciones SEO, añadiendo valor técnico.",
     "Adelantó reglas y formatos clave para los checklists y comments.",
     "Respondió con claridad y propuso umbrales concretos para validar en el pipeline.",
-    "Validó impactos SEO y aportó recomendaciones concretas para mitigación."
+    "Validó impactos SEO y aportó recomendaciones concretas para mitigación.",
+    "Valida y confirma que la sanitización JSON-LD no afecta los snippets SEO."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -395,7 +396,8 @@
     "Podría ofrecer ejemplos de scripts o comandos específicos para integrar en el workflow.",
     "Debe ampliar las reglas SEO para cubrir casos edge y mejorar el formato del feedback en los comentarios.",
     "No entregó todavía los thresholds definitivos ni el snippet de CI, lo que retrasó la confirmación.",
-    "Sería útil que apoyara en la evaluación del impacto en la experiencia del usuario final."
+    "Sería útil que apoyara en la evaluación del impacto en la experiencia del usuario final.",
+    "Debería proponer directrices claras sobre qué campos deben permanecer intactos para evitar impactos en SEO."
   ],
-  "lastUpdated": "2026-05-13T05:43:07.234Z"
+  "lastUpdated": "2026-05-13T05:43:17.434Z"
 }
