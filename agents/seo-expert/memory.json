@@ -358,6 +358,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:17:56.803Z",
       "summary": "Plan de consulta (ordenado): [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una petición por agente — responder UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la ruta exacta si ya existe) los..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 126,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:29:40.725Z",
+      "summary": "Plan de consulta (ordenado): [\"amy-fa\", \"lily-ux\", \"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica la ruta exacta si ya existe) los exports de los últimos 6 meses que usamos habitualmente: 1) Sea..."
     }
   ],
   "learnedPatterns": [],
@@ -453,5 +460,5 @@
     "Podría mejorar en comunicar riesgos en formatos más visuales y en métricas específicas.",
     "Debería revisar también los impactos en las métricas de Core Web Vitals."
   ],
-  "lastUpdated": "2026-05-13T06:18:11.039Z"
+  "lastUpdated": "2026-05-13T06:29:41.066Z"
 }
