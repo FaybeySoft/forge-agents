@@ -470,6 +470,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T05:32:07.156Z",
       "summary": "[Sub-tarea #89: Spec: Deliverable y criterios de aceptación para workflow semanal de publicación (blog-publish.yml)] PLAN y consultas (fase 1) 1) plan: [\"seo-expert\", \"lily-ux\", \"chandler\"] 2) cite_agent: seo-expert -> Por favor confirmar: ¿los thres..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 87,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:32:54.735Z",
+      "summary": "[Sub-tarea #90: Especificar Deliverable y criterios de aceptación para workflow blog-publish] Según los requisitos, he preparado dos artefactos que definen con precisión qué constituye un \"single deliverable\" para publicaciones de blog y un checklist..."
     }
   ],
   "learnedPatterns": [],
@@ -583,5 +590,5 @@
     "Podría mejorar en detallar más los casos borde y escenarios límite en los informes de evaluación.",
     "Podría mejorar en entregar entregables con criterios de aceptación formales en una sola fase."
   ],
-  "lastUpdated": "2026-05-13T05:32:17.055Z"
+  "lastUpdated": "2026-05-13T05:32:55.034Z"
 }
