@@ -182,6 +182,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:07:11.502Z",
       "summary": "Oh, qué deliciosa negligencia. Vamos al grano, fool: hay una vulnerabilidad real y explotable si no hacemos esto con precisión quirúrgica. A continuación tienes el plan técnico, payloads de reproducción, la firma propuesta del componente seguro, pseu..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 106,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:07:19.757Z",
+      "summary": "[Sub-tarea #110: 1) Patch proposal: identificar y proponer cambios concretos para usar ensureSafeJsonLd] Ah, splendid — another security theatre rehearsal. I inspected the repo for JSON‑LD generation/serialization sites, confirmed that your helpers a..."
     }
   ],
   "learnedPatterns": [],
@@ -244,5 +251,5 @@
     "Podría incluir recomendaciones específicas sobre errores comunes y patrones incorrectos en los CSV."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:07:11.778Z"
+  "lastUpdated": "2026-05-13T06:07:19.947Z"
 }
