@@ -731,7 +731,11 @@
     "Definir claramente los criterios antes de empezar ahorra retrabajos.",
     "Mantener estructura de artefactos en carpetas existentes facilita la integración.",
     "Es fundamental que los agentes aporten detalles técnicos precisos.",
-    "Los sub-tasks para el desarrollo técnico agilizan la entrega de especificaciones."
+    "Los sub-tasks para el desarrollo técnico agilizan la entrega de especificaciones.",
+    "Es eficiente definir claramente las opciones del parser y validaciones antes de proceder a cambios.",
+    "Una consulta rápida a expertos en seguridad y validación ayuda a prevenir problemas futuros.",
+    "Documentar decisiones y opciones de configuración del parser facilita su integración en workflows más estrictos.",
+    "Revisar los CSV de referencia y los tests existentes en la misma rama de cambios evita inconsistencias en la validación."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -773,5 +777,5 @@
     "Podría fortalecer la comunicación en los entregables intermedios.",
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación."
   ],
-  "lastUpdated": "2026-05-13T05:56:09.162Z"
+  "lastUpdated": "2026-05-13T05:56:11.176Z"
 }
