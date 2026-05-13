@@ -832,7 +832,11 @@
     "La importancia de tener diff del PR completo antes de avanzar en la revisión de seguridad.",
     "La necesidad de checklist y criterios objetivos claros para cerrar WIP.",
     "Recomendable tener la documentación de pruebas y artefactos en un solo lugar para asegurar trazabilidad.",
-    "Las revisiones de seguridad y testeo deben ir en paralelo y tener entregables concretos antes de proceder."
+    "Las revisiones de seguridad y testeo deben ir en paralelo y tener entregables concretos antes de proceder.",
+    "La automatización en verificaciones reduce errores de merge primarios.",
+    "Una buena documentación y etiquetado previene mergeos improvisados.",
+    "Es necesario un proceso claro y verificable antes de permitir cambios en producción o integración.",
+    "La colaboración con analistas y críticos ayuda a definir checklists efectivos y acciones concretas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -876,5 +880,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:33:24.502Z"
+  "lastUpdated": "2026-05-13T06:33:42.332Z"
 }
