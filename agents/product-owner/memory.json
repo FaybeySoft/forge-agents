@@ -662,7 +662,10 @@
     "Es crucial definir claramente los criterios y casos extremos antes de comenzar a programar pruebas automatizadas.",
     "Normalizar los datos en las pruebas evita falsos negativos por diferencias triviales.",
     "No debilitar los tests, aunque fallen, para no perder la calidad del process de validación.",
-    "La revisión temprana por parte de un crítico reduce errores y mejora la confianza en los resultados."
+    "La revisión temprana por parte de un crítico reduce errores y mejora la confianza en los resultados.",
+    "Es fundamental definir criterios claros y entregables específicos antes de proceder a la automatización.",
+    "La colaboración con agentes especializados agiliza y perfecciona los procesos técnicos.",
+    "Reusar scripts existentes y patrones previos ayuda a mantener coherencia y reducir errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -698,5 +701,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:32:05.547Z"
+  "lastUpdated": "2026-05-13T05:32:21.882Z"
 }
