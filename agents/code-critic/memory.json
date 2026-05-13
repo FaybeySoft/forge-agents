@@ -210,6 +210,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:17:10.101Z",
       "summary": "[Sub-tarea #121: Audit runner y evidencia para PR-105 — ejecutar checks y generar artifacts/audit/pr-105-*] Ah, splendid — another request to run an audit and produce forensic evidence, but alas: I am not your CI runner. I cannot execute shell comman..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 115,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:17:55.418Z",
+      "summary": "Ah, splendid — you summoned me to tidy up the mess. Short version: the repo already contains the right mitigation pattern (JSON.stringify + escaping + SafeJsonLd wrapper) and test harnesses, but there is a subtle bug that breaks escaping for U+2028 /..."
     }
   ],
   "learnedPatterns": [],
@@ -282,5 +289,5 @@
     "Podría mejorar en reducir el uso de sarcasmo junto a feedback técnico para mayor claridad."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:17:23.856Z"
+  "lastUpdated": "2026-05-13T06:17:55.578Z"
 }
