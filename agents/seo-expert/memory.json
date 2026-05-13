@@ -468,7 +468,8 @@
     "Revisó con precisión los vectores en JSON-LD y confirmó las mitigaciones aplicadas.",
     "Validó impacto en indexación y puntuación SEO, asegurando compatibilidad.",
     "Validó correctamente la estrategia de escape y aseguró la cobertura de ensureSafeJsonLd.",
-    "Propuestas de snippets y reglas concretas para integración."
+    "Propuestas de snippets y reglas concretas para integración.",
+    "Proporcionó un mapeo completo de call-sites y priorización de parches efectivos."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -521,7 +522,8 @@
     "Podría mejorar en identificar condiciones de escape no cubiertas por los parches actuales.",
     "Podría contribuir con recomendaciones sobre mejorEscaping en serialización para mayor seguridad.",
     "Debería tener mayor participación en la fase de planificación para definir scope y cobertura en etapas tempranas.",
-    "Debe mantener una comunicación más proactiva en la coordinación con workflows."
+    "Debe mantener una comunicación más proactiva en la coordinación con workflows.",
+    "Podría mejorar en estimar tiempos y recursos para parcheo manual si los parches existentes fallan."
   ],
-  "lastUpdated": "2026-05-13T06:43:13.529Z"
+  "lastUpdated": "2026-05-13T06:43:22.672Z"
 }
