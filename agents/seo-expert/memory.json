@@ -483,6 +483,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:39:26.606Z",
       "summary": "Plan y consultas (fase 1) — Tom Haverford al rescate. Plan: [\"amy-fa\", \"lily-ux\", \"chandler-po\"]. A continuación cito a cada agente UNA VEZ con peticiones concretas. Responder brevemente y subir artefactos cuando corresponda. action=\"cite_agent\" agen..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 178,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:43:36.131Z",
+      "summary": "Aquí tienes el kit completo para que el runner genere artifacts/audit/pr-163-callsites.txt y para montar el harness de serializaciones. Esto es directo, idempotente y listo para pegar en un job CI. RECOMENDADO: usa el script adjunto artifacts/audit/p..."
     }
   ],
   "learnedPatterns": [],
@@ -614,5 +621,5 @@
     "Podría sugerir directrices específicas para incluir en la documentación técnica.",
     "Debería ayudar también en validar la indexación tras cambios en JSON-LD."
   ],
-  "lastUpdated": "2026-05-13T07:39:41.781Z"
+  "lastUpdated": "2026-05-13T07:43:36.387Z"
 }
