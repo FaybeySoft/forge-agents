@@ -1061,7 +1061,12 @@
     "La colaboración temprana entre análisis funcional, seguridad y SEO reduce retrabajo y errores de integración.",
     "La automatización de tests y controles en CI/CD es esencial para prevenir riesgos de seguridad y errores en producción.",
     "Documentar los hallazgos y decisiones en memoria compartida ayuda a mantener coherencia y trazabilidad.",
-    "Es vital priorizar análisis forense y seguridad en cambios que afectan contenido estructurado y API."
+    "Es vital priorizar análisis forense y seguridad en cambios que afectan contenido estructurado y API.",
+    "Es fundamental tener criterios claros y reproducibles antes de solicitar auditorías de seguridad.",
+    "La fase temprana de análisis y pruebas previene riesgos mayores en producción.",
+    "La colaboración en fases iniciales con diferentes roles reduce retrabajos y mejora la seguridad.",
+    "Implementar tests automáticos en CI ayuda a detectar vulnerabilidades rápidamente.",
+    "Un proceso estructurado y con checks claros evita errores costosos en la integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1109,5 +1114,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:47:16.243Z"
+  "lastUpdated": "2026-05-13T07:47:24.167Z"
 }
