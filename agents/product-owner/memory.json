@@ -762,7 +762,11 @@
     "La comunicación temprana entre agentes especializados acelera la resolución.",
     "Es fundamental mantener un inventario actualizado y un plan de acción claro.",
     "Las revisiones de seguridad y SEO deben coordinarse en fases para evitar retrabajos.",
-    "Las rutas y ubicaciones de entregables deben respetar las convenciones existentes para facilitar la integración."
+    "Las rutas y ubicaciones de entregables deben respetar las convenciones existentes para facilitar la integración.",
+    "La revisión técnica y el análisis funcional en conjunto proporcionan un marco más robusto para abordar vulnerabilidades de seguridad.",
+    "Documentar hallazgos en artefactos claros y linkeados en paths (artifacts/audit/) facilita la trazabilidad y el seguimiento.",
+    "Priorizar acciones concretas (parches + tests) y validar con evidencia clara aceleran la validación y cierre de issues.",
+    "La colaboración estructurada y citación eficiente de agentes evita duplicaciones y reduce tiempos de entrega."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -804,5 +808,5 @@
     "Podría fortalecer la comunicación en los entregables intermedios.",
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación."
   ],
-  "lastUpdated": "2026-05-13T06:13:48.511Z"
+  "lastUpdated": "2026-05-13T06:14:09.077Z"
 }
