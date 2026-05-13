@@ -589,6 +589,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:31:21.696Z",
       "summary": "Plan (fase 1 — consultas) 1) code-critic 2) seo-expert 3) lily-ux ACTION: cite_agent — code-critic — Request: \"Revisar el mapa y los snippets propuestos abajo. Confirma 1) pasos mínimos de reproducción para XSS en JSON-LD (payloads típicos); 2) si la..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 129,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:33:25.960Z",
+      "summary": "[Sub-tarea #137: Checklist y templates para bloqueo/verificación de PR #105 y decisión sobre PR #120] Plan (consulta rápida): [security-audit, code-critic, devops] Resumen ejecutivo (veredicto): BLOCKED. Motivo: los artefactos existentes para PR-105 ..."
     }
   ],
   "learnedPatterns": [],
@@ -728,5 +735,5 @@
     "Podría mejorar la anticipación en las etapas de definición para reducir la necesidad de múltiples consultas.",
     "Asegurar que toda la documentación de pruebas quede en artefactos y accesible para cierre."
   ],
-  "lastUpdated": "2026-05-13T06:31:38.184Z"
+  "lastUpdated": "2026-05-13T06:33:26.127Z"
 }
