@@ -568,6 +568,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:17:53.842Z",
       "summary": "Plan de consultas (fase 1) 1) code-critic 2) seo-expert 3) lily-ux Citas (una por agente — requests para cada uno): - action=\"cite_agent\" — code-critic — Request: \"Revisar el snippet actual (app/lib/seo/json-ld.ts + SafeJsonLd creado en artifacts/aud..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 126,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:29:38.991Z",
+      "summary": "Plan de consulta (fase 1) 1) seo-expert 2) code-critic 3) lily-ux ACTION: cite_agent — seo-expert — Request: \"Confirmar si escapar determinista en JSON-LD (p. ej. '<' -> '\\\\u003c', U+2028/U+2029 -> '\\\\u2028'/'\\\\u2029') afecta negativamente al parsing..."
     }
   ],
   "learnedPatterns": [],
@@ -703,5 +710,5 @@
     "Podría mejorar en anticipar riesgos potenciales en ambientes de integración continua.",
     "Podría precisar más sobre los límites técnicos del sistema en la primera petición."
   ],
-  "lastUpdated": "2026-05-13T06:18:07.878Z"
+  "lastUpdated": "2026-05-13T06:29:39.350Z"
 }
