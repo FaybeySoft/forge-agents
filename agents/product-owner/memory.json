@@ -635,7 +635,12 @@
     "La definición clara de criterios y mapeos previo a la commit reduce errores y retrabajos.",
     "Coordinar con agentes especializados en fases tempranas facilita entregables de calidad.",
     "Es fundamental validar que todos los artefactos y assets estén en Paths existentes y conformes antes de hacer commits.",
-    "La comunicación estructurada en checklist y checkpoints mejora la colaboración y eficiencia."
+    "La comunicación estructurada en checklist y checkpoints mejora la colaboración y eficiencia.",
+    "Es crucial definir un agente con credenciales y permisos claros desde fase inicial para reducir cuellos de botella.",
+    "El plan de consulta debe ser ordenado y con tareas específicas para ser efectivo, evitar ad-hoc.",
+    "Automatizar la generación y publicación de artefactos reduce errores y mejora trazabilidad.",
+    "Definir criterios precisos y plantillas desde inicio facilita la automatización y revisiones.",
+    "La coordinación con agentes especializados en permisos y ejecución es esencial para tareas técnicas complejas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -671,5 +676,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:20:32.347Z"
+  "lastUpdated": "2026-05-13T05:20:40.219Z"
 }
