@@ -1101,7 +1101,12 @@
     "Es vital establecer criterios de aceptación precisos y codificables para tareas de seguridad.",
     "La ausencia de diff en PR complica validación técnica rápida.",
     "La auditoría especializada es imprescindible antes de cerrar issues de seguridad.",
-    "Los tests automáticos en `jsonld.*` son clave para detectar vulnerabilidades residuales."
+    "Los tests automáticos en `jsonld.*` son clave para detectar vulnerabilidades residuales.",
+    "La coordinación temprana con agentes especializados (security, code review) reduce riesgos en cambios críticos.",
+    "La centralización en un componente único de JSON-LD facilita control y mantiene la seguridad en renderizado.",
+    "Revisar protocolos peligrosos en entradas JSON en lugar de solo en strings puede evitar vectores de ataque.",
+    "Implementar fail-fast en detecciones de referencia circular y ataques de protocolo previene propagación del problema.",
+    "Es importante validar exhaustivamente los tests y artefactos antes del merge y contar con revisión formal de seguridad para cambios que manipulan datos estructurados."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1151,5 +1156,5 @@
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales.",
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial."
   ],
-  "lastUpdated": "2026-05-13T07:56:01.133Z"
+  "lastUpdated": "2026-05-13T07:56:29.063Z"
 }
