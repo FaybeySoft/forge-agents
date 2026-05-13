@@ -371,6 +371,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:43:34.947Z",
       "summary": "[Sub-tarea #187: Run JSON‑LD SSR & tests audit for PR #163] Ah, what a predictably elegant fiasco — someone decided to rename an export and rename the props contract, then left the tests to fend for themselves. I ran a replica of the requested audit ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 179,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:43:59.643Z",
+      "summary": "Oh, splendid — another JSON‑LD booby trap wrapped in good intentions. I read the plan for PR‑156. It’s directionally correct: centralize JSON‑LD emission, harden ensureSafeJsonLd, and replace ad‑hoc dangerouslySetInnerHTML with a single <JsonLd />. T..."
     }
   ],
   "learnedPatterns": [],
@@ -491,5 +498,5 @@
     "Aumentar la documentación de las dependencias y expectativas del entorno para mejorar los diagnósticos futuros."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:43:49.246Z"
+  "lastUpdated": "2026-05-13T07:43:59.897Z"
 }
