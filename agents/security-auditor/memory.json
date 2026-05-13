@@ -14,6 +14,12 @@
       "issueNumber": 115,
       "outcome": "ready",
       "timestamp": "2026-05-13T06:17:58.315Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 128,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:36:15.652Z"
     }
   ],
   "learnedPatterns": [],
@@ -25,5 +31,5 @@
     "Requiere mejorar la rapidez en la entrega de los informes y la integración con CI.",
     "Debe ser contratado formalmente para integrarse en los escaneos automáticos."
   ],
-  "lastUpdated": "2026-05-13T06:18:12.419Z"
+  "lastUpdated": "2026-05-13T06:36:15.878Z"
 }
