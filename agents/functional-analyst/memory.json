@@ -493,7 +493,8 @@
     "Preparó inventario completo y contribuyó en la evaluación técnica de assets.",
     "Definió claramente el plan de consultas y citas precisas a agentes.",
     "Proporcionó criterios claros y confiables para gating y aceptación.",
-    "Realizó un análisis exhaustivo y propuso un plan claro de consulta en fase 1."
+    "Realizó un análisis exhaustivo y propuso un plan claro de consulta en fase 1.",
+    "Proporcionó criterios de aceptación detallados y mapeo CI→frontmatter con ejemplos útiles."
   ],
   "areasToImprove": [
     "Anticipar posibles casos extremos",
@@ -543,7 +544,8 @@
     "Podría mejorar la priorización para ofrecer resultados clave más rápidamente.",
     "Podría mejorar la consolidación y priorización de requisitos iniciales.",
     "Podría mejorar la documentación de los criterios de gating para ser más accesibles.",
-    "Podría mejorar en la automatización de verificaciones de los PRs para mayor eficiencia."
+    "Podría mejorar en la automatización de verificaciones de los PRs para mayor eficiencia.",
+    "Podría mejorar en la comunicación en tiempo real para facilitar respuestas inmediatas."
   ],
-  "lastUpdated": "2026-05-13T05:18:45.749Z"
+  "lastUpdated": "2026-05-13T05:18:54.858Z"
 }
