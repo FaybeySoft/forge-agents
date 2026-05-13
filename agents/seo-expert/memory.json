@@ -626,7 +626,8 @@
     "Aportó análisis de impacto SEO y validación de schema.org en PR #169.",
     "Evaluó impacto SEO y ayudó a definir alcance en páginas de contenido mediante consultas concretas.",
     "Contribuyó con validaciones y reglas de normalización, aportando un marco técnico sólido.",
-    "Contribuyó con criterio para evaluar impacto SEO en cambios propuestos."
+    "Contribuyó con criterio para evaluar impacto SEO en cambios propuestos.",
+    "Proporcionó un análisis práctico y específico sobre esquemas SEO/schema y propuestas de tests relevantes."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -698,7 +699,8 @@
     "Debería ofrecer más recomendaciones de tests específicos y automáticos.",
     "Debería participar en más fases para validar también impactos de accesibilidad y rendimiento.",
     "Requiere mayor claridad en la definición del shape mínimo y reglas para facilitar la implementación.",
-    "Su análisis fue limitado al alcance SEO y podría colaborar más en aspectos de seguridad."
+    "Su análisis fue limitado al alcance SEO y podría colaborar más en aspectos de seguridad.",
+    "Podría ampliar el foco en casos de validación de URLs absolutas y sanitización XSS en json-ld."
   ],
-  "lastUpdated": "2026-05-13T07:57:09.189Z"
+  "lastUpdated": "2026-05-13T07:57:19.639Z"
 }
