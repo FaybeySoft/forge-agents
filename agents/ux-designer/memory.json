@@ -328,7 +328,8 @@
     "Entregó contenido listo para pegar y documentación clara para la plantilla.",
     "Verificó la preservación de assets con precisión y aportó respaldo visual.",
     "Entrega assets en los formatos y rutas requeridas, asegurando compatibilidad con pipeline.",
-    "Validó que la centralización no afecte la vista previa ni la experiencia de autor."
+    "Validó que la centralización no afecte la vista previa ni la experiencia de autor.",
+    "Validez la usabilidad y riesgos en la interfaz del wrapper JSON-LD."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -368,7 +369,8 @@
     "Podría mejorar la especificación para incluir ejemplos visuales en markdown.",
     "Podría agilizar la respuesta para reducir tiempos en el proceso de cierre.",
     "Podría realizar revisiones más rápidas en la coordinación para no atrasar fases.",
-    "Podría entregar criterios más detallados y específicos, como listas de verificación."
+    "Podría entregar criterios más detallados y específicos, como listas de verificación.",
+    "Podría participar más en revisión de protección ante errores UX y seguridad."
   ],
-  "lastUpdated": "2026-05-13T07:24:13.524Z"
+  "lastUpdated": "2026-05-13T07:47:21.100Z"
 }
