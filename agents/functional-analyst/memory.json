@@ -596,6 +596,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:33:25.960Z",
       "summary": "[Sub-tarea #137: Checklist y templates para bloqueo/verificación de PR #105 y decisión sobre PR #120] Plan (consulta rápida): [security-audit, code-critic, devops] Resumen ejecutivo (veredicto): BLOCKED. Motivo: los artefactos existentes para PR-105 ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 128,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T06:36:10.542Z",
+      "summary": "Entrega: análisis funcional y checklist verificable para PRs #27, #32 y #42 (XSS via JSON-LD). Incluye mapeo de archivos a revisar, criterios de aceptación en formato Given/When/Then, pasos de verificación reproducibles y recomendación de contratació..."
     }
   ],
   "learnedPatterns": [],
@@ -735,5 +742,5 @@
     "Podría mejorar la anticipación en las etapas de definición para reducir la necesidad de múltiples consultas.",
     "Asegurar que toda la documentación de pruebas quede en artefactos y accesible para cierre."
   ],
-  "lastUpdated": "2026-05-13T06:33:26.127Z"
+  "lastUpdated": "2026-05-13T06:36:10.802Z"
 }
