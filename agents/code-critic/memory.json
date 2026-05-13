@@ -301,6 +301,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:13:22.657Z",
       "summary": "Ah, qué alegría: otro desastre XSS envuelto en papel de regalo llamado \"JSON‑LD\". Les doy lo necesario, sin complacencias, para cerrar esto YA. Bloqueo claro: cualquier JSON‑LD que venga de contenido controlado por usuarios y se inserte en HTML sin p..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 162,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:23:55.438Z",
+      "summary": "Oh, what fresh hell — yet another JSON‑LD circus. Your approach is sound but incomplete: accept with two hard requirements added. 1) Deep‑inspect all string values for dangerous URI schemes (javascript:, data:). 2) Server: fail loudly (throw) on malf..."
     }
   ],
   "learnedPatterns": [],
@@ -401,5 +408,5 @@
     "Podría ofrecer recomendaciones de parches y tests más detallados en línea."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:13:36.535Z"
+  "lastUpdated": "2026-05-13T07:23:55.611Z"
 }
