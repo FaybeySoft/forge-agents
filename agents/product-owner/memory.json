@@ -959,7 +959,12 @@
     "Definir claramente las fases y roles en la consulta ayuda a reducir retrabajos y confusiones.",
     "La colaboración temprana con el equipo de seguridad y testing impulsa una implementación más sólida.",
     "Hacer tests en SSR y en cliente es fundamental para detectar riesgos de inseguridad en tiempo de desarrollo.",
-    "Mantener cambios mínimos en componentes críticos facilita la revisión y reduce errores."
+    "Mantener cambios mínimos en componentes críticos facilita la revisión y reduce errores.",
+    "La colaboración entre análisis funcional, revisión técnica y auditoría de seguridad es esencial para evitar riesgos en datos embebidos.",
+    "El uso de agentes especializados centraliza conocimientos y reduce errores humanos.",
+    "Es fundamental validar y sanitizar en puntos críticos (app/lib/seo/) antes de cualquier exposición, especialmente en datos estructurados.",
+    "Definir y automatizar tests de inyección XSS en JSON-LD ayuda a detectar vulnerabilidades de forma temprana.",
+    "La comunicación clara y el bloqueo de cambios sin evidencia fortalecen la seguridad y la calidad del producto."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1007,5 +1012,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:30:34.486Z"
+  "lastUpdated": "2026-05-13T07:30:57.553Z"
 }
