@@ -396,7 +396,8 @@
     "Propuso esquema JSON completo y heurísticas precisas para detección.",
     "Apoyó en validar que la centralización no rompe la visibilidad ni los rich snippets.",
     "Validó que el escaping no rompe el SEO ni la parseabilidad y propuso tests específicos.",
-    "Claramente supo comunicar las áreas de impacto y entregó un plan con entregables concretos para cerrar PR #103."
+    "Claramente supo comunicar las áreas de impacto y entregó un plan con entregables concretos para cerrar PR #103.",
+    "Validó riesgos SEO y propuso pasos rápidos para cambios en imágenes y JSON-LD."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -440,7 +441,8 @@
     "Sería útil involucrar más pruebas automáticas en etapas tempranas.",
     "Debería coordinar con el team de frontend para garantizar compatibilidad en todos los escenarios.",
     "Debería anticipar mayor integración con las validaciones automáticas del pipeline.",
-    "Podría mejorar en la integración con los tests automáticos y la evidencia de CI para mayor trazabilidad."
+    "Podría mejorar en la integración con los tests automáticos y la evidencia de CI para mayor trazabilidad.",
+    "Podría mejorar en comunicar riesgos en formatos más visuales y en métricas específicas."
   ],
-  "lastUpdated": "2026-05-13T06:17:08.877Z"
+  "lastUpdated": "2026-05-13T06:17:22.297Z"
 }
