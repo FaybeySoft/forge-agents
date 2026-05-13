@@ -1092,7 +1092,10 @@
     "La actualización y sincronización de tests relacionados deben planearse desde el principio para garantizar que toda la funcionalidad es cubierta.",
     "La definición clara y cuantificable de requisitos previos reduce retrabajo.",
     "Coordinar secuencias lógicas entre agentes especializados optimiza recursos.",
-    "Es vital establecer criterios de aceptación precisos y codificables para tareas de seguridad."
+    "Es vital establecer criterios de aceptación precisos y codificables para tareas de seguridad.",
+    "La ausencia de diff en PR complica validación técnica rápida.",
+    "La auditoría especializada es imprescindible antes de cerrar issues de seguridad.",
+    "Los tests automáticos en `jsonld.*` son clave para detectar vulnerabilidades residuales."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1142,5 +1145,5 @@
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales.",
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial."
   ],
-  "lastUpdated": "2026-05-13T07:52:38.021Z"
+  "lastUpdated": "2026-05-13T07:52:58.884Z"
 }
