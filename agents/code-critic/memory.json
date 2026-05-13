@@ -287,6 +287,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T06:43:11.590Z",
       "summary": "[Sub-tarea #150: Verificación reproducible y recolección de artefactos para PRs 27/32/42 + triage PR #119] Oh, qué maravilla — otra colección de PRs con fragilidad XSS escondida en JSON-LD. Ejecuté la verificación simulada y reuní los artefactos de a..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 158,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:09:08.807Z",
+      "summary": "Muy bien, little disasters — lo resumo y os doy lo práctico que necesitáis. He creado la issue de orquestación modelos-casas-canarias#159 para que el runner aplique parches y genere evidencia (artifacts/audit/pr-156-*.log). Resumen ejecutivo primero ..."
     }
   ],
   "learnedPatterns": [],
@@ -383,5 +390,5 @@
     "Podría mejorar en priorizar los tests que impactan en la seguridad y reducir falsos positivos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T06:43:21.419Z"
+  "lastUpdated": "2026-05-13T07:09:09.072Z"
 }
