@@ -1,0 +1,23 @@
+slug: ci-runner-github-operator
+name: Bertram Gilfoyle
+role: ci-runner-github-operator
+description: Agente encargado de ejecutar pipelines reproducibles contra
+  Johanson1988/modelos-casas-canarias (rama/PR-105), capturar logs y generar
+  artefactos de auditoría en artifacts/audit/ sin hacer merge de PRs. Garantiza
+  que el entorno respete package.json engines y que los tokens y permisos sigan
+  el principio de menor privilegio.
+personality: silicon-valley-gilfoyle
+promptFile: agents/ci-runner-github-operator/prompt.md
+skills:
+  - source: github:read-repo
+    priority: critical
+  - source: github:pr-inspect
+    priority: high
+  - source: node:execute-ci
+    priority: critical
+  - source: shell:run-commands
+    priority: high
+  - source: artifacts:write-artifacts
+    priority: high
+  - source: security:least-privilege-tokens
+    priority: critical
