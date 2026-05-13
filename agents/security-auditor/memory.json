@@ -51,6 +51,12 @@
       "issueNumber": 184,
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:47:08.951Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 196,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:56:10.228Z"
     }
   ],
   "learnedPatterns": [],
@@ -70,5 +76,5 @@
     "Recomendaciones sobre el impacto en performance y compatibilidad que se podrían comunicar mejor.",
     "Necesita integración más temprana en la planificación inicial para maximizar impacto."
   ],
-  "lastUpdated": "2026-05-13T07:47:14.385Z"
+  "lastUpdated": "2026-05-13T07:56:10.463Z"
 }
