@@ -799,6 +799,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:59:17.178Z",
       "summary": "Plan (fase 1): [\"code-critic\", \"seo-expert\", \"lily-ux\"] ACTION: cite_agent — code-critic — Request: Ejecuta los tests vitest relacionados con jsonld (pattern: \"jsonld\") sobre la rama/PR actual (#182) y devuelve: 1) lista de tests que fallan localment..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 199,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:59:39.041Z",
+      "summary": "[Sub-tarea #216: Acceptance criteria y mapping de callsites para hotfix JSON-LD / ensureSafeJsonLd] Plan de consulta (fase 1) y análisis inicial preparado. Plan: [\"seo-expert\", \"security-auditor\", \"code-critic\", \"lily-ux\"]. action=\"cite_agent\" -> seo..."
     }
   ],
   "learnedPatterns": [],
@@ -990,5 +997,5 @@
     "Podría mejorar en la anticipación de riesgos técnicos específicos como XSS en JSON-LD.",
     "Explicar mejor los callsites y posibles edge cases en la documentación."
   ],
-  "lastUpdated": "2026-05-13T07:59:30.684Z"
+  "lastUpdated": "2026-05-13T07:59:39.211Z"
 }
