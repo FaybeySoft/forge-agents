@@ -803,7 +803,10 @@
     "Una planificación en fases, con consultas especificas y en orden, facilita la colaboración y reduce retrabajos.",
     "La documentación clara en artifacts/, con nombres precisos y ubicaciones coherentes, agiliza la revisión y el cierre de issues.",
     "Automatizar audit logs y resultados en artefactos específicos mantiene la trazabilidad y asegura cumplimiento.\n\nRepetir consulta en orden a los especialistas clave — funcional, técnico y SEO — optimiza la calidad y seguridad del release.",
-    "Incluir tests específicos para edge cases U+2028/U+2029 en los ciclos regulares de CI y revisión previene vulnerabilidades sutiles."
+    "Incluir tests específicos para edge cases U+2028/U+2029 en los ciclos regulares de CI y revisión previene vulnerabilidades sutiles.",
+    "Es vital consultar en orden y definir claramente criterios de aceptación antes de modificar código.",
+    "Las validaciones automáticas y los tests específicos evitan regresiones y mejoran la seguridad.",
+    "Centralizar la lógica de sanitización y renderizado en componentes específicos reduce errores y mejora el mantenimiento."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -847,5 +850,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:29:37.784Z"
+  "lastUpdated": "2026-05-13T06:29:54.531Z"
 }
