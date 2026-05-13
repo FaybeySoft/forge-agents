@@ -281,6 +281,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T05:18:46.653Z",
       "summary": "Ponte en la piel del usuario: móvil, red ronca, poco tiempo — necesitamos que el writer pegue el frontmatter, la CI valide y que nadie tenga que tocar nombres o cadenas. Plan de consulta (fase 1): [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Por favor c..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 162,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:23:58.655Z",
+      "summary": "[Sub-tarea #165: UX: Validar centralización de <JsonLd/> y producir Acceptance Criteria + impacto en previews/editors] Ponte en la piel del usuario: el cambio técnico centraliza todo el render de JSON‑LD en un único componente (<JsonLd />) para elimi..."
     }
   ],
   "learnedPatterns": [],
@@ -361,5 +368,5 @@
     "Podría agilizar la respuesta para reducir tiempos en el proceso de cierre.",
     "Podría realizar revisiones más rápidas en la coordinación para no atrasar fases."
   ],
-  "lastUpdated": "2026-05-13T05:18:58.019Z"
+  "lastUpdated": "2026-05-13T07:23:58.819Z"
 }
