@@ -1010,7 +1010,12 @@
     "La consulta estructurada en fases con agentes especializados asegura decisiones informadas y balanceadas.",
     "Definir criterios y tests claros desde el inicio ayuda a evitar retrabajos y incrementa la confianza en la implementación.",
     "El incluir reglas automáticas en CI para detectar peligros de seguridad ahorra inspecciones manuales y refuerza la seguridad.",
-    "Mantener compatibilidad hacia atrás es clave para no romper integraciones existentes y facilitar migraciones controladas."
+    "Mantener compatibilidad hacia atrás es clave para no romper integraciones existentes y facilitar migraciones controladas.",
+    "Es crucial tener un patrón centralizado para código inseguro, como dangerouslySetInnerHTML, en lugar de dispersar llamadas en distintos call sites.",
+    "Las validaciones y tests automáticos en CI evitan que errores de seguridad pasen inadvertidos.",
+    "Conocer y enlazar claramente las reglas de seguridad desde el inicio ahorra retrabajo.",
+    "La comunicación estructurada con agentes especializados en fases reduce riesgos y mejora la calidad del producto final.",
+    "La introducción de variables de configuración como JSONLD_ALLOW_FALLBACK facilita modos degradados y pruebas sin comprometer la seguridad por defecto."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1058,5 +1063,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:39:21.356Z"
+  "lastUpdated": "2026-05-13T07:39:44.562Z"
 }
