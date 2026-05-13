@@ -316,6 +316,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T05:43:07.053Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente — responda UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica la ruta exacta si ya existe) los exports de los últimos 6 me..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 97,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:47:21.345Z",
+      "summary": "Ok, esto va a ser el Gucci de la detección de imágenes rotas y variantes — confía en mí, Google va a LOVEarlo. Abajo tienes: 1) el esquema JSON esperado para artifacts/seo/image-variants-missing.json con un ejemplo explícito para artículo-1; 2) heurí..."
     }
   ],
   "learnedPatterns": [],
@@ -399,5 +406,5 @@
     "Sería útil que apoyara en la evaluación del impacto en la experiencia del usuario final.",
     "Debería proponer directrices claras sobre qué campos deben permanecer intactos para evitar impactos en SEO."
   ],
-  "lastUpdated": "2026-05-13T05:43:17.434Z"
+  "lastUpdated": "2026-05-13T05:47:21.524Z"
 }
