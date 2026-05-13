@@ -793,7 +793,11 @@
     "La automatización de auditorías requiere agentes especializados para ejecutar comandos en entornos controlados.",
     "La documentación detallada en scripts y rutas ayuda a garantizar reproducciones confiables.",
     "Mantener la comunicación clara y precisa evita confusiones en fases críticas.",
-    "La incorporación de agentes técnicos especializados reduce la carga manual y aumenta la fiabilidad del proceso."
+    "La incorporación de agentes técnicos especializados reduce la carga manual y aumenta la fiabilidad del proceso.",
+    "Una planificación en fases, con consultas especificas y en orden, facilita la colaboración y reduce retrabajos.",
+    "La documentación clara en artifacts/, con nombres precisos y ubicaciones coherentes, agiliza la revisión y el cierre de issues.",
+    "Automatizar audit logs y resultados en artefactos específicos mantiene la trazabilidad y asegura cumplimiento.\n\nRepetir consulta en orden a los especialistas clave — funcional, técnico y SEO — optimiza la calidad y seguridad del release.",
+    "Incluir tests específicos para edge cases U+2028/U+2029 en los ciclos regulares de CI y revisión previene vulnerabilidades sutiles."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -837,5 +841,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:18:06.274Z"
+  "lastUpdated": "2026-05-13T06:18:13.793Z"
 }
