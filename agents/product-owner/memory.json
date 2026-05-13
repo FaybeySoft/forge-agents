@@ -914,7 +914,14 @@
     "Es crucial definir y aplicar componentes centralizados que garanticen seguridad en renderizado.",
     "La colaboración estructurada en fases mejora la eficiencia y reduce riesgos en security review.",
     "Los artefactos y logs reproducibles son esenciales para auditorías confiables y decisiones rápidas.",
-    "Las tareas de análisis y priorización previas facilitan una respuesta ágil y segura en producción."
+    "Las tareas de análisis y priorización previas facilitan una respuesta ágil y segura en producción.",
+    "Es fundamental obtener la diferencia (diff) y evidencia de parche antes de aprobar merges.",
+    "Automatizar pruebas de sanitización en JSON-LD es clave para evitar riesgos de XSS.",
+    "No confiar en una sola revisión manual; complementar con evidencia automatizada y reproducible.",
+    "Centralizar funciones de sanitización en ensureSafeJsonLd ayuda a mitigar XSS.",
+    "Requiere colaboración automática para recuperación de evidencia y ejecución de tests en CI.",
+    "Es importante bloquear merges sin evidencia concreta de mitigación y cobertura de pruebas.",
+    "La coordinación entre agentes especializados mejora la calidad del análisis y seguridad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -960,5 +967,5 @@
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes.",
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones."
   ],
-  "lastUpdated": "2026-05-13T07:09:05.164Z"
+  "lastUpdated": "2026-05-13T07:09:29.412Z"
 }
