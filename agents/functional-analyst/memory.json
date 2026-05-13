@@ -652,6 +652,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:09:06.717Z",
       "summary": "Plan (fase 1 — consulta rápida): [\"code-critic\", \"seo-expert\", \"lily-ux\"]. Según lo investigado (he revisado el árbol y artefacts disponibles), aquí tienes el análisis funcional y práctico de seguridad solicitado para el hotfix/PR #156. He estructura..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 159,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:13:18.880Z",
+      "summary": "Plan (fase 1 — consultas) 1) seo-expert ACTION: cite_agent — seo-expert — Request: \"Confirmar campos SEO que deben permanecer exactamente en JSON-LD (author, image, canonical, datePublished, etc.). Indicar si el pipeline puede escapar automáticamente..."
     }
   ],
   "learnedPatterns": [],
@@ -805,5 +812,5 @@
     "Mayor énfasis en definir criterios y límites claros para escalación.",
     "Podría fortalecer las recomendaciones con análisis de riesgos más específicos."
   ],
-  "lastUpdated": "2026-05-13T07:09:07.075Z"
+  "lastUpdated": "2026-05-13T07:13:19.489Z"
 }
