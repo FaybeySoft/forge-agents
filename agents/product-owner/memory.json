@@ -949,7 +949,11 @@
     "Las validaciones automáticas en backend y frontend reducen riesgos y aceleran la integración.",
     "Definir claramente los criterios de aceptación desde el inicio evita retrabajos y malas interpretaciones.",
     "La centralización de componentes sensibles en piezas controladas fortalece la seguridad.",
-    "La comunicación con los agentes especializados en fases tempranas previene errores mayores en producción."
+    "La comunicación con los agentes especializados en fases tempranas previene errores mayores en producción.",
+    "Definir claramente las fases y roles en la consulta ayuda a reducir retrabajos y confusiones.",
+    "La colaboración temprana con el equipo de seguridad y testing impulsa una implementación más sólida.",
+    "Hacer tests en SSR y en cliente es fundamental para detectar riesgos de inseguridad en tiempo de desarrollo.",
+    "Mantener cambios mínimos en componentes críticos facilita la revisión y reduce errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -997,5 +1001,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:24:22.936Z"
+  "lastUpdated": "2026-05-13T07:24:42.802Z"
 }
