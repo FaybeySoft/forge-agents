@@ -599,7 +599,11 @@
     "Definir claramente entregables y procesos rápidos ayuda a cumplir con fechas ajustadas.",
     "La comunicación temprana y definida reduce retrabajos y errores.",
     "Automatizar validaciones y definir reglas en etapas iniciales mejora la calidad y velocidad.",
-    "Mantener estructura y convenciones claras en los archivos facilita integración y revisión."
+    "Mantener estructura y convenciones claras en los archivos facilita integración y revisión.",
+    "Las consultas en fases definen mejor los requisitos y minimizan retrabajos.",
+    "Es fundamental tener reglas claras y automatizables en pipelines para evitar bloqueos manuales.",
+    "Mantener documentación actualizada y estructurada ayuda a la repetibilidad.",
+    "El trabajo en equipo, con roles definidos y comunicación transparente, acelera procesos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -635,5 +639,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:13:58.554Z"
+  "lastUpdated": "2026-05-13T05:14:13.905Z"
 }
