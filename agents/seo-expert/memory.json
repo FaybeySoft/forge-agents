@@ -560,6 +560,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:58:14.710Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Voy directo al grano — esto va a ser seguro y compatible, como un snippet Gucci en la SERP. A continuación cito una petición única a cada agente (una sola vez). Cuando tenga sus respuest..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 201,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:59:20.755Z",
+      "summary": "Plan (fase 1) y consultas únicas — voy directo y con estilo Gucci: plan = [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la ruta exacta si ya existe) los siguientes exports..."
     }
   ],
   "learnedPatterns": [],
@@ -711,5 +718,5 @@
     "Podría ampliar el foco en casos de validación de URLs absolutas y sanitización XSS en json-ld.",
     "Podría participar más en el diseño de la solución para evitar impactos en los rich snippets."
   ],
-  "lastUpdated": "2026-05-13T07:58:29.945Z"
+  "lastUpdated": "2026-05-13T07:59:21.154Z"
 }
