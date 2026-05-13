@@ -659,6 +659,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:13:18.880Z",
       "summary": "Plan (fase 1 — consultas) 1) seo-expert ACTION: cite_agent — seo-expert — Request: \"Confirmar campos SEO que deben permanecer exactamente en JSON-LD (author, image, canonical, datePublished, etc.). Indicar si el pipeline puede escapar automáticamente..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 162,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:23:53.730Z",
+      "summary": "[Sub-tarea #167: FA: Acceptance Criteria y decisión operativa sobre preSerialized vs object (PR #156)] Análisis funcional y decisión operacional sobre preSerialized vs object (PR #156). Según los requisitos, entrego criterios de aceptación verificabl..."
     }
   ],
   "learnedPatterns": [],
@@ -814,5 +821,5 @@
     "Podría fortalecer las recomendaciones con análisis de riesgos más específicos.",
     "Podría anticipar necesidades adicionales de validación en fases tempranas."
   ],
-  "lastUpdated": "2026-05-13T07:13:32.983Z"
+  "lastUpdated": "2026-05-13T07:23:54.126Z"
 }
