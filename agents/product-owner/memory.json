@@ -863,7 +863,11 @@
     "La coordinación en fases permite integrar impactos de SEO, seguridad y funcionalidad.",
     "Tests SSR son clave para validar seguridad sin dependencia en DOM emulado en CI.",
     "Mantener artefactos y fixtures en paths existentes evita complejidad adicional en estructura repo.",
-    "Priorizar la comunicación estructurada y documentada previene retrabajos y desconexiones."
+    "Priorizar la comunicación estructurada y documentada previene retrabajos y desconexiones.",
+    "Definir claramente los criterios de aceptación y los artefactos es crucial antes de ejecutar comandos automáticos.",
+    "La contratación de agentes especializados garantiza reproducibilidad y confiabilidad en tareas críticas.",
+    "Automatizar la generación y revisión de artefactos reduce errores humanos y acelera procesos.",
+    "Coordinar fases y permisos evita bloqueos y asegura que toda validación sea efectiva y verificable."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -907,5 +911,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:39:15.781Z"
+  "lastUpdated": "2026-05-13T06:39:33.773Z"
 }
