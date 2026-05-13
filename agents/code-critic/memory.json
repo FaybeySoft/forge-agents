@@ -378,6 +378,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:43:59.643Z",
       "summary": "Oh, splendid — another JSON‑LD booby trap wrapped in good intentions. I read the plan for PR‑156. It’s directionally correct: centralize JSON‑LD emission, harden ensureSafeJsonLd, and replace ad‑hoc dangerouslySetInnerHTML with a single <JsonLd />. T..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 181,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:46:51.564Z",
+      "summary": "Oh, qué sorpresa: alguien decidió jugar a ser lax con JSON‑LD y ahora tenemos un festival de scripts crudos y APIs que no se ponen de acuerdo. He inspeccionado los archivos clave (lectura, sin tocar nada) y preparé un informe reproducible, con eviden..."
     }
   ],
   "learnedPatterns": [],
@@ -500,5 +507,5 @@
     "Poder ser más preciso en la identificación de payloads y casos de prueba específicos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:44:12.041Z"
+  "lastUpdated": "2026-05-13T07:46:51.735Z"
 }
