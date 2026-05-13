@@ -1057,7 +1057,11 @@
     "La validación automatizada y los tests de integración son críticos para prevenir vulnerabilidades XSS en casos complejos.",
     "La participación temprana de todos los stakeholders, incluyendo seguridad y UX, evita retrabajo y riesgo en producción.",
     "Definir claramente las restricciones en un solo componente reduce errores y aumenta la seguridad.",
-    "El uso de scripts para verificaciones ayuda a mantener la seguridad en procesos de despliegue continuo."
+    "El uso de scripts para verificaciones ayuda a mantener la seguridad en procesos de despliegue continuo.",
+    "La colaboración temprana entre análisis funcional, seguridad y SEO reduce retrabajo y errores de integración.",
+    "La automatización de tests y controles en CI/CD es esencial para prevenir riesgos de seguridad y errores en producción.",
+    "Documentar los hallazgos y decisiones en memoria compartida ayuda a mantener coherencia y trazabilidad.",
+    "Es vital priorizar análisis forense y seguridad en cambios que afectan contenido estructurado y API."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1105,5 +1109,5 @@
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones.",
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales."
   ],
-  "lastUpdated": "2026-05-13T07:46:59.433Z"
+  "lastUpdated": "2026-05-13T07:47:16.243Z"
 }
