@@ -677,7 +677,11 @@
     "La revisión temprana por parte de un crítico reduce errores y mejora la confianza en los resultados.",
     "Es fundamental definir criterios claros y entregables específicos antes de proceder a la automatización.",
     "La colaboración con agentes especializados agiliza y perfecciona los procesos técnicos.",
-    "Reusar scripts existentes y patrones previos ayuda a mantener coherencia y reducir errores."
+    "Reusar scripts existentes y patrones previos ayuda a mantener coherencia y reducir errores.",
+    "La definir claramente los criterios de aceptación desde el inicio agiliza el proceso y evita retrabajos.",
+    "Las sub-tareas son efectivas para dividir tareas específicas y asegurar entregables puntuales.",
+    "Revisar los scripts y YAML con un experto en seguridad y robustez es clave antes de proceder con despliegues automáticos.",
+    "La coordinación con diferentes agentes en fases tempranas previene errores en producción."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -717,5 +721,5 @@
     "Podría mejorar en documentar más los pasos intermedios, especialmente las decisiones previas para futuros reviews.",
     "Podría fortalecer la comunicación en los entregables intermedios."
   ],
-  "lastUpdated": "2026-05-13T05:33:14.136Z"
+  "lastUpdated": "2026-05-13T05:33:15.437Z"
 }
