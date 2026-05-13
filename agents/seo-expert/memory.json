@@ -344,6 +344,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:13:54.341Z",
       "summary": "[Sub-tarea #117: Security & JSON-LD sanitization: deliverables for PR #103 (seo-expert)] Plan: consultar agentes y entregar parches/tests/documentación para cerrar PR #103. Voy a consultar a: 1) amy (FA) — para confirmar casos de prueba/fixtures y en..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 111,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:17:08.535Z",
+      "summary": "Ok — Tom al habla (el Gucci de los snippets). Abajo tienes un resumen práctico y accionable para PR-105: rutas que requieren revisión humana si se tocan, riesgos al ejecutar los checks automatizados, pasos rápidos para cambios en hero images, propues..."
     }
   ],
   "learnedPatterns": [],
@@ -435,5 +442,5 @@
     "Debería anticipar mayor integración con las validaciones automáticas del pipeline.",
     "Podría mejorar en la integración con los tests automáticos y la evidencia de CI para mayor trazabilidad."
   ],
-  "lastUpdated": "2026-05-13T06:14:07.449Z"
+  "lastUpdated": "2026-05-13T06:17:08.877Z"
 }
