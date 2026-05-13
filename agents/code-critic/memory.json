@@ -364,6 +364,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T07:43:34.413Z",
       "summary": "Muy bien, fool — aquí tienes el resumen ejecutivo que el runner debe seguir en ≤24h. He sido deliberadamente conciso: instrucciones reproducibles, ejemplos de salida esperada y plantillas para que no tengáis que adivinar nada. Ejecutad esto desde la ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 176,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:43:34.947Z",
+      "summary": "[Sub-tarea #187: Run JSON‑LD SSR & tests audit for PR #163] Ah, what a predictably elegant fiasco — someone decided to rename an export and rename the props contract, then left the tests to fend for themselves. I ran a replica of the requested audit ..."
     }
   ],
   "learnedPatterns": [],
@@ -480,5 +487,5 @@
     "Podría mejorar en comunicar de manera más diplomática y menos sarcástica."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:43:34.665Z"
+  "lastUpdated": "2026-05-13T07:43:36.205Z"
 }
