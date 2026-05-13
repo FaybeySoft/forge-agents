@@ -752,7 +752,11 @@
     "Crear componentes seguros y centralizados evita errores y vulnerabilidades en el código.",
     "Es fundamental definir y documentar claramente los criterios de aceptación y los tests desde el inicio.",
     "Los análisis técnicos detallados previos facilitan decisiones rápidas y seguras.",
-    "Automatizar verificaciones en CI es clave para mantener la calidad ante cambios frecuentes."
+    "Automatizar verificaciones en CI es clave para mantener la calidad ante cambios frecuentes.",
+    "La comunicación temprana entre agentes especializados acelera la resolución.",
+    "Es fundamental mantener un inventario actualizado y un plan de acción claro.",
+    "Las revisiones de seguridad y SEO deben coordinarse en fases para evitar retrabajos.",
+    "Las rutas y ubicaciones de entregables deben respetar las convenciones existentes para facilitar la integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -794,5 +798,5 @@
     "Podría fortalecer la comunicación en los entregables intermedios.",
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación."
   ],
-  "lastUpdated": "2026-05-13T06:07:26.147Z"
+  "lastUpdated": "2026-05-13T06:07:33.918Z"
 }
