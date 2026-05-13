@@ -599,6 +599,12 @@
       "issueNumber": 139,
       "outcome": "ready",
       "timestamp": "2026-05-13T06:43:08.095Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 158,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:09:04.888Z"
     }
   ],
   "learnedPatterns": [
@@ -954,5 +960,5 @@
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes.",
     "Podría mejorar en documentación de decisiones y en comunicar en tiempo real el estado de verificaciones."
   ],
-  "lastUpdated": "2026-05-13T07:00:05.152Z"
+  "lastUpdated": "2026-05-13T07:09:05.164Z"
 }
