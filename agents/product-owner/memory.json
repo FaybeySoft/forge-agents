@@ -689,7 +689,11 @@
     "Mantener fixtures en ubicaciones existentes ayuda a la trazabilidad y evita conflictos.",
     "La colaboración temprana y la comunicación clara ahorran retrabajos y agilizan el proceso.",
     "Confirmar las capacidades técnicas (como parser y utilidad) antes de definir tareas de implementación.",
-    "Definir claramente criterios de aceptación y cobertura desde el inicio resulta en entregables de calidad."
+    "Definir claramente criterios de aceptación y cobertura desde el inicio resulta en entregables de calidad.",
+    "La definición de artefactos y criterios claros desde temprano facilita mucho la validación automatizada.",
+    "Es fundamental alinear a todos los agentes en los umbrales y reglas antes de tocar scripts y pipelines.",
+    "La comunicación en fases y la consulta estructurada mejora la coordinación y evita retrabajos.",
+    "Mantener los artefactos en ubicaciones conocidas y estándares del repo ayuda a automatizar verificaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -729,5 +733,5 @@
     "Podría mejorar en documentar más los pasos intermedios, especialmente las decisiones previas para futuros reviews.",
     "Podría fortalecer la comunicación en los entregables intermedios."
   ],
-  "lastUpdated": "2026-05-13T05:37:13.864Z"
+  "lastUpdated": "2026-05-13T05:37:30.597Z"
 }
