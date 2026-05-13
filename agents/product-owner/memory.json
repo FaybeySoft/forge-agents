@@ -1072,7 +1072,12 @@
     "La fase temprana de análisis y pruebas previene riesgos mayores en producción.",
     "La colaboración en fases iniciales con diferentes roles reduce retrabajos y mejora la seguridad.",
     "Implementar tests automáticos en CI ayuda a detectar vulnerabilidades rápidamente.",
-    "Un proceso estructurado y con checks claros evita errores costosos en la integración."
+    "Un proceso estructurado y con checks claros evita errores costosos en la integración.",
+    "Es crucial definir claramente los criterios de aceptación y pruebas antes de comenzar la implementación para evitar retrabajo.",
+    "La centralización de componentes y funciones mejora la seguridad y mantiene la coherencia en toda la base de código.",
+    "La colaboración temprana con especialistas en SEO, seguridad y frontend ayuda a detectar riesgos y definir soluciones óptimas desde el inicio.",
+    "Mantener una comunicación clara y documentación exhaustiva facilita revisiones y auditorías en fases finales.",
+    "La actualización y sincronización de tests relacionados deben planearse desde el principio para garantizar que toda la funcionalidad es cubierta."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1122,5 +1127,5 @@
     "Podría mejorar en la formulación de peticiones más específicas en las consultas iniciales.",
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial."
   ],
-  "lastUpdated": "2026-05-13T07:48:54.478Z"
+  "lastUpdated": "2026-05-13T07:49:02.144Z"
 }
