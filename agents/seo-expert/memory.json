@@ -523,7 +523,8 @@
     "Sus recomendaciones aseguraron que la solución mantiene los rich snippets y desempeño SEO.",
     "Validó que los cambios en JSON-LD mantienen la integridad del marcado estructurado y no rompen la SEO.",
     "Validó correctamente los aspectos semánticos y la cobertura de tests, aportando rigor técnico.",
-    "Confirmó la compatibilidad SEO y la necesidad de normalización URLs, ayudando a definir el scope técnico."
+    "Confirmó la compatibilidad SEO y la necesidad de normalización URLs, ayudando a definir el scope técnico.",
+    "Validó impacto SEO y ofreció marco para tests de compatibilidad semántica."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -583,7 +584,8 @@
     "Podría incluir también validaciones en herramientas de análisis SEO y tests automáticos.",
     "Debería incluir en futuras revisiones las implicaciones en rendimiento y carga en la página.",
     "Podría incluir más recomendaciones sobre validación automática y scripts de integración continua.",
-    "Debería haber confirmado antes las excepciones y políticas específicas para evitar retrabajo."
+    "Debería haber confirmado antes las excepciones y políticas específicas para evitar retrabajo.",
+    "Podría profundizar en efectos en SERP tras cambios en JSON-LD."
   ],
-  "lastUpdated": "2026-05-13T07:36:39.242Z"
+  "lastUpdated": "2026-05-13T07:36:46.067Z"
 }
