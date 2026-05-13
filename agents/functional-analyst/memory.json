@@ -554,6 +554,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:14:12.830Z",
       "summary": "[Sub-tarea #118: ACs y coordinación de verificación técnica para PR #105 (quitar WIP)] Plan y entrega inicial para decidir si quitar WIP de PR #105. Plan (agentes a consultar — Fase 1): 1. code-critic 2. seo-expert 3. lily-ux Según el proceso two-pha..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 111,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:17:06.756Z",
+      "summary": "Plan (fase 1 — citas rápidas a agentes): 1) seo-expert 2) code-critic Citas (una sola por agente — petición concreta): - action=\"cite_agent\" — seo-expert — request: \"Revisa por favor si hay alguna restricción SEO/robots que debamos considerar al ejec..."
     }
   ],
   "learnedPatterns": [],
@@ -685,5 +692,5 @@
     "Podría mejorar en la priorización de hallazgos concentrándose en los más críticos primero.",
     "Podría mejorar al definir criterios de aceptación más específicos desde el inicio."
   ],
-  "lastUpdated": "2026-05-13T06:14:21.484Z"
+  "lastUpdated": "2026-05-13T06:17:07.016Z"
 }
