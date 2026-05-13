@@ -743,6 +743,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:46:49.515Z",
       "summary": "Plan (consultas rápidas antes de la decisión): [\"code-critic\",\"seo-expert\"]. ACTIONS propuestas (fase 1): 1) ACTION: cite_agent — code-critic — Request: Ejecuta localmente estos comandos y devuelve resultados: 1) grep de ocurrencias de dangerouslySet..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 184,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:47:00.868Z",
+      "summary": "Plan de consultas (fase 1): [\"code-critic\",\"seo-expert\",\"lily-ux\"] ACTION: cite_agent — code-critic — Request: Ejecuta los tests vitest relacionados con jsonld y devuelve: 1) lista de tests que fallan localmente (paths y mensajes), 2) comando exacto ..."
     }
   ],
   "learnedPatterns": [],
@@ -920,5 +927,5 @@
     "Incluir validaciones automáticas en la etapa de integración continua para detectar incompatibilidades de exportación.",
     "Podría colaborar más estrechamente en la integración con los tests automatizados."
   ],
-  "lastUpdated": "2026-05-13T07:46:50.083Z"
+  "lastUpdated": "2026-05-13T07:47:01.205Z"
 }
