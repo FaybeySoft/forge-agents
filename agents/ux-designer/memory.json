@@ -295,7 +295,8 @@
     "Su revisión puntual aseguró que no se perdieron artefactos ni impactos visuales.",
     "Entregó wireframes claros y efectivos, permitiendo una visualización rápida.",
     "Propuso assets en rutas específicas y entregables claros.",
-    "Aportó foco en comprobaciones visuales y experiencia del usuario."
+    "Aportó foco en comprobaciones visuales y experiencia del usuario.",
+    "Se comprometió a generar imágenes optimizadas según instrucciones."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -330,7 +331,8 @@
     "Podría ampliar recomendaciones para mejorar la coherencia en futuras verificaciones.",
     "Podría incluir más notas sobre accesibilidad y condition cutting para acelerar revisión.",
     "Debe mejorar en la generación automatizada de binarios AVIF y WebP en el plazo.",
-    "Faltó documentar algunos criterios de accesibilidad y visualización automática."
+    "Faltó documentar algunos criterios de accesibilidad y visualización automática.",
+    "Podría colaborar en definir especificaciones técnicas de srcsets y metadatos más anticipadamente."
   ],
-  "lastUpdated": "2026-05-13T05:07:27.328Z"
+  "lastUpdated": "2026-05-13T05:13:55.134Z"
 }
