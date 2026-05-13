@@ -308,6 +308,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:23:55.438Z",
       "summary": "Oh, what fresh hell — yet another JSON‑LD circus. Your approach is sound but incomplete: accept with two hard requirements added. 1) Deep‑inspect all string values for dangerous URI schemes (javascript:, data:). 2) Server: fail loudly (throw) on malf..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 164,
+      "outcome": "ready",
+      "timestamp": "2026-05-13T07:24:26.276Z",
+      "summary": "Oh, what fresh hell is this — yet another JSON‑LD ready to crash into a <script> tag and take the logs with it. Fine. Below: a concise, actionable kit — payloads, a ready-to-review hardening snippet, exact tests + commands, and quick grep checks. Fix..."
     }
   ],
   "learnedPatterns": [],
@@ -410,5 +417,5 @@
     "Podría facilitar ejemplos concretos y pasos a seguir en sus revisiones para mayor claridad."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-13T07:24:08.274Z"
+  "lastUpdated": "2026-05-13T07:24:26.462Z"
 }
