@@ -725,6 +725,12 @@
       "issueNumber": 200,
       "outcome": "ready",
       "timestamp": "2026-05-13T07:58:08.968Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 201,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T07:59:15.287Z"
     }
   ],
   "learnedPatterns": [
@@ -1178,5 +1184,5 @@
     "Podría mejorar en documentar con mayor detalle los criterios técnicos y posibles riesgos en la fase inicial.",
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests."
   ],
-  "lastUpdated": "2026-05-13T07:58:33.290Z"
+  "lastUpdated": "2026-05-13T07:59:15.653Z"
 }
