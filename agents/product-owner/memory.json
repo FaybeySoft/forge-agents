@@ -594,7 +594,12 @@
     "No crear carpetas raíz nuevas en PR evita problemas en políticas del repo y simplifica migraciones.",
     "Priorizar la consulta a agentes especializados en fases tempranas ayuda a resolver riesgos complejos más rápido.",
     "Una planificación secuencial y clara evita retrabajos y malas interpretaciones.",
-    "Definir entregables y ubicaciones en el repo desde el inicio mantiene la estructura y facilita revisiones."
+    "Definir entregables y ubicaciones en el repo desde el inicio mantiene la estructura y facilita revisiones.",
+    "Planificar las consultas en orden y con enfoque específico evita redundancias.",
+    "Definir claramente entregables y procesos rápidos ayuda a cumplir con fechas ajustadas.",
+    "La comunicación temprana y definida reduce retrabajos y errores.",
+    "Automatizar validaciones y definir reglas en etapas iniciales mejora la calidad y velocidad.",
+    "Mantener estructura y convenciones claras en los archivos facilita integración y revisión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -630,5 +635,5 @@
     "Podría aportar más documentación previa de las decisiones para mayor trazabilidad.",
     "Podría mejorar la anticipación de errores en el plan inicial de agentes (falta incluir a legal-advisor)."
   ],
-  "lastUpdated": "2026-05-13T05:13:57.050Z"
+  "lastUpdated": "2026-05-13T05:13:58.554Z"
 }
