@@ -1,0 +1,17 @@
+{
+  "agentSlug": "security-auditor",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 91,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:40:32.208Z",
+      "summary": "[Sub-tarea #99: Security review: PRs #27, #32, #42 (XSS / JSON-LD + CI checks)] Phase 1 — Plan & consultations Plan (agents to consult, in order): [\"functional-analyst\", \"seo-expert\", \"ux-designer\"] Citations (one request per agent): 1) {\"action\":\"ci..."
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-05-13T05:40:32.382Z"
+}
