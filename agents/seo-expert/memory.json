@@ -337,6 +337,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T06:07:21.196Z",
       "summary": "Plan de consulta: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports de los últimos 6 meses que usamos habitualmente: 1) Search Console — ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 108,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T06:13:54.341Z",
+      "summary": "[Sub-tarea #117: Security & JSON-LD sanitization: deliverables for PR #103 (seo-expert)] Plan: consultar agentes y entregar parches/tests/documentación para cerrar PR #103. Voy a consultar a: 1) amy (FA) — para confirmar casos de prueba/fixtures y en..."
     }
   ],
   "learnedPatterns": [],
@@ -426,5 +433,5 @@
     "Debería coordinar con el team de frontend para garantizar compatibilidad en todos los escenarios.",
     "Debería anticipar mayor integración con las validaciones automáticas del pipeline."
   ],
-  "lastUpdated": "2026-05-13T06:07:32.204Z"
+  "lastUpdated": "2026-05-13T06:13:54.524Z"
 }
