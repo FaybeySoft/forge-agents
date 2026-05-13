@@ -512,6 +512,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T05:43:05.219Z",
       "summary": "Plan de consulta (fase 1): [seo-expert, lily-ux, code-critic] ACTION: cite_agent — seo-expert — Request: \"Confirmar si hay reglas SEO que obliguen a incluir <script type=\\\"application/ld+json\\\"> con JSON sin transformar; indicar campos que deben perm..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 97,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-13T05:47:19.732Z",
+      "summary": "Plan de consultas (Fase 1): 1) lily-ux 2) tom-seo 3) code-critic Citas (una sola petición por agente — action=\"cite_agent\"): - action=\"cite_agent\" — lily-ux — request: \"Confirmar recomendaciones de alt text/caption/credit: límite <=125 chars para alt..."
     }
   ],
   "learnedPatterns": [],
@@ -633,5 +640,5 @@
     "Podría mejorar la especificidad de los criterios de impacto y recomendaciones de corrección.",
     "Podría documentar mejor los pasos de repro y los requisitos específicos en un template estándar."
   ],
-  "lastUpdated": "2026-05-13T05:43:15.829Z"
+  "lastUpdated": "2026-05-13T05:47:20.029Z"
 }
