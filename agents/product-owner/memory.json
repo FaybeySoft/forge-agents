@@ -842,7 +842,12 @@
     "La automatización en verificaciones reduce errores de merge primarios.",
     "Una buena documentación y etiquetado previene mergeos improvisados.",
     "Es necesario un proceso claro y verificable antes de permitir cambios en producción o integración.",
-    "La colaboración con analistas y críticos ayuda a definir checklists efectivos y acciones concretas."
+    "La colaboración con analistas y críticos ayuda a definir checklists efectivos y acciones concretas.",
+    "La colaboración eficiente entre analistas, críticos y expertos en SEO permite una auditoría exhaustiva en menos tiempo.",
+    "La documentación de artefactos en carpetas específicas y en formatos unificados agiliza la verificación y el seguimiento de las tareas.",
+    "Los tests automatizados en CI son esenciales para validar correcciones y evitar regresiones en seguridad.",
+    "Una comunicación clara y concreta en las consultas ahorra tiempo y garantiza entregables útiles.",
+    "La contratación de expertos especializados es clave para tareas críticas como auditorías de seguridad, especialmente cuando PRs están vacíos o son superficiales."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -886,5 +891,5 @@
     "Podría mejorar en anticipar requisitos de manejo de errores en la implementación.",
     "Podría mejorar la comunicación temprana de restricciones para evitar consultas redundantes."
   ],
-  "lastUpdated": "2026-05-13T06:36:08.896Z"
+  "lastUpdated": "2026-05-13T06:36:27.890Z"
 }
