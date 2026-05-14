@@ -588,6 +588,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-14T05:08:14.698Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (1 petición por agente — responde UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Hay páginas indexadas (top landing pages en los últimos 6 meses) que puedan contener contenidos con U+202..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 229,
+      "outcome": "ready",
+      "timestamp": "2026-05-14T05:11:05.271Z",
+      "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Hay páginas indexadas (top landing pages últimos 6 meses) con U+2028/U+2029 en frontmatter o campos (títulos, excerpts, body)? Si sí, sube a artifacts/audit/ un CSV..."
     }
   ],
   "learnedPatterns": [],
@@ -747,5 +754,5 @@
     "Podría mejorar en definir criterios para fallback server-side en casos de errores.",
     "Podría involucrarse antes en fases tempranas para aportar desde ideación sobre impacto schema."
   ],
-  "lastUpdated": "2026-05-14T05:08:27.538Z"
+  "lastUpdated": "2026-05-14T05:11:05.711Z"
 }
