@@ -581,6 +581,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T08:00:23.333Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ los exports de los últimos 6 meses que usamos habitualmente: 1) Search Console — top 20 queries (CSV). 2) GA4 — top organic landing..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 228,
+      "outcome": "ready",
+      "timestamp": "2026-05-14T05:08:14.698Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (1 petición por agente — responde UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Hay páginas indexadas (top landing pages en los últimos 6 meses) que puedan contener contenidos con U+202..."
     }
   ],
   "learnedPatterns": [],
@@ -738,5 +745,5 @@
     "Podría colaborar más en la definición de las métricas de impacto SEO del cambio.",
     "Podría mejorar en definir criterios para fallback server-side en casos de errores."
   ],
-  "lastUpdated": "2026-05-13T08:00:36.718Z"
+  "lastUpdated": "2026-05-14T05:08:14.940Z"
 }
