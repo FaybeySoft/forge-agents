@@ -813,6 +813,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-13T08:00:19.490Z",
       "summary": "Plan de consultas (fase 1): [\"code-critic\",\"security-auditor\",\"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta localmente los tests vitest cuyo nombre o path contiene 'jsonld' y devuelve: 1) lista de tests que fallan (path completo y..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 228,
+      "outcome": "ready",
+      "timestamp": "2026-05-14T05:08:10.921Z",
+      "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\", \"seo-expert\"]. Resumen ejecutivo (1 página aprox.): 1) Problema: ensureSafeJsonLd NO estaba escapando los caracteres Unicode U+2028 (LINE SEPARATOR) y U+2029 (PARAGRAPH SEPARATOR), lo que permite i..."
     }
   ],
   "learnedPatterns": [],
@@ -1008,5 +1015,5 @@
     "Podría mejorar en la detección temprana de usos peligrosos en callsites específicos.",
     "Podría reforzar la comunicación en detalles técnicos específicos para la evaluación de riesgos."
   ],
-  "lastUpdated": "2026-05-14T05:02:02.209Z"
+  "lastUpdated": "2026-05-14T05:08:11.264Z"
 }
