@@ -1188,7 +1188,12 @@
     "La comunicación clara y la colaboración directa aceleran la resolución de issues técnicos.",
     "Los tests en fixtures existentes permiten validar cambios críticos sin crear nuevas rutas.",
     "Mantener la API pública de funciones es clave para evitar roturas en producción.",
-    "Es fundamental definir criterios de aceptación claros para facilitar revisiones y validaciones."
+    "Es fundamental definir criterios de aceptación claros para facilitar revisiones y validaciones.",
+    "Nunca subestimar la importancia de obtener aprobación humana antes de escalar asuntos legales.",
+    "Es fundamental preparar todos los artefactos y paquete técnico con antelación para agilizar procesos críticos.",
+    "Mantener las ubicaciones y convenciones existentes facilita la integración y evita errores.",
+    "La colaboración con el analista funcional y la comunicación temprana con los stakeholders ahorra tiempo y reduce riesgos.",
+    "La revisión y validación de los artefactos técnicos antes del despliegue previene bloqueos y retrabajos futuros."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1248,5 +1253,5 @@
     "Podría mejorar en la priorización de tareas menores que distraen del enfoque central.",
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad."
   ],
-  "lastUpdated": "2026-05-14T05:11:30.734Z"
+  "lastUpdated": "2026-05-14T05:11:33.957Z"
 }
