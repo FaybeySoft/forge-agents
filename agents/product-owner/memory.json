@@ -1161,7 +1161,12 @@
     "Es importante coordinar con especialistas en SEO y UX para evitar impactos en la visibilidad y usabilidad.",
     "Definir criterios de validación y errores estandarizados desde un principio mejora la trazabilidad y pruebas automáticas.",
     "Mantener cambios mínimos y compatibles con callsites existentes reduce riesgos y facilita despliegues rápidos.",
-    "Coordinar en fases y con agentes especializados asegura mejores decisiones y mayor seguridad en cambios críticos."
+    "Coordinar en fases y con agentes especializados asegura mejores decisiones y mayor seguridad en cambios críticos.",
+    "La planificación de consultas secuenciales ayuda a resolver problemas de forma ordenada y eficiente.",
+    "Las características invisibles en datos dinámicos pueden causar bugs difíciles de detectar si no se validan temprano.",
+    "Mantener la API minimalista y consistente reduce la complejidad en cambios y retrabajos.",
+    "Las pruebas unitarias específicas para casos límite son cruciales para prevenir vulnerabilidades o errores en serialización.",
+    "Coordinar con diferentes agentes especializados en fase temprana evita retrabajos y acorta el ciclo de corrección."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1215,5 +1220,5 @@
     "Sería útil definir métricas más claras para cobertura y límites automáticos en los tests.",
     "Podría esforzarse más en definir expectativas específicas para cada agente en la primera consulta."
   ],
-  "lastUpdated": "2026-05-14T05:08:22.859Z"
+  "lastUpdated": "2026-05-14T05:08:29.300Z"
 }
