@@ -666,7 +666,8 @@
     "Validó la compatibilidad SEO y recomendó mantener la indexación intacta tras sanitización.",
     "Propuesta de revisión técnica SEO priorizada y con foco en compatibilidad.",
     "Validó impacto de schema y compatibilidad SEO, aportando tranquilidad al proceso.",
-    "Sistema bien integrado para validar la visibilidad y parseabilidad SEO."
+    "Sistema bien integrado para validar la visibilidad y parseabilidad SEO.",
+    "Efectuó una revisión útil en impacto SEO/schema, aportando valor a la decisión técnica."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -743,7 +744,8 @@
     "Podría participar más en el diseño de la solución para evitar impactos en los rich snippets.",
     "Aportar más detalles sobre casos de uso en schema y JSON-LD.",
     "Podría colaborar más en la definición de las métricas de impacto SEO del cambio.",
-    "Podría mejorar en definir criterios para fallback server-side en casos de errores."
+    "Podría mejorar en definir criterios para fallback server-side en casos de errores.",
+    "Podría involucrarse antes en fases tempranas para aportar desde ideación sobre impacto schema."
   ],
-  "lastUpdated": "2026-05-14T05:08:14.940Z"
+  "lastUpdated": "2026-05-14T05:08:27.538Z"
 }
