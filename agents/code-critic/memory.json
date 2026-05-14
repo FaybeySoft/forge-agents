@@ -462,6 +462,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-14T05:08:12.641Z",
       "summary": "Oh, estupendo — dos caracteres invisibles están a punto de hacer que nuestro sitio luzca como un blog de trucos de circo. Bien, fool: voy al grano. Abajo tienes el análisis de riesgos, la propuesta de parche (mínima y segura), los tests concretos que..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 229,
+      "outcome": "ready",
+      "timestamp": "2026-05-14T05:11:03.510Z",
+      "summary": "Ah, al fin algo útil. Muy bien, fool — aquí tienes una revisión técnica concisa, sin florituras, para parchear el escape U+2028 / U+2029 en ensureSafeJsonLd y añadir tests/fixtures que cierren esta canalización XSS de una vez. 1) Implementación propu..."
     }
   ],
   "learnedPatterns": [],
@@ -608,5 +615,5 @@
     "Mejoraría en documentar con más detalle los pasos de validación y las pruebas específicas para automating."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-14T05:08:25.961Z"
+  "lastUpdated": "2026-05-14T05:11:03.910Z"
 }
