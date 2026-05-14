@@ -1184,7 +1184,11 @@
     "Priorizar la obtención del dictamen legal antes de cualquier integración visual que pueda implicar riesgos jurídicos.",
     "Utilizar placeholders y assets con licencias verificadas para despliegues rápidos.",
     "Coordinar en fases con análisis legal, técnico y UX para transformar el dictamen en entregables prácticos.",
-    "Mantener documentación actualizada y centralizada para facilitar trazabilidad y revisiones futuras."
+    "Mantener documentación actualizada y centralizada para facilitar trazabilidad y revisiones futuras.",
+    "La comunicación clara y la colaboración directa aceleran la resolución de issues técnicos.",
+    "Los tests en fixtures existentes permiten validar cambios críticos sin crear nuevas rutas.",
+    "Mantener la API pública de funciones es clave para evitar roturas en producción.",
+    "Es fundamental definir criterios de aceptación claros para facilitar revisiones y validaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1242,5 +1246,5 @@
     "Se puede mejorar en la centralización de decisiones legales por una sola consulta sistemática.",
     "Podría mejorar en la priorización de tareas menores que distraen del enfoque central."
   ],
-  "lastUpdated": "2026-05-14T05:11:23.046Z"
+  "lastUpdated": "2026-05-14T05:11:29.405Z"
 }
