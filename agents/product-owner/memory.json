@@ -1234,7 +1234,11 @@
     "Utilizar plantillas y checklists para definir entregables y criterios de aceptación.",
     "Implementar placeholders neutrales facilita cambios rápidos tras dictamen legal.",
     "Planificar consultas secuenciales en la primera fase para mayor eficiencia.",
-    "Documentar decisiones y rutas en repositorio para trazabilidad futura."
+    "Documentar decisiones y rutas en repositorio para trazabilidad futura.",
+    "Estructurar consultas en fases y con plan definido ayuda a mantener el foco y reduce tiempos de intercambio.",
+    "La claridad en entregables y responsabilidades evita confusiones y retrabajos en etapas posteriores.",
+    "Involucrar temprano a todos los agentes clave asegura una revisión más ágil y coherente.",
+    "Automatizar checks en CI y definir thresholds claros previene errores en producción y mejora la calidad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1296,5 +1300,5 @@
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad.",
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores."
   ],
-  "lastUpdated": "2026-05-18T05:18:04.739Z"
+  "lastUpdated": "2026-05-18T05:18:25.594Z"
 }
