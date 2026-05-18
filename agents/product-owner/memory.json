@@ -1221,7 +1221,14 @@
     "La coordinación ordenada en fases de consulta, producción y revisión reduce errores.",
     "Definir rutas y convenciones claras desde el inicio facilita tareas de assets y archivos.",
     "La comunicación efectiva y la paralelización mejoran la eficiencia del proceso.",
-    "Configurar tareas específicas para UX y SEO ayuda a mantener el ritmo y calidad del trabajo."
+    "Configurar tareas específicas para UX y SEO ayuda a mantener el ritmo y calidad del trabajo.",
+    "Priorizar la contratación de expertos en etapas tempranas para evitar riesgos legales.",
+    "Definir claramente los artefactos y ubicaciones en documentos y estructura del repo.",
+    "Mantener una coordinación estrecha entre legal, FA y UX mejora la velocidad y calidad.",
+    "Utilizar plantillas y checklists para definir entregables y criterios de aceptación.",
+    "Implementar placeholders neutrales facilita cambios rápidos tras dictamen legal.",
+    "Planificar consultas secuenciales en la primera fase para mayor eficiencia.",
+    "Documentar decisiones y rutas en repositorio para trazabilidad futura."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1283,5 +1290,5 @@
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad.",
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores."
   ],
-  "lastUpdated": "2026-05-18T05:15:26.001Z"
+  "lastUpdated": "2026-05-18T05:15:28.251Z"
 }
