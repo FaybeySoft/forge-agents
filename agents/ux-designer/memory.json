@@ -288,6 +288,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-13T07:23:58.655Z",
       "summary": "[Sub-tarea #165: UX: Validar centralización de <JsonLd/> y producir Acceptance Criteria + impacto en previews/editors] Ponte en la piel del usuario: el cambio técnico centraliza todo el render de JSON‑LD en un único componente (<JsonLd />) para elimi..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 232,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-18T05:12:46.426Z",
+      "summary": "[Sub-tarea #235: Subir imágenes optimizadas Article #1 (hero + thumb) y archivo de licencias] Ponte en la piel del usuario: necesita imágenes rápidas, claras y correctas legalmente cuando abre el artículo — no hacer esto es como obligarle a leer la l..."
     }
   ],
   "learnedPatterns": [],
@@ -374,5 +381,5 @@
     "Podría participar más en revisión de protección ante errores UX y seguridad.",
     "Podría anticipar mejores soluciones visuales en respuesta a restricciones legales."
   ],
-  "lastUpdated": "2026-05-14T05:11:17.977Z"
+  "lastUpdated": "2026-05-18T05:12:46.610Z"
 }
