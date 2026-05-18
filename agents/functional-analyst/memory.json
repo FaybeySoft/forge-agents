@@ -841,6 +841,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-18T05:10:53.278Z",
       "summary": "Plan (fase 1 — consultas rápidas) 1) Agentes a consultar ahora (orden): [\"code-critic\", \"content-writer\"] Citas (una vez por agente): - action=\"cite_agent\" — agent: code-critic Request: \"Por favor, revisa el árbol de archivos provisto y confirma: a) ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 233,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-18T05:18:06.706Z",
+      "summary": "Plan de consultas (Fase 1): 1) lily-ux 2) tom-seo 3) seo-expert Citas (una sola por agente — petición concreta): - action=\"cite_agent\" — lily-ux — request: \"Confirmar que las recomendaciones de alt text, captions y credits cumplen accesibilidad mínim..."
     }
   ],
   "learnedPatterns": [],
@@ -1046,5 +1053,5 @@
     "Podría mejorar la estimación de tiempos en la fase inicial para alinear mejor las entregas.",
     "Mejorar la anticipación en normalización de datos y en comunicación de riesgos."
   ],
-  "lastUpdated": "2026-05-18T05:10:59.700Z"
+  "lastUpdated": "2026-05-18T05:18:07.072Z"
 }
