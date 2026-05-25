@@ -637,6 +637,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-25T05:18:32.321Z",
       "summary": "Plan: Voy a validar keywords, proponer long-tails, dar 2 meta descriptions optimizadas para CTR, listar campos JSON-LD críticos y entregar recomendaciones prácticas para imágenes (nombres, srcset, sizes, alt). Amy ya dio OK funcional — good call. Con..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 244,
+      "outcome": "ready",
+      "timestamp": "2026-05-25T05:23:26.757Z",
+      "summary": "Resumen ejecutivo (en español, con un toque de marca — confía en mí: esto es glamour técnico): Plan de consultas (solo informativo — pido review final a code-critic una vez mergeable): [\"code-critic\", \"ci-runner-operator\", \"functional-analyst\"]. Resu..."
     }
   ],
   "learnedPatterns": [],
@@ -812,5 +819,5 @@
     "Sería útil incorporar un checklist de impacto SEO para cambios futuros en sanitización.",
     "Podría mejorar la comunicación sobre prioridades de keywords y metas específicas para alinearse mejor."
   ],
-  "lastUpdated": "2026-05-25T05:18:46.856Z"
+  "lastUpdated": "2026-05-25T05:23:28.607Z"
 }
