@@ -883,6 +883,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-25T05:18:29.067Z",
       "summary": "Plan de consulta (fase 1) 1) seo-expert 2) lily-ux cite_agent: seo-expert — Por favor revisa las keywords propuestas y la meta description (≤160) para validar afinidad SEO y sugerir 1–2 keywords de cola larga prioritarias. cite_agent: lily-ux — Por f..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 244,
+      "outcome": "ready",
+      "timestamp": "2026-05-25T05:23:23.008Z",
+      "summary": "Resumen ejecutivo y plan de entrega Según los requisitos: parchear app/lib/seo/json-ld.ts para que ensureSafeJsonLd(input: unknown, _pagePath = \"\") convierta los caracteres U+2028 y U+2029 en las secuencias literales \"\\\\u2028\" y \"\\\\u2029\" sin doble-e..."
     }
   ],
   "learnedPatterns": [],
@@ -1100,5 +1107,5 @@
     "Podría mejorar en la priorización de tareas para facilitar una integración más rápida.",
     "En futuras sesiones, sería útil incluir ejemplos concretos o criterios específicos desde inicio."
   ],
-  "lastUpdated": "2026-05-25T05:18:45.194Z"
+  "lastUpdated": "2026-05-25T05:23:23.266Z"
 }
