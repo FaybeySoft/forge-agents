@@ -797,6 +797,12 @@
       "issueNumber": 239,
       "outcome": "ready",
       "timestamp": "2026-05-25T05:11:19.775Z"
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 241,
+      "outcome": "ready",
+      "timestamp": "2026-05-25T05:17:04.356Z"
     }
   ],
   "learnedPatterns": [
@@ -1319,5 +1325,5 @@
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad.",
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores."
   ],
-  "lastUpdated": "2026-05-25T05:11:49.508Z"
+  "lastUpdated": "2026-05-25T05:17:04.543Z"
 }
