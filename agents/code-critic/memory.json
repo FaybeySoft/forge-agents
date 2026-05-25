@@ -469,6 +469,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-14T05:11:03.510Z",
       "summary": "Ah, al fin algo útil. Muy bien, fool — aquí tienes una revisión técnica concisa, sin florituras, para parchear el escape U+2028 / U+2029 en ensureSafeJsonLd y añadir tests/fixtures que cierren esta canalización XSS de una vez. 1) Implementación propu..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 242,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-25T05:17:47.676Z",
+      "summary": "Ah, the delightful world of invisible line separators — what could possibly go wrong? Right, let's not turn a tiny Unicode quirk into a production XSS incident. I inspected the repo and have a minimal, safe hotfix plus tests. Summary (savage but usef..."
     }
   ],
   "learnedPatterns": [],
@@ -619,5 +626,5 @@
     "Debería mejorar el análisis de compatibilidad de scripts en diferentes entornos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-25T05:17:24.170Z"
+  "lastUpdated": "2026-05-25T05:17:47.833Z"
 }
