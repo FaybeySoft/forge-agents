@@ -1263,7 +1263,12 @@
     "Una planificación detallada y la definición de los plazos claros aseguran entregas oportunas de los dictámenes y CSV.",
     "La integración temprana de todos los roles clave en la revisión evita cuellos de botella de última hora.",
     "Definir claramente los entregables y tareas específicas desde el inicio ayuda a mantener el enfoque.",
-    "Las revisiones en fases y con checklists aumentan la calidad y reducen errores."
+    "Las revisiones en fases y con checklists aumentan la calidad y reducen errores.",
+    "La colaboración estructurada en fases y con agentes específicos ayuda a definir criterios claros desde el inicio.",
+    "Es crucial validar los mecanismos de override y las reglas de ejecución automática antes de su implementación final.",
+    "Un ejemplo funcional compartido en la fase de diseño reduce errores y facilita la revisión final.",
+    "Definir thresholds claros para los checks automáticos evita malos entendidos y mantiene la calidad.",
+    "Es importante documentar cada decisión técnica en la memoria del proyecto para referencia futura."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1325,5 +1330,5 @@
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad.",
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores."
   ],
-  "lastUpdated": "2026-05-25T05:17:04.543Z"
+  "lastUpdated": "2026-05-25T05:17:25.968Z"
 }
