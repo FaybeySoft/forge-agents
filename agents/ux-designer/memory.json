@@ -361,7 +361,8 @@
     "Preparar la lista de assets y placeholders para una integración rápida.",
     "Producido los assets en ruta exacta y en tiempo para la revisión final.",
     "Generó recomendaciones prácticas y ajustadas a las restricciones técnicas y de licencia.",
-    "Proporcionó alt texts y captions precisos, asegurando la accesibilidad y calidad visual."
+    "Proporcionó alt texts y captions precisos, asegurando la accesibilidad y calidad visual.",
+    "Revisó el template de PR para que sea amigable y accesible."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -406,7 +407,8 @@
     "Podría anticipar mejores soluciones visuales en respuesta a restricciones legales.",
     "Podría mejorar en la documentación de metadatos y licencias en la primera subida.",
     "Sugiero mayor anticipación en entregables para evitar trabajo duplicado y mejorar la coordinación con esto.",
-    "Podría mejorar la comunicación anticipada para no retrasar la revisión final."
+    "Podría mejorar la comunicación anticipada para no retrasar la revisión final.",
+    "Necesita incluir más ejemplos visuales en el ejemplo de PR para facilitar la comprensión."
   ],
-  "lastUpdated": "2026-05-25T05:17:10.578Z"
+  "lastUpdated": "2026-05-25T05:17:22.547Z"
 }
