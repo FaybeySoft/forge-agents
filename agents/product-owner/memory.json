@@ -1304,7 +1304,10 @@
     "coordinar con todos los actores tempranamente evita que decisiones incorrectas se perpetúen.",
     "La comunicación formal con agentes especializados fortalece la calidad del resultado final.",
     "Es fundamental definir criterios y expectativas desde el inicio para facilitar aprobaciones y revisiones.",
-    "La revisión y validación continua en CI/CD evita que errores pasen a producción."
+    "La revisión y validación continua en CI/CD evita que errores pasen a producción.",
+    "La colaboración temprana con expertos en estructura de datos ayuda a evitar retrabajos.",
+    "Los tests de idempotencia y SSR son útiles para detectar errores sutiles.",
+    "Mantener firma y sanitización existentes simplifica la integración de parches."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1370,5 +1373,5 @@
     "Podría mejorar en la gestión del tiempo y priorización de tareas para reducir demoras.",
     "Podría mejorar la documentación anticipada de decisiones para facilitar retroalimentación en fases iniciales."
   ],
-  "lastUpdated": "2026-05-25T05:23:21.167Z"
+  "lastUpdated": "2026-05-25T05:23:50.926Z"
 }
