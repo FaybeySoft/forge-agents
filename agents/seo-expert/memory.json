@@ -731,7 +731,8 @@
     "Validó las estrategias de keywords y metadatos, contribuyendo a una estrategia SEO sólida.",
     "Proporcionó reglas específicas para evitar que los hero images bloqueen la web.",
     "Valida que el impacto en structured data y SEO es mínimo y compatible con buenas prácticas.",
-    "Proporcionó análisis detallado y recomendaciones prácticas para optimización SEO."
+    "Proporcionó análisis detallado y recomendaciones prácticas para optimización SEO.",
+    "Validó impacto en la estructura de datos y compatibilidad SEO antes del merge."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -817,7 +818,8 @@
     "Requiere mayor seguimiento en los cambios finales en JSON-LD para evitar errores.",
     "Podría ampliar la lista de validaciones en escenarios complejos.",
     "Sería útil incorporar un checklist de impacto SEO para cambios futuros en sanitización.",
-    "Podría mejorar la comunicación sobre prioridades de keywords y metas específicas para alinearse mejor."
+    "Podría mejorar la comunicación sobre prioridades de keywords y metas específicas para alinearse mejor.",
+    "Debe colaborar más con la fase de integración para evaluar efectos en SSR y cache."
   ],
-  "lastUpdated": "2026-05-25T05:23:28.607Z"
+  "lastUpdated": "2026-05-25T05:23:49.033Z"
 }
