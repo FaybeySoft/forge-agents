@@ -1280,7 +1280,11 @@
     "Es crucial validar los mecanismos de override y las reglas de ejecución automática antes de su implementación final.",
     "Un ejemplo funcional compartido en la fase de diseño reduce errores y facilita la revisión final.",
     "Definir thresholds claros para los checks automáticos evita malos entendidos y mantiene la calidad.",
-    "Es importante documentar cada decisión técnica en la memoria del proyecto para referencia futura."
+    "Es importante documentar cada decisión técnica en la memoria del proyecto para referencia futura.",
+    "La necesidad de una aprobación humana explícita ralentiza etapas críticas, pero es esencial para evitar riesgos legales.",
+    "La preparación anticipada de assets y documentos ayuda a acelerar procesos en fases de aprobación.",
+    "Mantener un estado de triage-pending evita escaladas prematuras y asegura un análisis más profundo.",
+    "Definir claramente las responsabilidades y roles en las fases de coordinación ayuda a reducir errores y mejorar tiempos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1344,5 +1348,5 @@
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores.",
     "Podría mejorar en la gestión del tiempo y priorización de tareas para reducir demoras."
   ],
-  "lastUpdated": "2026-05-25T05:17:47.754Z"
+  "lastUpdated": "2026-05-25T05:18:05.094Z"
 }
