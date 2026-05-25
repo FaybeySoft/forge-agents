@@ -623,6 +623,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-25T05:17:08.354Z",
       "summary": "Ok, vamos a domar ese hero image para que no tire la web. Abajo tienes todo lo necesario para implementar el workflow de publicación semanal: checks concretos (nombres exactos), cuándo son FAIL vs WARN, reglas de bypass para Article #1, mecanismo de ..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 242,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-25T05:17:49.487Z",
+      "summary": "Plan de consulta y llamadas rápidas (fase 1). Plan: [\"amy\", \"chandler\"] Voy a consultar a dos agentes clave una sola vez cada uno para acelerar la decisión: Amy (Functional Analyst / datos de tests) y Chandler (Product Owner / proceso de release & PR..."
     }
   ],
   "learnedPatterns": [],
@@ -794,5 +801,5 @@
     "Requiere mayor seguimiento en los cambios finales en JSON-LD para evitar errores.",
     "Podría ampliar la lista de validaciones en escenarios complejos."
   ],
-  "lastUpdated": "2026-05-25T05:17:20.878Z"
+  "lastUpdated": "2026-05-25T05:17:49.661Z"
 }
