@@ -309,6 +309,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-25T05:11:33.570Z",
       "summary": "Plan: [\"amy\", \"tom\"] acción=cite_agent amy: Por favor revisa y aprueba los alt texts y caption propuestos; confirma el crédito del fotógrafo final y si alguna imagen puede marcarse como decorativa. acción=cite_agent tom: Por favor valida que los tama..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 241,
+      "outcome": "ready",
+      "timestamp": "2026-05-25T05:17:10.375Z",
+      "summary": "Ponte en la piel del autor del artículo: quieres una plantilla que te guíe sin que tengas que adivinar nada. Esto es como darle a alguien un mapa con la X marcada — claro, directo y con señales para evitar que toque lo prohibido. Plan de consulta (pa..."
     }
   ],
   "learnedPatterns": [],
@@ -401,5 +408,5 @@
     "Sugiero mayor anticipación en entregables para evitar trabajo duplicado y mejorar la coordinación con esto.",
     "Podría mejorar la comunicación anticipada para no retrasar la revisión final."
   ],
-  "lastUpdated": "2026-05-25T05:11:43.876Z"
+  "lastUpdated": "2026-05-25T05:17:10.578Z"
 }
