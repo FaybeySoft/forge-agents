@@ -1284,7 +1284,10 @@
     "La necesidad de una aprobación humana explícita ralentiza etapas críticas, pero es esencial para evitar riesgos legales.",
     "La preparación anticipada de assets y documentos ayuda a acelerar procesos en fases de aprobación.",
     "Mantener un estado de triage-pending evita escaladas prematuras y asegura un análisis más profundo.",
-    "Definir claramente las responsabilidades y roles en las fases de coordinación ayuda a reducir errores y mejorar tiempos."
+    "Definir claramente las responsabilidades y roles en las fases de coordinación ayuda a reducir errores y mejorar tiempos.",
+    "La colaboración entre analistas funcionales, críticos de código y expertos SEO garantiza soluciones seguras y efectivas.",
+    "Las validaciones automatizadas y tests específicos para caracteres invisibles minimizan riesgos y regresiones.",
+    "Es importante validar impacto SEO antes y después de cambios en los datos estructurados para mantener la integridad en el search."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1348,5 +1351,5 @@
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores.",
     "Podría mejorar en la gestión del tiempo y priorización de tareas para reducir demoras."
   ],
-  "lastUpdated": "2026-05-25T05:18:05.094Z"
+  "lastUpdated": "2026-05-25T05:18:07.804Z"
 }
