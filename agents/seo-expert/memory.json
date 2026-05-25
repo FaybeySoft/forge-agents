@@ -630,6 +630,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-25T05:17:49.487Z",
       "summary": "Plan de consulta y llamadas rápidas (fase 1). Plan: [\"amy\", \"chandler\"] Voy a consultar a dos agentes clave una sola vez cada uno para acelerar la decisión: Amy (Functional Analyst / datos de tests) y Chandler (Product Owner / proceso de release & PR..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 240,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-25T05:18:32.321Z",
+      "summary": "Plan: Voy a validar keywords, proponer long-tails, dar 2 meta descriptions optimizadas para CTR, listar campos JSON-LD críticos y entregar recomendaciones prácticas para imágenes (nombres, srcset, sizes, alt). Amy ya dio OK funcional — good call. Con..."
     }
   ],
   "learnedPatterns": [],
@@ -803,5 +810,5 @@
     "Podría ampliar la lista de validaciones en escenarios complejos.",
     "Sería útil incorporar un checklist de impacto SEO para cambios futuros en sanitización."
   ],
-  "lastUpdated": "2026-05-25T05:18:05.902Z"
+  "lastUpdated": "2026-05-25T05:18:32.652Z"
 }
