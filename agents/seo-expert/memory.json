@@ -616,6 +616,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-25T05:11:26.833Z",
       "summary": "Plan: voy a consultar rápido a los agentes clave para alinear PO/UX/FA antes de dar el brief final. Consultas (una sola vez a cada agente): - action: cite_agent, to: chandler-po — Por favor confirma si el artículo debe publicarse bajo /blog o /articu..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 241,
+      "outcome": "ready",
+      "timestamp": "2026-05-25T05:17:08.354Z",
+      "summary": "Ok, vamos a domar ese hero image para que no tire la web. Abajo tienes todo lo necesario para implementar el workflow de publicación semanal: checks concretos (nombres exactos), cuándo son FAIL vs WARN, reglas de bypass para Article #1, mecanismo de ..."
     }
   ],
   "learnedPatterns": [],
@@ -785,5 +792,5 @@
     "Podría involucrarse en fases tempranas de planificación para definir mejor las prioridades y evitar retrabajos.",
     "Requiere mayor seguimiento en los cambios finales en JSON-LD para evitar errores."
   ],
-  "lastUpdated": "2026-05-25T05:11:45.606Z"
+  "lastUpdated": "2026-05-25T05:17:08.641Z"
 }
