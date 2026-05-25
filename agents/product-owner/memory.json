@@ -1293,7 +1293,12 @@
     "Definir claramente las responsabilidades y roles en las fases de coordinación ayuda a reducir errores y mejorar tiempos.",
     "La colaboración entre analistas funcionales, críticos de código y expertos SEO garantiza soluciones seguras y efectivas.",
     "Las validaciones automatizadas y tests específicos para caracteres invisibles minimizan riesgos y regresiones.",
-    "Es importante validar impacto SEO antes y después de cambios en los datos estructurados para mantener la integridad en el search."
+    "Es importante validar impacto SEO antes y después de cambios en los datos estructurados para mantener la integridad en el search.",
+    "La separación clara de fases y consulta permite gestionar mejor el proceso y reducir errores.",
+    "coordinar con todos los actores tempranamente evita que decisiones incorrectas se perpetúen.",
+    "La comunicación formal con agentes especializados fortalece la calidad del resultado final.",
+    "Es fundamental definir criterios y expectativas desde el inicio para facilitar aprobaciones y revisiones.",
+    "La revisión y validación continua en CI/CD evita que errores pasen a producción."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1359,5 +1364,5 @@
     "Podría mejorar en la gestión del tiempo y priorización de tareas para reducir demoras.",
     "Podría mejorar la documentación anticipada de decisiones para facilitar retroalimentación en fases iniciales."
   ],
-  "lastUpdated": "2026-05-25T05:18:42.647Z"
+  "lastUpdated": "2026-05-25T05:18:50.540Z"
 }
