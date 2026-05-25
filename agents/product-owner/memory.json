@@ -1244,7 +1244,11 @@
     "Estructurar consultas en fases y con plan definido ayuda a mantener el foco y reduce tiempos de intercambio.",
     "La claridad en entregables y responsabilidades evita confusiones y retrabajos en etapas posteriores.",
     "Involucrar temprano a todos los agentes clave asegura una revisión más ágil y coherente.",
-    "Automatizar checks en CI y definir thresholds claros previene errores en producción y mejora la calidad."
+    "Automatizar checks en CI y definir thresholds claros previene errores en producción y mejora la calidad.",
+    "Es crucial definir claramente los deliverables y criterios de prioridad antes de solicitar la contratación legal.",
+    "La revisión temprana y la coordinación con analistas y expertos legales ahorran tiempo y minimizan riesgos legales.",
+    "Mantener una estructura de archivos y convenciones claras en el repo facilita la integración y futuras revisiones.",
+    "Una planificación detallada y la definición de los plazos claros aseguran entregas oportunas de los dictámenes y CSV."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1306,5 +1310,5 @@
     "Podría reducir un poco el sarcasmo en situaciones delicadas para mantener más formalidad.",
     "Requiere mayor detalle en los briefings para reducir iteraciones posteriores."
   ],
-  "lastUpdated": "2026-05-25T05:09:29.668Z"
+  "lastUpdated": "2026-05-25T05:09:49.241Z"
 }
