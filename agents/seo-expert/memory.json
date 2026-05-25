@@ -707,7 +707,8 @@
     "Validó correctamente la compatibilidad SEO del parche.",
     "Confirmó la keyword final y revisó los recursos existentes eficientemente.",
     "Proporcionó insights relevantes sobre metadata, keywords y schemas, asegurando el alineamiento con objetivos SEO.",
-    "Validó las estrategias de keywords y metadatos, contribuyendo a una estrategia SEO sólida."
+    "Validó las estrategias de keywords y metadatos, contribuyendo a una estrategia SEO sólida.",
+    "Proporcionó reglas específicas para evitar que los hero images bloqueen la web."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -790,7 +791,8 @@
     "Podría haber sugerido mejoras en fixtures para más casos de uso.",
     "Podría mejorar en brindar feedback más rápido para agilizar el proceso.",
     "Podría involucrarse en fases tempranas de planificación para definir mejor las prioridades y evitar retrabajos.",
-    "Requiere mayor seguimiento en los cambios finales en JSON-LD para evitar errores."
+    "Requiere mayor seguimiento en los cambios finales en JSON-LD para evitar errores.",
+    "Podría ampliar la lista de validaciones en escenarios complejos."
   ],
-  "lastUpdated": "2026-05-25T05:17:08.641Z"
+  "lastUpdated": "2026-05-25T05:17:20.878Z"
 }
