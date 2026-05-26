@@ -644,6 +644,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-25T05:23:26.757Z",
       "summary": "Resumen ejecutivo (en español, con un toque de marca — confía en mí: esto es glamour técnico): Plan de consultas (solo informativo — pido review final a code-critic una vez mergeable): [\"code-critic\", \"ci-runner-operator\", \"functional-analyst\"]. Resu..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 245,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-26T05:12:31.436Z",
+      "summary": "Plan (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Citas (una petición por agente — por favor responder UNA VEZ cada uno): - action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya está) los CSV/..."
     }
   ],
   "learnedPatterns": [],
@@ -821,5 +828,5 @@
     "Podría mejorar la comunicación sobre prioridades de keywords y metas específicas para alinearse mejor.",
     "Debe colaborar más con la fase de integración para evaluar efectos en SSR y cache."
   ],
-  "lastUpdated": "2026-05-25T05:23:49.033Z"
+  "lastUpdated": "2026-05-26T05:12:31.641Z"
 }
