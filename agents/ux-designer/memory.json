@@ -330,6 +330,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-25T05:18:34.479Z",
       "summary": "Plan de consulta (fase 1): [\"amy\", \"tom\", \"leslie\"] Citas (una por agente): - action=\"cite_agent\" agent=\"amy\": Por favor confirma que el frontmatter esperado para artículos incluye campos heroImage (string base path), heroAlt, heroCaption, heroCredit..."
+    },
+    {
+      "repo": "Johanson1988/modelos-casas-canarias",
+      "issueNumber": 245,
+      "outcome": "auto_ready",
+      "timestamp": "2026-05-26T05:12:33.378Z",
+      "summary": "[Sub-tarea #247: Generar imágenes optimizadas y metadatos para Artículo #1 (casas tradicionales Canarias)] Plan y estado inicial (fase de consulta → puedo ejecutar rápido): Plan: [\"amy\",\"tom\"] Citas rápidas (fase 1 — 1 petición por agente): - cite_ag..."
     }
   ],
   "learnedPatterns": [],
@@ -428,5 +435,5 @@
     "Podría fortalecer la coordinación con el equipo legal para ajustar los assets en tiempos más ajustados.",
     "Requiere más detalles sobre los atributos de accesibilidad en la fase inicial para evitar retrabajo."
   ],
-  "lastUpdated": "2026-05-26T05:03:52.546Z"
+  "lastUpdated": "2026-05-26T05:12:33.660Z"
 }
