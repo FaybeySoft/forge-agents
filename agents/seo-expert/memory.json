@@ -679,6 +679,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-09T05:14:48.871Z",
       "summary": "Plan: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Voy a pedir la info que necesito antes de dar la decisión final. Confío en que esto será el Gucci del hotfix: limpio, seguro y listo para que Google lo coma con gusto. Citas (1 petición por agente — responde..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 253,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-09T05:16:46.499Z",
+      "summary": "Plan (fase 1 - consultas): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): 1) action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta) estos exports para últimos 6 meses: A) Search ..."
     }
   ],
   "learnedPatterns": [],
@@ -866,5 +873,5 @@
     "Sugeriría automatizar aún más los checks SEO en el pipeline.",
     "Podría participar en las revisiones de impacto post-merge en producción."
   ],
-  "lastUpdated": "2026-06-09T05:15:00.760Z"
+  "lastUpdated": "2026-06-09T05:16:46.709Z"
 }
