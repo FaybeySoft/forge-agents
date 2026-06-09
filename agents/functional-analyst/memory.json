@@ -904,6 +904,13 @@
       "outcome": "wake:standup_reply",
       "timestamp": "2026-06-09T05:06:52.854Z",
       "summary": "Según los requisitos, lo valido y entrego antes de las 12:00 CEST. Propuesta inicial para desbloquear a UX/SEO ahora:\n\n1) Outline (provisional)\n  - H1: \"Modelos de casas en Canarias: guía práctica para elegir tu vivienda\"\n  - H2: \"Tipos de modelos y planos disponibles\"\n  - H2: \"Adaptaciones climátic"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 252,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:08:19.174Z",
+      "summary": "Plan de consultas (fase 1): [\"seo-expert\", \"lily-ux\"] Citas (acción única — petición enviada): 1) action=\"cite_agent\" — seo-expert — request: \"Confirmar (máximo 10 líneas): - Política canonical para posts: trailing slash YES/NO (justificar 1 frase). ..."
     }
   ],
   "learnedPatterns": [],
@@ -1125,5 +1132,5 @@
     "Podría profundizar más en los impactos de estructurados y consumidores internos.",
     "Podría ser más proactivo en solicitar confirmaciones sobre la estructura y ubicaciones de archivos."
   ],
-  "lastUpdated": "2026-06-09T05:07:19.010Z"
+  "lastUpdated": "2026-06-09T05:08:19.462Z"
 }
