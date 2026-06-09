@@ -763,7 +763,8 @@
     "Validó impacto en la estructura de datos y compatibilidad SEO antes del merge.",
     "Proporcionó recomendaciones precisas para mantener la semántica y compatibilidad SEO.",
     "Proporcionó criterios claros para la configuración del workflow.",
-    "Definió claramente keywords, constraints tecnológicos y flujo de consulta correcto."
+    "Definió claramente keywords, constraints tecnológicos y flujo de consulta correcto.",
+    "Dio recomendaciones precisas para los umbrales y validaciones importantes en JSON-LD y SEO."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -853,7 +854,8 @@
     "Debe colaborar más con la fase de integración para evaluar efectos en SSR y cache.",
     "Podría confirmar en mayor detalle las convenciones de nombres y metadatos.",
     "Debería confirmar los paths exactos antes de finalizar la integración.",
-    "Podría mejorar en documentar decisiones en Briefs para facilitar referencia futura."
+    "Podría mejorar en documentar decisiones en Briefs para facilitar referencia futura.",
+    "Sugeriría automatizar aún más los checks SEO en el pipeline."
   ],
-  "lastUpdated": "2026-06-09T05:13:44.661Z"
+  "lastUpdated": "2026-06-09T05:13:59.202Z"
 }
