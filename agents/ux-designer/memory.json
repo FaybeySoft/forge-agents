@@ -344,6 +344,13 @@
       "outcome": "wake:standup_reply",
       "timestamp": "2026-06-09T05:07:01.480Z",
       "summary": "Ponte en la piel del usuario: móvil, red lenta y quiere llegar al contenido ya — no le hagamos dar vueltas por un laberinto para leer el artículo.\n\nPropongo: ilustración estilizada. Razones: más segura legalmente (sin marcas), control total sobre composición y contraste (accesibilidad), y más fácil "
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 252,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:08:23.327Z",
+      "summary": "Ponte en la piel del usuario: quiero un proceso que me deje abrir PRs de blog sin dudas y que la CI haga de guardián. Plan de consulta (ordenado): [\"amy\",\"tom\"]. action=\"cite_agent\" to amy: Por favor confirma (respuesta JSON): 1) ¿requerimos checkbox..."
     }
   ],
   "learnedPatterns": [],
@@ -444,5 +451,5 @@
     "Requiere más detalles sobre los atributos de accesibilidad en la fase inicial para evitar retrabajo.",
     "Debe mejorar la comunicación sobre los formatos y detalles específicos en los briefings."
   ],
-  "lastUpdated": "2026-06-09T05:07:05.919Z"
+  "lastUpdated": "2026-06-09T05:08:23.496Z"
 }
