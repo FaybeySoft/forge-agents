@@ -1,0 +1,16 @@
+{
+  "agentSlug": "security-auditor-json-ld-xss",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 255,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:14:50.637Z"
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-06-09T05:14:50.779Z"
+}
