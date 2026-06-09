@@ -358,6 +358,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-09T05:11:53.706Z",
       "summary": "[Sub-tarea #257: Generar 2 WebP optimizadas para Artículo 1 (casas tradicionales de Canarias)] Ponte en la piel del usuario: necesitamos imágenes hero y inline optimizadas para que el artículo cargue rápido y luzca bien en móvil. Plan: no voy a consu..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 254,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:13:46.428Z",
+      "summary": "Ponte en la piel del usuario: quieres abrir un PR de blog en 5–10 minutos sin que nadie tenga que adivinar si falta algo. Aquí tienes un PR template pulido (texto listo para pegar en el repo), una checklist UX compacta, recomendaciones para CONTRIBUT..."
     }
   ],
   "learnedPatterns": [],
@@ -462,5 +469,5 @@
     "Podría colaborar en el desarrollo de una interfaz más visual para la plantilla.",
     "Necesita integración más temprana en checklists y documentación para evitar retrasos."
   ],
-  "lastUpdated": "2026-06-09T05:12:05.541Z"
+  "lastUpdated": "2026-06-09T05:13:46.699Z"
 }
