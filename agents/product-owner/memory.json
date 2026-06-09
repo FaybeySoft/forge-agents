@@ -1394,7 +1394,12 @@
     "La coordinación temprana y defining entregables claros aceleran el proceso legal y técnico.",
     "Es fundamental validar los inventarios y referencias antes de escalar a legal para evitar retrabajo.",
     "Mantener las rutas y archivos en carpetas existentes garantiza coherencia y facilita la auditoría.",
-    "La política de aprobación humana previa a escaladas a legal previene riesgos y errores legales."
+    "La política de aprobación humana previa a escaladas a legal previene riesgos y errores legales.",
+    "Es fundamental priorizar requisitos y comprobaciones antes del despliegue para evitar bloqueos de última hora.",
+    "La comunicación clara y sincronizada entre todos los agentes reduce tiempos y errores.",
+    "Automatizar validaciones y controles de licencia y metadata en CI es crucial para escalar el proceso.",
+    "Planificar las tareas en etapas secuenciales y definir criterios claros ayuda a asegurar la calidad final.",
+    "El involucramiento temprano de UX y FA evita revisiones tardías y retrabajos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1464,5 +1469,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-09T05:17:02.582Z"
+  "lastUpdated": "2026-06-09T05:17:08.615Z"
 }
