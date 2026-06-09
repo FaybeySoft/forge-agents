@@ -651,6 +651,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-05-26T05:12:31.436Z",
       "summary": "Plan (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Citas (una petición por agente — por favor responder UNA VEZ cada uno): - action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya está) los CSV/..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 252,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:08:21.408Z",
+      "summary": "Plan de consulta: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una por agente — responder UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube (o confirma la ruta exacta en repo) estos CSV en artifacts/audit/ para los últimos 6 ..."
     }
   ],
   "learnedPatterns": [],
@@ -830,5 +837,5 @@
     "Debe colaborar más con la fase de integración para evaluar efectos en SSR y cache.",
     "Podría confirmar en mayor detalle las convenciones de nombres y metadatos."
   ],
-  "lastUpdated": "2026-05-26T05:13:02.605Z"
+  "lastUpdated": "2026-06-09T05:08:21.709Z"
 }
