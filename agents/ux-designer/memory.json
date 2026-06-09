@@ -372,6 +372,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-09T05:16:37.389Z",
       "summary": "Ponte en la piel del usuario: estoy entrando desde móvil con prisa — si Legal dice “no logos”, quiero ver la alternativa clara, rápida y compartible en <72h. Plan de consulta (Phase 1): [\"amy\",\"tom\",\"chandler\"] action=\"cite_agent\" to amy: Confirma rá..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 253,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-09T05:16:49.617Z",
+      "summary": "[Sub-tarea #258: Optimizar y subir hero + thumbnail para Artículo #1 (images + metadata + PR)] Ponte en la piel del usuario: quiere abrir el artículo y ver una imagen hero que carga instantáneamente, con texto alternativo claro y licencia verificada...."
     }
   ],
   "learnedPatterns": [],
@@ -478,5 +485,5 @@
     "Necesita integración más temprana en checklists y documentación para evitar retrasos.",
     "Podría mejorar la guía visual para que sea aún más intuitiva."
   ],
-  "lastUpdated": "2026-06-09T05:16:37.658Z"
+  "lastUpdated": "2026-06-09T05:16:49.778Z"
 }
