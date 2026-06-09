@@ -1364,7 +1364,11 @@
     "Los checklists en PR aseguran calidad y cumplimiento de criterios.",
     "Importancia de definir claramente los requisitos técnicos antes de crear assets visuales.",
     "Comunicación temprana con todos los responsables evita errores y retrabajo.",
-    "La documentación estructurada y consistente facilita verificaciones y delibera."
+    "La documentación estructurada y consistente facilita verificaciones y delibera.",
+    "La automatización con scripts simples y checklists claros reduce errores y asegura la calidad del proceso de publicación semanal.",
+    "Es fundamental definir y validar los umbrales desde el inicio para evitar tareas corregibles después.",
+    "Los ejemplos prácticos en documentación facilitan la adopción y evitan malentendidos.",
+    "Mantener las reglas y rutas en la estructura del repo ayuda en la organización y evita conflictos en CI/CD."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1434,5 +1438,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-09T05:13:40.276Z"
+  "lastUpdated": "2026-06-09T05:14:02.827Z"
 }
