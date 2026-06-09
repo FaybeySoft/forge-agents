@@ -1355,7 +1355,10 @@
     "La validación previa de paths y variables evita retrabajos.",
     "Es importante definir bien la estructura del repo para facilitar integraciones futuras.",
     "La comunicación clara en las decisiones y las plantillas evita confusiones.",
-    "Los checklists en PR aseguran calidad y cumplimiento de criterios."
+    "Los checklists en PR aseguran calidad y cumplimiento de criterios.",
+    "Importancia de definir claramente los requisitos técnicos antes de crear assets visuales.",
+    "Comunicación temprana con todos los responsables evita errores y retrabajo.",
+    "La documentación estructurada y consistente facilita verificaciones y delibera."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1425,5 +1428,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-09T05:11:50.156Z"
+  "lastUpdated": "2026-06-09T05:12:08.685Z"
 }
