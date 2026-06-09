@@ -847,6 +847,13 @@
       "outcome": "wake:standup_facilitate",
       "timestamp": "2026-06-09T05:06:50.797Z",
       "summary": "¿Otra ronda de café antes de validar el brief o nos lanzamos a la piscina sin flotador?  \n\n@functional-analyst: Amy, ¿confirmas que validaste el outline (H1–H3) y las 3 keywords prioritarias para Artículo #1 y las subiste a modelos-casas-canarias#251? Si ya está, añade por favor: 1) riesgo legal/lic"
+    },
+    {
+      "repo": "FaybeySoft/wake",
+      "issueNumber": 0,
+      "outcome": "wake:daily_standup",
+      "timestamp": "2026-06-09T05:07:20.864Z",
+      "summary": "¿Café listo? Porque hoy toca hacer que el blog deje de ser una idea bonita y pase a producción.  \n\nYesterday:\n- healthy-habits#10: feat(scheduler): fully event-driven scheduling (no polling)\n- mente-digital#7: feat(embeddings): inline on save, drop the polling sweep\n\nToday (prioridades concretas):\n1"
     }
   ],
   "learnedPatterns": [
@@ -1399,5 +1406,5 @@
     "Podría mejorar la documentación anticipada de decisiones para facilitar retroalimentación en fases iniciales.",
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación."
   ],
-  "lastUpdated": "2026-06-09T05:07:16.283Z"
+  "lastUpdated": "2026-06-09T05:07:21.066Z"
 }
