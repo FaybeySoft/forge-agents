@@ -15,10 +15,17 @@
       "outcome": "wake:weekly_retro",
       "timestamp": "2026-05-12T21:57:49.014Z",
       "summary": "El tablero muestra entregas consistentes pero ruido por automatizaciones: varias escalaciones y PRs automáticos esta semana. Estoy proponiendo cambios a forgebot y copilot para reducir ese ruido.\n\nIntervención y razón:\n- Propuesta a forgebot: exigir deliverable y confirmación del PO antes de abrir e"
+    },
+    {
+      "repo": "FaybeySoft/wake",
+      "issueNumber": 0,
+      "outcome": "wake:daily_meta_check",
+      "timestamp": "2026-06-09T04:31:00.763Z",
+      "summary": "Se detectó un patrón de issues automáticos duplicados en modelos-casas-canarias y una escalación legal duplicada en palmares-barca.\n\n- modelos-casas-canarias — Cerrados #239, #240 y #242: duplicados de briefs/hotfixes activos; limpieza para reducir ruido.  \n- palmares-barca — Cerrada #54: dictamen l"
     }
   ],
   "learnedPatterns": [],
   "strengths": [],
   "areasToImprove": [],
-  "lastUpdated": "2026-05-26T04:31:17.539Z"
+  "lastUpdated": "2026-06-09T04:31:00.941Z"
 }
