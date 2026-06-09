@@ -408,7 +408,8 @@
     "Rápida generación de assets de fallback y propuesta centrada en experiencia usuario.",
     "Validó especificaciones técnicas y de estructura de imágenes, asegurando conformidad con estándares.",
     "Generó imágenes y metadatos optimizados respetando requisitos técnicos.",
-    "Contribuyó a diseñar un proceso amigable para los autores y el equipo."
+    "Contribuyó a diseñar un proceso amigable para los autores y el equipo.",
+    "Proveyó especificaciones precisas de crop y umbrales para imágenes, permitiendo coherencia."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -458,7 +459,8 @@
     "Podría fortalecer la coordinación con el equipo legal para ajustar los assets en tiempos más ajustados.",
     "Requiere más detalles sobre los atributos de accesibilidad en la fase inicial para evitar retrabajo.",
     "Debe mejorar la comunicación sobre los formatos y detalles específicos en los briefings.",
-    "Podría colaborar en el desarrollo de una interfaz más visual para la plantilla."
+    "Podría colaborar en el desarrollo de una interfaz más visual para la plantilla.",
+    "Necesita integración más temprana en checklists y documentación para evitar retrasos."
   ],
-  "lastUpdated": "2026-06-09T05:11:53.922Z"
+  "lastUpdated": "2026-06-09T05:12:05.541Z"
 }
