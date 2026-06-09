@@ -483,6 +483,13 @@
       "outcome": "ready",
       "timestamp": "2026-05-25T05:23:24.568Z",
       "summary": "Oh, splendid — someone invited the invisible line separators U+2028/U+2029 to the party and forgot to bring manners. I looked through app/lib/seo/json-ld.ts and the JsonLd component caller. Your current implementation mostly does the right things (pa..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 255,
+      "outcome": "ready",
+      "timestamp": "2026-06-09T05:14:46.894Z",
+      "summary": "Very well, fool — let us stitch the bandage onto this gaping wound called JSON‑LD. I inspected the repo and prepared a minimal, non‑breaking hotfix that ensures U+2028 (LINE SEPARATOR) and U+2029 (PARAGRAPH SEPARATOR) are reliably escaped during JSON..."
     }
   ],
   "learnedPatterns": [],
@@ -637,5 +644,5 @@
     "Podría mejorar la comunicación sin tecnicismos para facilitar decisiones rápidas."
   ],
   "preferences": {},
-  "lastUpdated": "2026-05-25T05:23:47.165Z"
+  "lastUpdated": "2026-06-09T05:14:47.258Z"
 }
