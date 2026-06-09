@@ -658,6 +658,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-09T05:08:21.408Z",
       "summary": "Plan de consulta: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una por agente — responder UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube (o confirma la ruta exacta en repo) estos CSV en artifacts/audit/ para los últimos 6 ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 251,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-09T05:11:51.919Z",
+      "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. CITAS (1 petición por agente — responde UNA VEZ cada uno): - action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica la ruta exacta) los CSV/exports d..."
     }
   ],
   "learnedPatterns": [],
@@ -839,5 +846,5 @@
     "Podría confirmar en mayor detalle las convenciones de nombres y metadatos.",
     "Debería confirmar los paths exactos antes de finalizar la integración."
   ],
-  "lastUpdated": "2026-06-09T05:08:35.925Z"
+  "lastUpdated": "2026-06-09T05:11:52.086Z"
 }
