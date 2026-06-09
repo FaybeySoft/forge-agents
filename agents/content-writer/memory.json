@@ -119,6 +119,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-09T05:13:48.013Z",
       "summary": "Ann, you beautiful tropical fish — he preparado el ejemplo de PR y el texto para CONTRIBUTING.md. Incluye dos variantes (A: con imagen incluida, B: assets-pending), checklist CI con comandos reales y un JSON-LD mínimo válido. Archivo listo para pegar..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 253,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-09T05:16:48.095Z",
+      "summary": "Keyword objetivo: \"casas tradicionales de canarias\". Fuentes consultadas en repo: docs/briefs/article-1-brief.md, docs/seo/article-1-schema.json, artifacts/seo/article-1-jsonld.json, scripts/ci-validate-images.mjs. Word counts: brief principal ~820 p..."
     }
   ],
   "learnedPatterns": [],
@@ -161,5 +168,5 @@
     "Podría incluir validaciones para otros tipos de assets o escenarios más complejos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-09T05:13:56.110Z"
+  "lastUpdated": "2026-06-09T05:16:48.266Z"
 }
