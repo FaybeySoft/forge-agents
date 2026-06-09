@@ -1344,7 +1344,12 @@
     "Planificar consulta en fases claras ayuda a evitar retrabajos y confusiones.",
     "Confirmar requisitos con todos los agentes antes de proceder a la implementación reduce errores.",
     "Respetar las convenciones del repo y las estructuras existentes mantiene coherencia y facilita revisiones.",
-    "Es importante definir los entregables y criterios verificables desde el inicio para una colaboración efectiva."
+    "Es importante definir los entregables y criterios verificables desde el inicio para una colaboración efectiva.",
+    "La reutilización de scripts existentes reduce esfuerzo y errores.",
+    "La validación previa de paths y variables evita retrabajos.",
+    "Es importante definir bien la estructura del repo para facilitar integraciones futuras.",
+    "La comunicación clara en las decisiones y las plantillas evita confusiones.",
+    "Los checklists en PR aseguran calidad y cumplimiento de criterios."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1414,5 +1419,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-09T05:08:31.963Z"
+  "lastUpdated": "2026-06-09T05:08:39.851Z"
 }
