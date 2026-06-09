@@ -1390,7 +1390,11 @@
     "La integración temprana de seguridad y impacto en structured data previeneță problemas en producción.",
     "La documentación y los tests claros son esenciales en cambios de seguridad y serialización.",
     "Mantener la estructura del código y los tests en las rutas existentes minimiza riesgos de regressión.",
-    "La colaboración con auditores y analistas asegura confianza en cambios críticos."
+    "La colaboración con auditores y analistas asegura confianza en cambios críticos.",
+    "La coordinación temprana y defining entregables claros aceleran el proceso legal y técnico.",
+    "Es fundamental validar los inventarios y referencias antes de escalar a legal para evitar retrabajo.",
+    "Mantener las rutas y archivos en carpetas existentes garantiza coherencia y facilita la auditoría.",
+    "La política de aprobación humana previa a escaladas a legal previene riesgos y errores legales."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1460,5 +1464,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-09T05:16:40.481Z"
+  "lastUpdated": "2026-06-09T05:17:02.582Z"
 }
