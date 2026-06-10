@@ -796,7 +796,8 @@
     "Validó impacto en structured data y ayudó a definir wording del release note.",
     "Proporcionó especificaciones claras para keywords y metadata, facilitando la integración en brief y metadata JSON.",
     "Aportó criterios clave para optimización SEO y keywords.",
-    "Aportó conocimientos especializados en políticas SEO y mapping técnico para scripts."
+    "Aportó conocimientos especializados en políticas SEO y mapping técnico para scripts.",
+    "Ofreció análisis de impacto SEO y recomendaciones de marcado semántico para assets."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -891,7 +892,8 @@
     "Podría participar en las revisiones de impacto post-merge en producción.",
     "Podría mejorar en la comunicación temprana sobre políticas de licencias y requisitos de assets.",
     "Podría colaborar en la generación de checklist de validación automática.",
-    "Debería incluir instrucciones más precisas para la integración continua y mensajes específicos de fallos."
+    "Debería incluir instrucciones más precisas para la integración continua y mensajes específicos de fallos.",
+    "Debería participar también en fases tempranas para alinear mejor atributos y etiquetas desde el comienzo."
   ],
-  "lastUpdated": "2026-06-10T05:14:15.764Z"
+  "lastUpdated": "2026-06-10T05:16:00.811Z"
 }
