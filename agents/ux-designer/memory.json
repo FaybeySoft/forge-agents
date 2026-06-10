@@ -393,6 +393,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-10T05:13:38.426Z",
       "summary": "Ponte en la piel del usuario: entro desde móvil, con prisa, quiero una UX clara que no me deje colgado si Legal dice “no logos”. Mi plan de consulta rápido (Phase 1): [\"amy\", \"tom\", \"chandler\"]. Corto y al grano — cada uno responde una sola vez en JS..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 260,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-10T05:14:01.738Z",
+      "summary": "Ponte en la piel del usuario: quiero un flujo que permita abrir PRs de blog sin dudas y que la CI haga de guardián. Plan de consulta (ordenado): [\"amy\",\"tom\"]. Voy a pedir dos confirmaciones rápidas antes de entregar los archivos listos para pegar (...."
     }
   ],
   "learnedPatterns": [],
@@ -507,5 +514,5 @@
     "Podría incluir recomendaciones sobre patrones de accesibilidad y usabilidad en la exportación.",
     "Podría profundizar más en escenarios de usuario en contextos móviles."
   ],
-  "lastUpdated": "2026-06-10T05:13:50.439Z"
+  "lastUpdated": "2026-06-10T05:14:02.096Z"
 }
