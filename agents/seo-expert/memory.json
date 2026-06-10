@@ -686,6 +686,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-09T05:16:46.499Z",
       "summary": "Plan (fase 1 - consultas): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): 1) action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta) estos exports para últimos 6 meses: A) Search ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 259,
+      "outcome": "ready",
+      "timestamp": "2026-06-10T05:09:28.180Z",
+      "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] CITAS (una petición por agente — responde UNA VEZ cada uno): - action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya está) los expo..."
     }
   ],
   "learnedPatterns": [],
@@ -875,5 +882,5 @@
     "Podría participar en las revisiones de impacto post-merge en producción.",
     "Podría mejorar en la comunicación temprana sobre políticas de licencias y requisitos de assets."
   ],
-  "lastUpdated": "2026-06-09T05:16:58.919Z"
+  "lastUpdated": "2026-06-10T05:09:28.531Z"
 }
