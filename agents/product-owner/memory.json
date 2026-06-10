@@ -1412,7 +1412,10 @@
     "La comunicación clara y sincronizada entre todos los agentes reduce tiempos y errores.",
     "Automatizar validaciones y controles de licencia y metadata en CI es crucial para escalar el proceso.",
     "Planificar las tareas en etapas secuenciales y definir criterios claros ayuda a asegurar la calidad final.",
-    "El involucramiento temprano de UX y FA evita revisiones tardías y retrabajos."
+    "El involucramiento temprano de UX y FA evita revisiones tardías y retrabajos.",
+    "Las consultas bien estructuradas permiten respuestas precisas y útiles.",
+    "Es importante definir criterios claros desde el inicio y verificarlos en evidencia.",
+    "La colaboración en fases y la documentación en artifacts facilitan la trazabilidad y calidad del contenido."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1482,5 +1485,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-10T05:09:24.811Z"
+  "lastUpdated": "2026-06-10T05:09:45.310Z"
 }
