@@ -414,6 +414,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-10T05:16:13.775Z",
       "summary": "Plan: [\"amy\",\"tom\"] Ponte en la piel del usuario: quiero abrir un PR de blog en 5–10 minutos y que la CI sea un guardián claro (no un juez misterioso). Sigo el plan de consulta y pido confirmaciones rápidas antes de montar los archivos finales. actio..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 261,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-10T05:17:34.649Z",
+      "summary": "Ponte en la piel del usuario: móvil, red ronca, y quiero que la hero cargue antes de que el lector piense en abrir otra pestaña. Plan de consulta (fase 1): [\"amy\",\"tom\"]. action=\"cite_agent\" to amy: Por favor confirma EN UNA RESPUESTA el shape exacto..."
     }
   ],
   "learnedPatterns": [],
@@ -534,5 +541,5 @@
     "Necesita coordinar más en detalle los textos de atribución para evitar revisiones múltiples.",
     "Podría definir mejores indicaciones visuales para los toggle de bloqueo."
   ],
-  "lastUpdated": "2026-06-10T05:16:28.647Z"
+  "lastUpdated": "2026-06-10T05:17:34.989Z"
 }
