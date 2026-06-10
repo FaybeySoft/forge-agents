@@ -1440,7 +1440,11 @@
     "La comunicación rápida y en formato corto mejora la eficiencia y reduce malentendidos.",
     "Es fundamental definir claramente los criterios de evidencia y documentación antes de crear workflows automáticos.",
     "El trabajo colaborativo secuenciado y con roles bien definidos reduce retrabajo y errores.",
-    "Reafirmar que la especificación técnica precisa (comandos, salidas, artefactos) antes de implementar workflows ahorra tiempo y evita fallos en integración."
+    "Reafirmar que la especificación técnica precisa (comandos, salidas, artefactos) antes de implementar workflows ahorra tiempo y evita fallos en integración.",
+    "La claridad en los entregables y en las fases previene bloqueos en legal y diseño.",
+    "La contratación temprana de expertos específicos evita cuellos de botella.",
+    "La estructuración secuencial y las consultas precisas mejoran la eficiencia.",
+    "La documentación y coordinación en fases tempranas reduce retrabajos en revisión final."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1512,5 +1516,5 @@
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias.",
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos."
   ],
-  "lastUpdated": "2026-06-10T05:15:43.932Z"
+  "lastUpdated": "2026-06-10T05:16:04.171Z"
 }
