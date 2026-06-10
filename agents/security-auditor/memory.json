@@ -57,6 +57,12 @@
       "issueNumber": 196,
       "outcome": "ready",
       "timestamp": "2026-05-13T07:56:10.228Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 263,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-10T05:21:18.093Z"
     }
   ],
   "learnedPatterns": [],
@@ -78,5 +84,5 @@
     "Necesita integración más temprana en la planificación inicial para maximizar impacto.",
     "Aún no se realizó la revisión formal, pendiente de aprobación y acción."
   ],
-  "lastUpdated": "2026-05-13T07:56:22.995Z"
+  "lastUpdated": "2026-06-10T05:21:18.247Z"
 }
