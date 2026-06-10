@@ -1466,7 +1466,11 @@
     "La planificación estructurada y la consulta en orden permite rápidamente definir artefactos y requisitos.",
     "La colaboración con agentes especializados mejora la precisión y eficiencia del proceso.",
     "Definir thresholds y mecanismos de bloqueo en fases tempranas evita retrabajo y confusiones.",
-    "Documentar todo en repositorio central facilita futuras auditorías y reproducibilidad."
+    "Documentar todo en repositorio central facilita futuras auditorías y reproducibilidad.",
+    "La inclusión de tests específicos para caracteres invisibles en sanitización es esencial en componentes críticos.",
+    "Revisiones de seguridad y auditorías externas fortalecen la protección contra vulnerabilidades XSS.",
+    "Es recomendable coordinar contrataciones de seguridad antes de tareas críticas de sanitización en producción.",
+    "Mantener estructura consistente para tests y cambios en el código simplifica revisiones y auditorías."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1540,5 +1544,5 @@
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos.",
     "Podría profundizar en especificaciones técnicas para reducir dudas en la automatización."
   ],
-  "lastUpdated": "2026-06-10T05:21:13.128Z"
+  "lastUpdated": "2026-06-10T05:21:35.184Z"
 }
