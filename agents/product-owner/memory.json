@@ -1431,7 +1431,10 @@
     "Es fundamental definir claramente los entregables y formatos desde el inicio para agilizar la revisión.",
     "Consultar agentes especializados en fases tempranas es clave para evitar retrabajos y detectar riesgos.",
     "Mantener toda la documentación en carpetas existentes facilita la trazabilidad y evita errores de estructura.",
-    "La comunicación rápida y en formato corto mejora la eficiencia y reduce malentendidos."
+    "La comunicación rápida y en formato corto mejora la eficiencia y reduce malentendidos.",
+    "Es fundamental definir claramente los criterios de evidencia y documentación antes de crear workflows automáticos.",
+    "El trabajo colaborativo secuenciado y con roles bien definidos reduce retrabajo y errores.",
+    "Reafirmar que la especificación técnica precisa (comandos, salidas, artefactos) antes de implementar workflows ahorra tiempo y evita fallos en integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1503,5 +1506,5 @@
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias.",
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos."
   ],
-  "lastUpdated": "2026-06-10T05:14:12.176Z"
+  "lastUpdated": "2026-06-10T05:14:21.597Z"
 }
