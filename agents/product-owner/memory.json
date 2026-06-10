@@ -1427,7 +1427,11 @@
     "El involucramiento temprano de UX y FA evita revisiones tardías y retrabajos.",
     "Las consultas bien estructuradas permiten respuestas precisas y útiles.",
     "Es importante definir criterios claros desde el inicio y verificarlos en evidencia.",
-    "La colaboración en fases y la documentación en artifacts facilitan la trazabilidad y calidad del contenido."
+    "La colaboración en fases y la documentación en artifacts facilitan la trazabilidad y calidad del contenido.",
+    "Es fundamental definir claramente los entregables y formatos desde el inicio para agilizar la revisión.",
+    "Consultar agentes especializados en fases tempranas es clave para evitar retrabajos y detectar riesgos.",
+    "Mantener toda la documentación en carpetas existentes facilita la trazabilidad y evita errores de estructura.",
+    "La comunicación rápida y en formato corto mejora la eficiencia y reduce malentendidos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1497,5 +1501,5 @@
     "Podría mejorar en la definición temprana de listas de verificación y criterios de aceptación.",
     "Debe incluir más detalles técnicos en las decisiones para futuras referencias."
   ],
-  "lastUpdated": "2026-06-10T05:13:52.110Z"
+  "lastUpdated": "2026-06-10T05:13:55.662Z"
 }
