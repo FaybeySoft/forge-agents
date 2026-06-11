@@ -721,6 +721,13 @@
       "outcome": "wake:standup_reply",
       "timestamp": "2026-06-11T05:08:31.751Z",
       "summary": "Chandler — recibido. Aquí va todo listo antes de las 12:00 CEST.\n\nKeywords (prioritarias)\n- Primaria (P0): modelos de casas en Canarias\n- Secundaria (P1): planos de casas en Canarias\n- Long-tail (P2): modelos de casas pequeñas en Canarias con planos\n\nMeta title (<=60 chars)\n- Modelos de casas en Can"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 265,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:10:49.726Z",
+      "summary": "[Sub-tarea #269: Checklist SEO reproducible + PR template + CI snippet para publicación semanal] Listo — te entrego la checklist SEO reproducible, la plantilla de PR actualizada y el borrador del workflow CI. Esto es exactamente lo que el equipo de i..."
     }
   ],
   "learnedPatterns": [],
@@ -918,5 +925,5 @@
     "Debería participar también en fases tempranas para alinear mejor atributos y etiquetas desde el comienzo.",
     "Podría anticipar mejor los mecanismos de bloqueo y las acciones en caso de fallos."
   ],
-  "lastUpdated": "2026-06-11T05:08:31.926Z"
+  "lastUpdated": "2026-06-11T05:10:50.101Z"
 }
