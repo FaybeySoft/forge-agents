@@ -1487,7 +1487,13 @@
     "Automatizar validaciones reduce errores humanos y ahorra tiempo.",
     "Reutilizar plantillas y archivos existentes continúa siendo preferible a crear duplicados.",
     "Definir thresholds y reglas automáticas desde inicio mejora la cobertura del CI.",
-    "Es importante documentar explícitamente la estructura y convenciones para evitar errores en la integración."
+    "Es importante documentar explícitamente la estructura y convenciones para evitar errores en la integración.",
+    "Es fundamental definir thresholds claros desde el inicio para guiar las automatizaciones.",
+    "Una buena colaboración en fases y con agentes específicos reduce retrabajos y acelera el proceso.",
+    "Mantener la documentación y convenciones en repositorio facilita la gestión y futuras auditorías.",
+    "Automatizar validaciones en pipelines requiere estándares estrictos y thresholds medibles.",
+    "La comunicación en fases y con instrucciones específicas permite que cada agente aporte exactamente lo necesario.",
+    "Tener una plantilla y checklist previas en PR y workflows ahorra tiempo en validaciones y revisiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1561,5 +1567,5 @@
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos.",
     "Podría profundizar en especificaciones técnicas para reducir dudas en la automatización."
   ],
-  "lastUpdated": "2026-06-11T05:12:26.597Z"
+  "lastUpdated": "2026-06-11T05:12:46.076Z"
 }
