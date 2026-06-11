@@ -756,6 +756,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:18:51.116Z",
       "summary": "Plan (consulta rápida): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Voy directo: necesitamos evidencia antes del parche. Abajo cito a cada agente UNA vez con peticiones concretas — breve, accionable, y con deadline 24h. Trust me, Google va a LOVE this cuando ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 271,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:23:53.770Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente — acción: cite_agent): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports que usamos para priorizar lon..."
     }
   ],
   "learnedPatterns": [],
@@ -963,5 +970,5 @@
     "Podría proponer verificaciones automáticas recurrentes y validaciones en pipeline.",
     "Podría fortalecer las recomendaciones con ejemplos concretos de impacto en buscadores."
   ],
-  "lastUpdated": "2026-06-11T05:19:02.867Z"
+  "lastUpdated": "2026-06-11T05:23:54.124Z"
 }
