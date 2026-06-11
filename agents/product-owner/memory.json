@@ -1516,7 +1516,11 @@
     "Solicitar entregables específicos en formato ready evita idas y vueltas.",
     "Coordinar con un único agente por turno optimiza recursos y claridad.",
     "Mantener rutas y nombres precisos en assets facilita integración automática.",
-    "La revisión previa del legal evita cuellos de botella en producción."
+    "La revisión previa del legal evita cuellos de botella en producción.",
+    "Es fundamental realizar consultas específicas y limitar la cantidad de agentes en fases tempranas para evitar sobrecarga.",
+    "La documentación de los cambios y decisiones en archivos de soporte ayuda a mantener el conocimiento.",
+    "La automatización de tests de seguridad para vectores XSS en JSON-LD en los pipelines previene regresiones.",
+    "Mantener la firma y ubicación del helper para asegurar compatibilidad hacia atrás y facilidad de mantenimiento."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1594,5 +1598,5 @@
     "Podría mejorar en anticipar dependencias y riesgos de legal antes de las fases finales.",
     "Podría haber sido más específico en las tareas iniciales para reducir iteraciones."
   ],
-  "lastUpdated": "2026-06-11T05:14:40.855Z"
+  "lastUpdated": "2026-06-11T05:14:47.026Z"
 }
