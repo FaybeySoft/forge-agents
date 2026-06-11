@@ -1526,7 +1526,11 @@
     "Es fundamental realizar consultas específicas y limitar la cantidad de agentes en fases tempranas para evitar sobrecarga.",
     "La documentación de los cambios y decisiones en archivos de soporte ayuda a mantener el conocimiento.",
     "La automatización de tests de seguridad para vectores XSS en JSON-LD en los pipelines previene regresiones.",
-    "Mantener la firma y ubicación del helper para asegurar compatibilidad hacia atrás y facilidad de mantenimiento."
+    "Mantener la firma y ubicación del helper para asegurar compatibilidad hacia atrás y facilidad de mantenimiento.",
+    "La planificación temprana y las consultas específicas evitan retrabajo en entornos urgentes.",
+    "Utilizar feedback de agentes especializados en las etapas iniciales ayuda a definir límites claros y reducir riesgos.",
+    "La definición clara del alcance y los canales productivos agiliza la gestión del proyecto en crisis.",
+    "Priorizar acciones inmediatas, como la contratación urgente, es crucial en escenarios con deadlines estrictos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1606,5 +1610,5 @@
     "Podría haber sido más específico en las tareas iniciales para reducir iteraciones.",
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento."
   ],
-  "lastUpdated": "2026-06-11T05:15:03.191Z"
+  "lastUpdated": "2026-06-11T05:15:06.845Z"
 }
