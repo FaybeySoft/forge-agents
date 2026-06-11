@@ -728,6 +728,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:10:49.726Z",
       "summary": "[Sub-tarea #269: Checklist SEO reproducible + PR template + CI snippet para publicación semanal] Listo — te entrego la checklist SEO reproducible, la plantilla de PR actualizada y el borrador del workflow CI. Esto es exactamente lo que el equipo de i..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 267,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:12:30.295Z",
+      "summary": "Plan de consulta y citas — Tom al habla (el Gucci de los snippets). Voy a transformar las reglas funcionales en checks técnicos CI <10m, pero antes necesito 3 inputs únicos: uno de Amy (FA), uno de Lily (UX) y uno de Chandler (PO). Confía en mí — est..."
     }
   ],
   "learnedPatterns": [],
@@ -927,5 +934,5 @@
     "Podría anticipar mejor los mecanismos de bloqueo y las acciones en caso de fallos.",
     "Sería útil contar con thresholds específicos en respuestas para automatización."
   ],
-  "lastUpdated": "2026-06-11T05:11:01.694Z"
+  "lastUpdated": "2026-06-11T05:12:30.461Z"
 }
