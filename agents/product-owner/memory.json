@@ -1540,7 +1540,10 @@
     "Priorizar la consulta a expertos especializados en etapas tempranas evita bloqueos y retrabajos.",
     "Documentar en convención establecida desde el inicio garantiza trazabilidad y coherencia.",
     "Es eficiente usar agendas de trabajo que permitan decisiones inmediatas, como contratos con SLA claros.",
-    "La gestión de riesgos legales requiere una acción rápida y documentación oficial en formatos adecuados."
+    "La gestión de riesgos legales requiere una acción rápida y documentación oficial en formatos adecuados.",
+    "La comunicación efectiva y concreta acelera la resolución de bugs críticos.",
+    "Mantener capas de defensa en profundidad es fundamental para prevenir vulnerabilidades.",
+    "Es preferible aplicar parches mínimos y bien validados antes que reemplazos complejos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1622,5 +1625,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-11T05:18:44.949Z"
+  "lastUpdated": "2026-06-11T05:19:04.876Z"
 }
