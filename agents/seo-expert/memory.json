@@ -714,6 +714,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-10T05:17:32.761Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor confirma/adjunta en artifacts/audit/ (o indica ruta exacta) los CSVs/exports últimos 6 meses: 1) Search Console — top 20 queries (colu..."
+    },
+    {
+      "repo": "FaybeySoft/wake",
+      "issueNumber": 0,
+      "outcome": "wake:standup_reply",
+      "timestamp": "2026-06-11T05:08:31.751Z",
+      "summary": "Chandler — recibido. Aquí va todo listo antes de las 12:00 CEST.\n\nKeywords (prioritarias)\n- Primaria (P0): modelos de casas en Canarias\n- Secundaria (P1): planos de casas en Canarias\n- Long-tail (P2): modelos de casas pequeñas en Canarias con planos\n\nMeta title (<=60 chars)\n- Modelos de casas en Can"
     }
   ],
   "learnedPatterns": [],
@@ -911,5 +918,5 @@
     "Debería participar también en fases tempranas para alinear mejor atributos y etiquetas desde el comienzo.",
     "Podría anticipar mejor los mecanismos de bloqueo y las acciones en caso de fallos."
   ],
-  "lastUpdated": "2026-06-10T05:17:33.118Z"
+  "lastUpdated": "2026-06-11T05:08:31.926Z"
 }
