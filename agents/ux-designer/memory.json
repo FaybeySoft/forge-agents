@@ -428,6 +428,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:10:51.470Z",
       "summary": "Plan: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Confirma EN UNA RESPUESTA el shape exacto del frontmatter para hero + thumb y si hace falta checkbox de consentimiento (devuélveme JSON mínimo exacto). action=\"cite_agent\" to tom: Confirma EN UNA RESPUE..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 267,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:12:32.200Z",
+      "summary": "Ponte en la piel del usuario: queremos un PR template que permita crear un artículo en 5–10 min y que la CI sea un guardián claro. Mi plan de consulta (ordenado): [\"amy\",\"tom\"]. Después de sus respuestas compongo el markdown final listo para pegar en..."
     }
   ],
   "learnedPatterns": [],
@@ -550,5 +557,5 @@
     "Podría definir mejores indicaciones visuales para los toggle de bloqueo.",
     "Debería ofrecer más ejemplos de componentes y variantes aceptables."
   ],
-  "lastUpdated": "2026-06-11T05:11:03.382Z"
+  "lastUpdated": "2026-06-11T05:12:32.468Z"
 }
