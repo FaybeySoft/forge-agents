@@ -951,6 +951,12 @@
       "issueNumber": 267,
       "outcome": "ready",
       "timestamp": "2026-06-11T05:12:26.239Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 266,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:12:56.508Z"
     }
   ],
   "learnedPatterns": [
@@ -1567,5 +1573,5 @@
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos.",
     "Podría profundizar en especificaciones técnicas para reducir dudas en la automatización."
   ],
-  "lastUpdated": "2026-06-11T05:12:46.076Z"
+  "lastUpdated": "2026-06-11T05:12:56.698Z"
 }
