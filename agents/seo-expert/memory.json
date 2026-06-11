@@ -770,6 +770,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:32:09.838Z",
       "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports que usamos para priorizar long-tails: 1) Search Console — top 20 queries (CSV). 2) ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 273,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:34:40.470Z",
+      "summary": "Plan de consulta: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/: 1) vitest log completo tras correr: npx vitest --run --testNamePattern=\\\"jsonld\\\" -c vitest.config.ts (archivo: artifa..."
     }
   ],
   "learnedPatterns": [],
@@ -981,5 +988,5 @@
     "Recomendaría realizar tests de performance en escenarios extremos.",
     "Debería incluir pasos específicos para validar la integración con otros componentes y evitar regresiones en optimización."
   ],
-  "lastUpdated": "2026-06-11T05:32:21.488Z"
+  "lastUpdated": "2026-06-11T05:34:40.838Z"
 }
