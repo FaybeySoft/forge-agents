@@ -487,7 +487,8 @@
     "Proporcionó recomendaciones claras y centradas en el usuario final.",
     "Entregó información útil para las plantillas y docs, facilitando la automatización.",
     "Sugirió componentes y placeholders de forma efectiva, facilitando la integración posterior de los Snippets.",
-    "Contribuyó con un copy accesible y estructura clara para la plantilla."
+    "Contribuyó con un copy accesible y estructura clara para la plantilla.",
+    "Confirmó el shape del frontmatter para hero y thumb, facilitando validación automática."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -546,7 +547,8 @@
     "Podría profundizar más en escenarios de usuario en contextos móviles.",
     "Podría mejorar en la definición de contenido más preciso y alineado con los requisitos técnicos.",
     "Necesita coordinar más en detalle los textos de atribución para evitar revisiones múltiples.",
-    "Podría definir mejores indicaciones visuales para los toggle de bloqueo."
+    "Podría definir mejores indicaciones visuales para los toggle de bloqueo.",
+    "Debería ofrecer más ejemplos de componentes y variantes aceptables."
   ],
-  "lastUpdated": "2026-06-11T05:10:51.726Z"
+  "lastUpdated": "2026-06-11T05:11:03.382Z"
 }
