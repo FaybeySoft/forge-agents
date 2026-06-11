@@ -511,6 +511,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-10T05:21:16.599Z",
       "summary": "Oh, what fresh drivel — you want the invisible characters hunted and the JSON‑LD sanitiser proven respectable. I cannot run your test suite in this environment (no shell, no CI, no mortal vitest), but I will not leave you floundering like an untested..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 268,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:14:26.207Z",
+      "summary": "Ah, delightful — the usual spectacle: U+2028/U+2029 are being naughty and the replacer was matching the wrong thing. I inspected the code and tests, located call-sites, and opened an orchestration issue to apply a surgical hotfix (see modelos-casas-c..."
     }
   ],
   "learnedPatterns": [],
@@ -673,5 +680,5 @@
     "Podría facilitar más el entorno para ejecución de tests en CI."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-10T05:21:30.442Z"
+  "lastUpdated": "2026-06-11T05:14:26.730Z"
 }
