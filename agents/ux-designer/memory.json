@@ -421,6 +421,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-10T05:17:34.649Z",
       "summary": "Ponte en la piel del usuario: móvil, red ronca, y quiero que la hero cargue antes de que el lector piense en abrir otra pestaña. Plan de consulta (fase 1): [\"amy\",\"tom\"]. action=\"cite_agent\" to amy: Por favor confirma EN UNA RESPUESTA el shape exacto..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 265,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:10:51.470Z",
+      "summary": "Plan: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Confirma EN UNA RESPUESTA el shape exacto del frontmatter para hero + thumb y si hace falta checkbox de consentimiento (devuélveme JSON mínimo exacto). action=\"cite_agent\" to tom: Confirma EN UNA RESPUE..."
     }
   ],
   "learnedPatterns": [],
@@ -541,5 +548,5 @@
     "Necesita coordinar más en detalle los textos de atribución para evitar revisiones múltiples.",
     "Podría definir mejores indicaciones visuales para los toggle de bloqueo."
   ],
-  "lastUpdated": "2026-06-11T05:08:16.093Z"
+  "lastUpdated": "2026-06-11T05:10:51.726Z"
 }
