@@ -988,6 +988,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-10T05:21:14.838Z",
       "summary": "Plan (fase 1 — agentes a consultar): 1) code-critic 2) security-auditor 3) seo-expert ACTION: cite_agent — code-critic — Request: \"Por favor, en la rama actual ejecuta el conjunto de tests relacionados con jsonld (pattern: jsonld, incluye scripts/run..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 265,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:10:47.478Z",
+      "summary": "Plan (fase 1): [\"seo-expert\", \"lily-ux\"]. Citas solicitadas (una petición por agente — acción única): 1) action=\"cite_agent\" — seo-expert — request: \"Confirmar (máximo 8 líneas): política canonical (trailing slash YES/NO) y justificación; lista EXACT..."
     }
   ],
   "learnedPatterns": [],
@@ -1229,5 +1236,5 @@
     "Podría incluir más detalles en las expectativas para las herramientas automáticas.",
     "Podría ofrecer análisis más profundo de cómo los cambios afectan la compatibilidad con otros sistemas."
   ],
-  "lastUpdated": "2026-06-11T05:08:40.490Z"
+  "lastUpdated": "2026-06-11T05:10:47.838Z"
 }
