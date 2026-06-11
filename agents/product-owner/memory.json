@@ -1549,7 +1549,10 @@
     "La gestión de riesgos legales requiere una acción rápida y documentación oficial en formatos adecuados.",
     "La comunicación efectiva y concreta acelera la resolución de bugs críticos.",
     "Mantener capas de defensa en profundidad es fundamental para prevenir vulnerabilidades.",
-    "Es preferible aplicar parches mínimos y bien validados antes que reemplazos complejos."
+    "Es preferible aplicar parches mínimos y bien validados antes que reemplazos complejos.",
+    "Es importante usar regex que coincidan con caracteres Unicode en lugar de secuencias literales para evitar errores en idempotencia.",
+    "La validación con suite de tests focalizados es clave antes de aplicar cambios en código sensible.",
+    "La coordinación entre analistas, SEO y el equipo de código reduce riesgos y mejora la calidad del parche."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1631,5 +1634,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-11T05:23:49.987Z"
+  "lastUpdated": "2026-06-11T05:24:10.619Z"
 }
