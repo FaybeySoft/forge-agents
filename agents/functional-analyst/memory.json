@@ -1023,6 +1023,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-11T05:14:42.689Z",
       "summary": "Plan de consulta (fase 1) y acciones — antes de redactar el dictamen definitivo: 1) plan: [\"code-critic\", \"lily-ux\"] 2) Citas (una sola por agente, acción=\"cite_agent\"): - action=\"cite_agent\" — agent: code-critic Request: \"Por favor revisa el árbol d..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 270,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:18:47.449Z",
+      "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\", \"seo-expert\"] Cite requests (una vez cada agente): 1) cite_agent: code-critic — Request: Por favor ejecuta la suite de tests relacionados con JSON-LD (comando sugerido: npm run test -- --run --test..."
     }
   ],
   "learnedPatterns": [],
@@ -1274,5 +1281,5 @@
     "Se podría mejorar la comunicación anticipando consecuencias y posibles impactos en SEO en fases tempranas.",
     "Podría trabajar en potenciar su capacidad para detectar necesidades adicionales en etapas tempranas del proceso."
   ],
-  "lastUpdated": "2026-06-11T05:15:00.440Z"
+  "lastUpdated": "2026-06-11T05:18:47.802Z"
 }
