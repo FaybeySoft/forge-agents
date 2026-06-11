@@ -1569,7 +1569,11 @@
     "Es fundamental revisar la respuesta de los tests y logs completos antes de avanzar a la fase de implementación rápida (ready).",
     "La coordinación estrecha entre expertos en código, SEO y análisis funcional es clave para resolver rápidamente issues técnicos críticos.",
     "Un parche mínimo y preciso reduce riesgos y mantiene la estabilidad del sistema mientras corrige la incidencia específica.",
-    "Documentar cada paso, incluyendo logs y diferencias, ayuda a mantener la trazabilidad y facilita auditorías futuras."
+    "Documentar cada paso, incluyendo logs y diferencias, ayuda a mantener la trazabilidad y facilita auditorías futuras.",
+    "La comunicación temprana y concreta entre agentes evita trabajos redundantes.",
+    "Las pruebas focalizadas en entorno controlado son clave para validar cambios pequeños.",
+    "El grep repo-wide es un paso imprescindible para detectar propagación accidental del patrón.",
+    "Coordinar validaciones en distintas áreas (SEO, código, estructura) reduce riesgos de regresión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1651,5 +1655,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-11T05:34:34.724Z"
+  "lastUpdated": "2026-06-11T05:34:56.543Z"
 }
