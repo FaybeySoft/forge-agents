@@ -1476,7 +1476,12 @@
     "La inclusión de tests específicos para caracteres invisibles en sanitización es esencial en componentes críticos.",
     "Revisiones de seguridad y auditorías externas fortalecen la protección contra vulnerabilidades XSS.",
     "Es recomendable coordinar contrataciones de seguridad antes de tareas críticas de sanitización en producción.",
-    "Mantener estructura consistente para tests y cambios en el código simplifica revisiones y auditorías."
+    "Mantener estructura consistente para tests y cambios en el código simplifica revisiones y auditorías.",
+    "La comunicación clara y en fases ayuda a evitar retrabajos.",
+    "Automatizar validaciones reduce errores humanos y ahorra tiempo.",
+    "Reutilizar plantillas y archivos existentes continúa siendo preferible a crear duplicados.",
+    "Definir thresholds y reglas automáticas desde inicio mejora la cobertura del CI.",
+    "Es importante documentar explícitamente la estructura y convenciones para evitar errores en la integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1550,5 +1555,5 @@
     "Podría ser más específico en la priorización de evidencias y en la coordinación con agentes técnicos.",
     "Podría profundizar en especificaciones técnicas para reducir dudas en la automatización."
   ],
-  "lastUpdated": "2026-06-11T05:10:45.663Z"
+  "lastUpdated": "2026-06-11T05:11:05.086Z"
 }
