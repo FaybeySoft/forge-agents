@@ -995,6 +995,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:10:47.478Z",
       "summary": "Plan (fase 1): [\"seo-expert\", \"lily-ux\"]. Citas solicitadas (una petición por agente — acción única): 1) action=\"cite_agent\" — seo-expert — request: \"Confirmar (máximo 8 líneas): política canonical (trailing slash YES/NO) y justificación; lista EXACT..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 267,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:12:27.986Z",
+      "summary": "Plan de consultas (fase 1): [\"tom-seo\", \"lily-ux\", \"code-critic\"] ACTION: cite_agent — tom-seo — request: \"Confirmar política canonical para posts (trailing slash: sí/no); lista exacta de frontmatter mínimos para sitemap/canonicals (ej: canonical, sl..."
     }
   ],
   "learnedPatterns": [],
@@ -1238,5 +1245,5 @@
     "Podría ofrecer análisis más profundo de cómo los cambios afectan la compatibilidad con otros sistemas.",
     "Podría mejorar la documentación de los criterios de aceptación en un formato reutilizable."
   ],
-  "lastUpdated": "2026-06-11T05:10:59.635Z"
+  "lastUpdated": "2026-06-11T05:12:28.432Z"
 }
