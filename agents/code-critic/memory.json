@@ -518,6 +518,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:14:26.207Z",
       "summary": "Ah, delightful — the usual spectacle: U+2028/U+2029 are being naughty and the replacer was matching the wrong thing. I inspected the code and tests, located call-sites, and opened an orchestration issue to apply a surgical hotfix (see modelos-casas-c..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 270,
+      "outcome": "ready",
+      "timestamp": "2026-06-11T05:18:49.472Z",
+      "summary": "Oh, what fresh drivel. The bug is obvious: safeStringify in app/lib/seo/json-ld.ts is matching the literal backslash-u sequences (\"\\\\u2028\" / \"\\\\u2029\") instead of the actual Unicode LINE/PARAGRAPH SEPARATOR characters U+2028/U+2029. Result: idempote..."
     }
   ],
   "learnedPatterns": [],
@@ -682,5 +689,5 @@
     "Podría mejorar en la documentación de los fallos y en la sugerencia de soluciones automáticas."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-11T05:14:43.341Z"
+  "lastUpdated": "2026-06-11T05:18:49.829Z"
 }
