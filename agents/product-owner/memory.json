@@ -1499,7 +1499,12 @@
     "Mantener la documentación y convenciones en repositorio facilita la gestión y futuras auditorías.",
     "Automatizar validaciones en pipelines requiere estándares estrictos y thresholds medibles.",
     "La comunicación en fases y con instrucciones específicas permite que cada agente aporte exactamente lo necesario.",
-    "Tener una plantilla y checklist previas en PR y workflows ahorra tiempo en validaciones y revisiones."
+    "Tener una plantilla y checklist previas en PR y workflows ahorra tiempo en validaciones y revisiones.",
+    "La planificación en fases reduce confusiones y mejora la trazabilidad.",
+    "Solicitar entregables específicos en formato ready evita idas y vueltas.",
+    "Coordinar con un único agente por turno optimiza recursos y claridad.",
+    "Mantener rutas y nombres precisos en assets facilita integración automática.",
+    "La revisión previa del legal evita cuellos de botella en producción."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1575,5 +1580,5 @@
     "Podría profundizar en especificaciones técnicas para reducir dudas en la automatización.",
     "Podría mejorar en anticipar dependencias y riesgos de legal antes de las fases finales."
   ],
-  "lastUpdated": "2026-06-11T05:13:18.065Z"
+  "lastUpdated": "2026-06-11T05:13:20.435Z"
 }
