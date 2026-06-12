@@ -890,7 +890,8 @@
     "Revisó la compatibilidad del parche con impacto SEO y aportó análisis relevante.",
     "Validó el impacto semántico y de posicionamiento tras el parche.",
     "Su plan de contingencia y revisión de impacto SEO fue claro y organizado, ayudando a mantener la calidad del release.",
-    "Validó impacto SEO, sugirió grep repo-wide y verificó que no había otros archivos con patrón incorrecto."
+    "Validó impacto SEO, sugirió grep repo-wide y verificó que no había otros archivos con patrón incorrecto.",
+    "Claridad en los checks técnicos y mapping a scripts existentes."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -995,7 +996,8 @@
     "Podría fortalecer las recomendaciones con ejemplos concretos de impacto en buscadores.",
     "Recomendaría realizar tests de performance en escenarios extremos.",
     "Debería incluir pasos específicos para validar la integración con otros componentes y evitar regresiones en optimización.",
-    "Podría incluir análisis de impacto a largo plazo y sugerencias para automatizar detecciones."
+    "Podría incluir análisis de impacto a largo plazo y sugerencias para automatizar detecciones.",
+    "Reforzar integración para verificar thresholds en scripts en CI."
   ],
-  "lastUpdated": "2026-06-12T05:07:49.979Z"
+  "lastUpdated": "2026-06-12T05:08:00.672Z"
 }
