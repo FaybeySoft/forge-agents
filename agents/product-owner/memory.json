@@ -1589,7 +1589,15 @@
     "Definir claramente requisitos técnicos y contenidos en fases iniciales ahorra retrabajos.",
     "Colaborar tempranamente con expertos en SEO y UX garantiza que los entregables sean útiles.",
     "Usar scripts existentes con umbrales bien definidos es eficiente para checks automáticos.",
-    "La comunicación clara y en el idioma del usuario mejora la adopción del workflow."
+    "La comunicación clara y en el idioma del usuario mejora la adopción del workflow.",
+    "La planificación de consultas secuenciales y definir claramente el plan de agentes ayuda a reducir errores y retrabajos.",
+    "Mantener todos los artefactos y documentos dentro de las rutas existentes respeta las reglas del repositorio y evita duplicidades.",
+    "Es fundamental la comunicación temprana y clara entre analistas, diseñadores y expertos legales para minimizar iteraciones y asegurar decisiones informadas.",
+    "La documentación en la estructura acordada facilita revisiones futuras y garantiza coherencia en las entregas.",
+    "Reusar esquemas, plantillas y PRs anteriores contribuye a mantener coherencia y acelerar procesos.",
+    "Las validaciones automáticas y los schemas claros en los CSV reducen errores y mejoran la calidad del entregable final.",
+    "Una buena planificación y el trabajo en fases con entregables claros otorgan transparencia y control del proceso.",
+    "Es importante mantener el foco en las rutas y convenciones del repo para facilitar integración y revisión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1671,5 +1679,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-12T05:11:32.224Z"
+  "lastUpdated": "2026-06-12T05:11:54.822Z"
 }
