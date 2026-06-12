@@ -8,14 +8,16 @@
     "Facilitó la coordinación y enrutamiento a agentes especializados.",
     "Manejo eficaz del estado proceso y gestión de mensajes internos.",
     "Gestión eficiente de comunicación, coordination y documentación.",
-    "Facilitó la detección automática de agentes no planificados."
+    "Facilitó la detección automática de agentes no planificados.",
+    "Sistema alertó correctamente sobre estados y límites en las consultas."
   ],
   "areasToImprove": [
     "Podría mejorar en la gestión de límites de consultas y en facilitar recomendaciones más contextuales.",
     "Debe mejorar la gestión del estado de recuperación de evidencia.",
     "Podría mejorar en la automatización del seguimiento de tareas y notificaciones.",
     "Ninguno relevante.",
-    "Mejorar el manejo de errores en la selección de agentes para evitar repeticiones."
+    "Mejorar el manejo de errores en la selección de agentes para evitar repeticiones.",
+    "Reforzar las instrucciones para evitar consultas fuera del plan, como con agentes no autorizados."
   ],
-  "lastUpdated": "2026-06-11T05:15:17.957Z"
+  "lastUpdated": "2026-06-12T05:15:57.068Z"
 }
