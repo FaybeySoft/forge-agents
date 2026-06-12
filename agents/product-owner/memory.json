@@ -1633,7 +1633,11 @@
     "La coordinación temprana con agentes especializados evita retrabajos y riesgos legales.",
     "Definir rutas y ubicaciones de artefactos en el repo ayuda a mantener la organización y accesibilidad.",
     "La comunicación clara y estructurada en las consultas aumenta la velocidad de respuesta y calidad.",
-    "Planificar plazos realistas y claros para entregas legales y placeholders reduce presiones y errores."
+    "Planificar plazos realistas y claros para entregas legales y placeholders reduce presiones y errores.",
+    "La coordinación temprana con todos los agentes evita retrabajos y retrasos.",
+    "Es clave validar las rutas y estándares en CI antes de subir assets o generar contenido.",
+    "Mantener archivos y convenciones de nombres en línea con los existentes en el repo simplifica el proceso de revisión.",
+    "El proceso de consulta por fases, primero funcional, luego SEO, y finalmente UX/content, funciona bien para evitar confusiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1717,5 +1721,5 @@
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas.",
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad."
   ],
-  "lastUpdated": "2026-06-12T05:16:34.452Z"
+  "lastUpdated": "2026-06-12T05:16:41.814Z"
 }
