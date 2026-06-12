@@ -1603,7 +1603,12 @@
     "Reusar esquemas, plantillas y PRs anteriores contribuye a mantener coherencia y acelerar procesos.",
     "Las validaciones automáticas y los schemas claros en los CSV reducen errores y mejoran la calidad del entregable final.",
     "Una buena planificación y el trabajo en fases con entregables claros otorgan transparencia y control del proceso.",
-    "Es importante mantener el foco en las rutas y convenciones del repo para facilitar integración y revisión."
+    "Es importante mantener el foco en las rutas y convenciones del repo para facilitar integración y revisión.",
+    "La colaboración estructurada con checkpoints claros reduce errores.",
+    "Es importante validar thresholds y scripts antes del diseño final.",
+    "Auto-automatización en pipelines ayuda a detectar errores tempranamente.",
+    "Las aprobaciones manuales en PR son un paso crítico para mantener calidad.",
+    "Documentar claramente los thresholds y procesos evita confusiones futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1685,5 +1690,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-12T05:12:28.903Z"
+  "lastUpdated": "2026-06-12T05:12:47.691Z"
 }
