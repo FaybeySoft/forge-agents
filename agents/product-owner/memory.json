@@ -1614,7 +1614,10 @@
     "Es importante validar thresholds y scripts antes del diseño final.",
     "Auto-automatización en pipelines ayuda a detectar errores tempranamente.",
     "Las aprobaciones manuales en PR son un paso crítico para mantener calidad.",
-    "Documentar claramente los thresholds y procesos evita confusiones futuras."
+    "Documentar claramente los thresholds y procesos evita confusiones futuras.",
+    "Los cambios pequeños y bien planeados en la estructura existente reducen riesgos.",
+    "Consultar con los agentes adecuados antes de cambios críticos ayuda a evitar errores.",
+    "Documentar decisiones y estructura del repo facilita futuras implementaciones y mantenimientos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1696,5 +1699,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-12T05:14:24.670Z"
+  "lastUpdated": "2026-06-12T05:14:43.314Z"
 }
