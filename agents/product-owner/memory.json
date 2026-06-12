@@ -1579,7 +1579,11 @@
     "La comunicación temprana y concreta entre agentes evita trabajos redundantes.",
     "Las pruebas focalizadas en entorno controlado son clave para validar cambios pequeños.",
     "El grep repo-wide es un paso imprescindible para detectar propagación accidental del patrón.",
-    "Coordinar validaciones en distintas áreas (SEO, código, estructura) reduce riesgos de regresión."
+    "Coordinar validaciones en distintas áreas (SEO, código, estructura) reduce riesgos de regresión.",
+    "Definir claramente requisitos técnicos y contenidos en fases iniciales ahorra retrabajos.",
+    "Colaborar tempranamente con expertos en SEO y UX garantiza que los entregables sean útiles.",
+    "Usar scripts existentes con umbrales bien definidos es eficiente para checks automáticos.",
+    "La comunicación clara y en el idioma del usuario mejora la adopción del workflow."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1661,5 +1665,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-12T05:07:45.840Z"
+  "lastUpdated": "2026-06-12T05:08:06.539Z"
 }
