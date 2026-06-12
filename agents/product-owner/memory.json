@@ -1623,7 +1623,11 @@
     "Documentar claramente los thresholds y procesos evita confusiones futuras.",
     "Los cambios pequeños y bien planeados en la estructura existente reducen riesgos.",
     "Consultar con los agentes adecuados antes de cambios críticos ayuda a evitar errores.",
-    "Documentar decisiones y estructura del repo facilita futuras implementaciones y mantenimientos."
+    "Documentar decisiones y estructura del repo facilita futuras implementaciones y mantenimientos.",
+    "La coordinación temprana con agentes especializados evita retrabajos y riesgos legales.",
+    "Definir rutas y ubicaciones de artefactos en el repo ayuda a mantener la organización y accesibilidad.",
+    "La comunicación clara y estructurada en las consultas aumenta la velocidad de respuesta y calidad.",
+    "Planificar plazos realistas y claros para entregas legales y placeholders reduce presiones y errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1705,5 +1709,5 @@
     "Podría mejorar en la formulación de consultas específicas y en definir más claramente los alcances de cada requerimiento.",
     "Podría mejorar en plazos de comunicación para facilitar decisiones rápidas."
   ],
-  "lastUpdated": "2026-06-12T05:15:42.190Z"
+  "lastUpdated": "2026-06-12T05:15:58.664Z"
 }
