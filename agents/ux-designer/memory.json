@@ -519,7 +519,8 @@
     "Confirmó el shape del frontmatter para hero y thumb, facilitando validación automática.",
     "Diseñó un template de PR amigable y accesible, considerando usabilidad y claridad.",
     "Preparó assets visuales y readme con detalles técnicos útiles para la implementación.",
-    "Aportó un análisis del contexto del usuario para limitar el alcance del dictamen en MVP."
+    "Aportó un análisis del contexto del usuario para limitar el alcance del dictamen en MVP.",
+    "Propuestas de copy amigable y fácil de entender para autores."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -582,7 +583,8 @@
     "Debería ofrecer más ejemplos de componentes y variantes aceptables.",
     "Requiere mejorar en la documentación de ejemplos concretos y validaciones visuales.",
     "Debería integrar más feedback de usuarios para afinar las rutas y focal points.",
-    "Podría incluir más detalles sobre rutas de usuario y flujos para mejorar la precisión en los entregables."
+    "Podría incluir más detalles sobre rutas de usuario y flujos para mejorar la precisión en los entregables.",
+    "Asegurar que los mensajes en la plantilla sean claros y en español."
   ],
-  "lastUpdated": "2026-06-12T05:07:51.677Z"
+  "lastUpdated": "2026-06-12T05:08:02.614Z"
 }
