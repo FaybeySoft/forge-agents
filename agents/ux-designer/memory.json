@@ -463,6 +463,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-12T05:11:37.667Z",
       "summary": "Plan de consulta (Phase 1): [\"amy\",\"tom\",\"chandler\"] CITAS (cada agente, 1 sola vez — petición corta en JSON): action=\"cite_agent\" to amy: Por favor responde en JSON corto (máx. 1 objeto): 1) Lista definitiva de assets relevantes para /palmares/barca..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 277,
+      "outcome": "ready",
+      "timestamp": "2026-06-12T05:12:34.335Z",
+      "summary": "Ponte en la piel del usuario: queremos que abrir un PR de blog sea rápido, claro y que la CI actúe como guardián, no como juez misterioso. Mi plan de consulta (ordenado): [\"amy\",\"tom\"]. A continuación cito a cada agente UNA sola vez pidiéndoles una r..."
     }
   ],
   "learnedPatterns": [],
@@ -595,5 +602,5 @@
     "Asegurar que los mensajes en la plantilla sean claros y en español.",
     "Le gustaría mayor integración temprana en las fases iniciales del proceso para reducir iteraciones finales."
   ],
-  "lastUpdated": "2026-06-12T05:11:49.388Z"
+  "lastUpdated": "2026-06-12T05:12:34.682Z"
 }
