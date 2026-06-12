@@ -1051,6 +1051,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-11T05:34:36.180Z",
       "summary": "Plan de consultas (fase 1 — órdenes de consulta) 1) code-critic 2) security-auditor 3) seo-expert ACTION: cite_agent — code-critic — Request: Ejecuta localmente la suite de tests relacionados con jsonld (comando propuesto: npx vitest --run --testName..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 275,
+      "outcome": "ready",
+      "timestamp": "2026-06-12T05:07:47.891Z",
+      "summary": "Plan de consultas (Fase 1): [\"lily-ux\",\"tom-seo\",\"seo-expert\"]. CITAS (una sola por agente — petición concreta): - action=\"cite_agent\" — lily-ux — request: \"Confirmar si el checklist-weekly para publicar 1 artículo/semana debe incluir comprobaciones ..."
     }
   ],
   "learnedPatterns": [],
@@ -1308,5 +1315,5 @@
     "Podría fortalecer la validación previa incluyendo pruebas automatizadas adicionales que cubran más casos límite.",
     "Puede profundizar más en los efectos de los caracteres invisibles en datos estructurados y en clientes SEO."
   ],
-  "lastUpdated": "2026-06-12T05:07:17.622Z"
+  "lastUpdated": "2026-06-12T05:07:48.168Z"
 }
