@@ -22,10 +22,17 @@
       "outcome": "wake:daily_meta_check",
       "timestamp": "2026-06-09T04:31:00.763Z",
       "summary": "Se detectó un patrón de issues automáticos duplicados en modelos-casas-canarias y una escalación legal duplicada en palmares-barca.\n\n- modelos-casas-canarias — Cerrados #239, #240 y #242: duplicados de briefs/hotfixes activos; limpieza para reducir ruido.  \n- palmares-barca — Cerrada #54: dictamen l"
+    },
+    {
+      "repo": "FaybeySoft/wake",
+      "issueNumber": 0,
+      "outcome": "wake:weekly_retro",
+      "timestamp": "2026-06-14T05:01:27.937Z",
+      "summary": "El tablero muestra avance técnico hacia arquitecturas event-driven y, a la vez, un aumento de ruido operativo generado por artefactos automáticos de ForgeBot.  \nIntervención: documenté la situación y planteé un conjunto de propuestas de gobernanza (triage diario, briefs con AC, ventana semanal de li"
     }
   ],
   "learnedPatterns": [],
   "strengths": [],
   "areasToImprove": [],
-  "lastUpdated": "2026-06-14T04:30:32.833Z"
+  "lastUpdated": "2026-06-14T05:01:28.116Z"
 }
