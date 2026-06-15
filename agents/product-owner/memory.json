@@ -1767,7 +1767,10 @@
     "La evidencia reproducible y los artefactos claros son esenciales para diagnósticos técnicos confiables.",
     "No se debe modificar código sin tener toda la evidencia y autorización previa.",
     "El mapeo de callers inseguros requiere un análisis exhaustivo y cuidadoso, y no debe apresurarse.",
-    "Es importante coordinar la consulta con los expertos en impacto SEO y seguridad antes de actuar en el código."
+    "Es importante coordinar la consulta con los expertos en impacto SEO y seguridad antes de actuar en el código.",
+    "La colaboración coordinada entre análisis, desarrollo y seguridad reduce mucho los riesgos en cambios delicados.",
+    "Generar artefactos de reproducción en artículos específicos facilita auditorías futuras y cumplimiento de estándares.",
+    "El mapeo de callsites es clave para entender el impacto real y priorizar acciones correctivas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1857,5 +1860,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-15T06:02:49.441Z"
+  "lastUpdated": "2026-06-15T06:03:11.405Z"
 }
