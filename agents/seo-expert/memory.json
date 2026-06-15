@@ -847,6 +847,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:27:02.941Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\", \"lily-ux\", \"chandler-po\"]. Voy a pedirles 3 inputs concretos UNA sola vez cada uno. Tras sus respuestas preparo el informe final (fase 2) con la conclusión, los 6 puntos solicitados y los acceptance criteria list..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 287,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:28:57.686Z",
+      "summary": "Plan: [\"amy-fa\", \"code-critic\", \"chandler-po\"] Citas (una petición por agente — action=\"cite_agent\"): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor busca en los contenidos indexados/frontmatter de los últimos 6 meses (content/ y app/content/)..."
     }
   ],
   "learnedPatterns": [],
@@ -1080,5 +1087,5 @@
     "Podría incluir recomendaciones para vigilancia automática y versiones alternativas del parche.",
     "Requiere mayor integración con los tests de seguridad para prevenir vulnerabilidades."
   ],
-  "lastUpdated": "2026-06-15T05:27:17.429Z"
+  "lastUpdated": "2026-06-15T05:28:58.114Z"
 }
