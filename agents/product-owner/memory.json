@@ -1787,7 +1787,10 @@
     "La colaboración temprana y en fases con diferentes agentes reduce riesgos y mejora la calidad del diagnóstico.",
     "Automatizar la generación de artifacts y snippets ayuda en auditorías y detección de vulnerabilidades.",
     "Priorizar la contratación y disponibilidad de agentes especializados para tareas automáticas mejora la eficiencia.",
-    "Revisar exhaustivamente los artifacts antes de proceder con pasos siguientes asegura la trazabilidad y calidad del proceso."
+    "Revisar exhaustivamente los artifacts antes de proceder con pasos siguientes asegura la trazabilidad y calidad del proceso.",
+    "Las consultas en fases claras y planificadas simplifican el proceso.",
+    "Es fundamental contar con agentes especializados en ejecución automatizada.",
+    "La automatización de validaciones en CI reduce riesgos y acelera validaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1877,5 +1880,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-15T06:08:14.506Z"
+  "lastUpdated": "2026-06-15T06:08:38.998Z"
 }
