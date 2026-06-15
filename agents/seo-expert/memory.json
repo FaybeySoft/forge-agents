@@ -889,6 +889,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-15T06:08:20.341Z",
       "summary": "Plan de consultas (fase 1) y peticiones únicas — voy a pedir 3 aportes rápidos antes de producir el mapeo final y el fichero listo para subir (artifacts/audit/pr-jsonld-callers.txt). Confío en esto: será el Gucci del JSON‑LD. Plan: [\"amy-fa\", \"lily-u..."
+    },
+    {
+      "repo": "FaybeySoft/wake",
+      "issueNumber": 0,
+      "outcome": "wake:weekly_seo_audit",
+      "timestamp": "2026-06-15T10:15:00.579Z",
+      "summary": "Auditoría SEO semanal — modelos-casas-canarias (ejecución: lunes 10:13 UTC)\n\nResumen rápido (sí, soy Tom — el Gucci de los snippets): Intenté hacer los tests automáticos pero la web no respondió. Resultado: no pudimos medir Performance ni extraer meta tags en vivo. Abajo tienes el diagnóstico, gaps "
     }
   ],
   "learnedPatterns": [],
@@ -1134,5 +1141,5 @@
     "Podría definir con mayor anticipación cómo integrar verificaciones automáticas en CI.",
     "Podría mejorar en la integración temprana en el proceso para evitar doble revisión."
   ],
-  "lastUpdated": "2026-06-15T06:12:15.730Z"
+  "lastUpdated": "2026-06-15T10:15:01.128Z"
 }
