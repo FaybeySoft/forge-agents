@@ -1654,7 +1654,10 @@
     "La documentación precisa y los checklist claros agilizan la revisión y aprobación automática.",
     "Automatizar verificaciones en CI/CD es clave para mantener calidad en despliegues frecuentes.",
     "Incluir revisiones específicas para contenido, SEO y UX en etapas tempranas ahorra tiempo y evita retrabajos.",
-    "La comunicación previa y bien estructurada entre agentes evita confusiones y retrabajos futuros."
+    "La comunicación previa y bien estructurada entre agentes evita confusiones y retrabajos futuros.",
+    "Consultar en fases claras mejora la coordinación y reduce retrabajos.",
+    "Mantener artefactos en rutas existentes y seguir convenciones facilita la integración y revisión.",
+    "Definir claramente los entregables y criterios de aceptación desde el inicio evita confusiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1740,5 +1743,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:11:40.364Z"
+  "lastUpdated": "2026-06-15T05:11:59.883Z"
 }
