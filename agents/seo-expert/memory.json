@@ -1001,7 +1001,8 @@
     "Su análisis ayudó a entender el impacto en motores de búsqueda y en la estructura de datos.",
     "Confirmó que el escape de code points no impacta negativamente en SEO y indexación.",
     "Proporcionó insights sobre riesgos relacionados con la estructura de datos y compatibilidad.",
-    "Realizó un mapeo completo de callsites y evaluó riesgos de SEO y seguridad de forma estructurada."
+    "Realizó un mapeo completo de callsites y evaluó riesgos de SEO y seguridad de forma estructurada.",
+    "Su validación SEO ayudó a descartar riesgos en patrones y flags antes de ejecutar en el runner."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -1119,7 +1120,8 @@
     "Requiere mayor integración con los tests de seguridad para prevenir vulnerabilidades.",
     "Debería recomendar directrices claras para evitar omisiones en futuras implementaciones.",
     "Podría contribuir en campañas de validación automática en fases futuras.",
-    "Sería útil incorporar recomendaciones automatizadas en los reports para acciones inmediatas."
+    "Sería útil incorporar recomendaciones automatizadas en los reports para acciones inmediatas.",
+    "Podría profundizar más en la evaluación de impacto en las métricas y en la compatibilidad con los cambios automáticos."
   ],
-  "lastUpdated": "2026-06-15T06:06:30.405Z"
+  "lastUpdated": "2026-06-15T06:06:43.968Z"
 }
