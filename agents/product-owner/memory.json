@@ -1691,7 +1691,10 @@
     "La colaboración con agentes especializados reduce riesgos de vulnerabilidades en cambios críticos.",
     "La colaboración en fases tempranas entre analistas, SEO y UX evita retrabajos.",
     "Reutilizar scripts y documentación existente reduce duplicidad y agiliza la integración.",
-    "Definir criterios claros y thresholds desde el principio mejora la automatización y la confianza en los checks automáticos."
+    "Definir criterios claros y thresholds desde el principio mejora la automatización y la confianza en los checks automáticos.",
+    "Para issues de seguridad críticos, primero identificar el comportamiento fallido y reproducirlo con artefactos antes de aplicar parches.",
+    "El análisis en fases con agentes especializados evita errores mayores en cambios rápidos.",
+    "La automatización de generación de artefactos ayuda a acelerar revisiones y validaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1777,5 +1780,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:22:56.764Z"
+  "lastUpdated": "2026-06-15T05:23:13.946Z"
 }
