@@ -826,6 +826,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:16:51.613Z",
       "summary": "[Sub-tarea #285: Spec: Umbrales SEO y comandos CI para blog-publish workflow] Plan de consulta (fase 1) y petición a agentes Plan: [\"chandler\", \"amy\", \"lily\"] Por favor, cada agente — una sola respuesta breve: - chandler (PO): ¿Confirmas que cualquie..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 283,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:16:53.430Z",
+      "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Cito a agentes (1 petición cada uno): - action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Podés subir a artifacts/audit/ (o indicar ruta exacta si ya existe) los exports de los últimos 6 meses que usamos habitualme..."
     }
   ],
   "learnedPatterns": [],
@@ -1051,5 +1058,5 @@
     "Podría reforzar la automatización en el monitoreo continuo de fallos SEO.",
     "Podría mejorar la automatización de validaciones en fases tempranas."
   ],
-  "lastUpdated": "2026-06-15T05:16:52.063Z"
+  "lastUpdated": "2026-06-15T05:16:55.384Z"
 }
