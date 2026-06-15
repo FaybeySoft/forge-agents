@@ -27,6 +27,12 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:02:56.509Z",
       "summary": "[Sub-tarea #297: Run JSON-LD repro commands and produce audit artifacts for PR-156] Phase 1 — Consultation plan and citations plan: [\"functional-analyst\", \"seo-expert\", \"ux-designer\"] CITATIONS (one request each): - functional-analyst (action=\"cite_a..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 296,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T06:06:31.955Z"
     }
   ],
   "learnedPatterns": [],
@@ -38,5 +44,5 @@
     "Debe mejorar en la gestión de permisos y en la captura de logs en casos de errores críticos.",
     "Necesita mejoras en la integración con pipelines para automatizar aún más los informes."
   ],
-  "lastUpdated": "2026-06-15T06:03:09.822Z"
+  "lastUpdated": "2026-06-15T06:06:32.131Z"
 }
