@@ -1107,6 +1107,12 @@
       "issueNumber": 291,
       "outcome": "ready",
       "timestamp": "2026-06-15T05:50:47.658Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 292,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:58:53.739Z"
     }
   ],
   "learnedPatterns": [
@@ -1839,5 +1845,5 @@
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos.",
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles."
   ],
-  "lastUpdated": "2026-06-15T05:51:11.682Z"
+  "lastUpdated": "2026-06-15T05:58:54.102Z"
 }
