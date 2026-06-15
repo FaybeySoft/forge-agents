@@ -595,6 +595,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:39:58.381Z",
       "summary": "Oh, what fresh drivel — someone taught regex to cower in the wrong place. I inspected the serializer and tests (couldn't run vitest in this environment), found the exact culprit, and opened a forgebot hotfix issue so CI can run the heavy lifting. Sum..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 290,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:42:53.863Z",
+      "summary": "Oh, splendid — someone thought matching the literal string \"\\\\u2028\" would magically catch raw U+2028 characters. What is this drivel? I inspected app/lib/seo/json-ld.ts and the bug is obvious: safeStringify replaces the four-character sequence \"\\\\u2..."
     }
   ],
   "learnedPatterns": [],
@@ -777,5 +784,5 @@
     "Podría mejorar en comunicar recomendaciones de forma aún más clara y detallada."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-15T05:39:58.682Z"
+  "lastUpdated": "2026-06-15T05:42:54.027Z"
 }
