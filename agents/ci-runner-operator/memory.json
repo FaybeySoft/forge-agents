@@ -33,6 +33,12 @@
       "issueNumber": 296,
       "outcome": "ready",
       "timestamp": "2026-06-15T06:06:31.955Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 295,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T06:08:22.392Z"
     }
   ],
   "learnedPatterns": [],
@@ -46,5 +52,5 @@
     "Necesita mejoras en la integración con pipelines para automatizar aún más los informes.",
     "Debería tener una interfaz más clara para reportar errores o blockeos en la ejecución, mejorando la comunicación con PO."
   ],
-  "lastUpdated": "2026-06-15T06:06:45.834Z"
+  "lastUpdated": "2026-06-15T06:08:22.558Z"
 }
