@@ -1700,7 +1700,12 @@
     "Definir criterios claros y thresholds desde el principio mejora la automatización y la confianza en los checks automáticos.",
     "Para issues de seguridad críticos, primero identificar el comportamiento fallido y reproducirlo con artefactos antes de aplicar parches.",
     "El análisis en fases con agentes especializados evita errores mayores en cambios rápidos.",
-    "La automatización de generación de artefactos ayuda a acelerar revisiones y validaciones."
+    "La automatización de generación de artefactos ayuda a acelerar revisiones y validaciones.",
+    "Es fundamental definir claramente los pasos de reproducción y rutas de artefactos antes de ejecutar en vivo.",
+    "La automatización con agentes especializados reduce errores y acelera la detección de fallos.",
+    "Es recomendable contratar agentes que puedan ejecutar comandos y generar logs reproducibles en CI.",
+    "La comunicación en fases secuenciales garantiza mayor control y claridad en tareas complejas.",
+    "Los reportes automáticos y el análisis estructurado facilitan la toma de decisiones rápidas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1786,5 +1791,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:26:56.950Z"
+  "lastUpdated": "2026-06-15T05:27:19.513Z"
 }
