@@ -1,0 +1,13 @@
+{
+  "agentSlug": " code-critic",
+  "preferences": {},
+  "experience": [],
+  "learnedPatterns": [],
+  "strengths": [
+    "Revisó y propuso un parche mínimo con bajo riesgo, detectó áreas de mejora en ser reproducible en CI."
+  ],
+  "areasToImprove": [
+    "No pudo ejecutarlo en entorno local, por lo que dependimos de su inspección manual, lo que podría retrasar respuestas automatizadas."
+  ],
+  "lastUpdated": "2026-06-15T05:36:59.641Z"
+}
