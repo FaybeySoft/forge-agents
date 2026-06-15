@@ -1682,7 +1682,10 @@
     "Mantener un proceso estructurado permite una gestión eficiente, aunque requiere disciplina en las validaciones.",
     "Los tests específicos para caracteres invisibles son cruciales en contextos de seguridad.",
     "Mantener la API sin cambios permite que las soluciones sean interoperables y reversibles.",
-    "La colaboración con agentes especializados reduce riesgos de vulnerabilidades en cambios críticos."
+    "La colaboración con agentes especializados reduce riesgos de vulnerabilidades en cambios críticos.",
+    "La colaboración en fases tempranas entre analistas, SEO y UX evita retrabajos.",
+    "Reutilizar scripts y documentación existente reduce duplicidad y agiliza la integración.",
+    "Definir criterios claros y thresholds desde el principio mejora la automatización y la confianza en los checks automáticos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1768,5 +1771,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:17:12.031Z"
+  "lastUpdated": "2026-06-15T05:17:15.114Z"
 }
