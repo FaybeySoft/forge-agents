@@ -1746,7 +1746,12 @@
     "La cobertura automatizada y los logs automáticos agilizan la validación y aumentan la confianza en los cambios rápidos.",
     "Consultar en orden previo a implementar ahorra retrabajos y mantiene el foco en los aspectos críticos primero.",
     "Revisar los regex y patrones en funciones críticas (como stringify) es vital, especialmente frente a caracteres Unicode invisibles.",
-    "La colaboración ágil entre analistas y desarrolladores, con validaciones rápidas, permite respuestas efectivas ante vulnerabilidades de seguridad."
+    "La colaboración ágil entre analistas y desarrolladores, con validaciones rápidas, permite respuestas efectivas ante vulnerabilidades de seguridad.",
+    "Es fundamental definir claramente el alcance del cambio mínimo en vulnerabilidades de seguridad antes de aplicar.",
+    "La generación y análisis de artefactos reproducibles es vital para la trazabilidad y aseguramiento de la solución.",
+    "Coordinar con agentes especializados en seguridad y funcionalidad minimiza riesgos y mejora la calidad del parche.",
+    "Mantener los cambios en funciones críticas como replace() en su estado más simple es recomendable, salvo indicación contraria del auditor.",
+    "Una comunicación clara y rápida con agentes externos (contrataciones, revisores) acelera la resolución de vulnerabilidades complejas."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1834,5 +1839,5 @@
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos.",
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles."
   ],
-  "lastUpdated": "2026-06-15T05:50:47.845Z"
+  "lastUpdated": "2026-06-15T05:51:11.682Z"
 }
