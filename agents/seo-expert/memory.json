@@ -833,6 +833,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-15T05:16:53.430Z",
       "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Cito a agentes (1 petición cada uno): - action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Podés subir a artifacts/audit/ (o indicar ruta exacta si ya existe) los exports de los últimos 6 meses que usamos habitualme..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 284,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:23:02.298Z",
+      "summary": "Plan (fase 1) — agentes a consultar: [\"amy-fa\", \"lily-ux\", \"chandler-po\"]. Esto va a ser el Gucci del security-audit: minimal, elegante y demoledor. A continuación cito a cada agente UNA sola vez con la petición concreta (responder sólo lo pedido)."
     }
   ],
   "learnedPatterns": [],
@@ -1062,5 +1069,5 @@
     "Debería colaborar más en pruebas de compatibilidad en etapas tempranas.",
     "Debería definir también los umbrales críticos como límites numéricos para alertar fallos automáticos."
   ],
-  "lastUpdated": "2026-06-15T05:17:10.321Z"
+  "lastUpdated": "2026-06-15T05:23:02.736Z"
 }
