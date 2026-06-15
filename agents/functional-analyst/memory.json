@@ -1114,6 +1114,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:16:18.972Z",
       "summary": "Plan de consultas (Fase 1) y citas — respuesta inicial (consultas externas listadas): Plan: 1) leslie-content 2) tom-seo Citas (una sola petición por agente — acción = \"cite_agent\"): - action=\"cite_agent\" — leslie-content — request: \"Confirmar que el..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 283,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:16:45.463Z",
+      "summary": "Plan de consultas (fase 1): [\"code-critic\", \"seo-expert\"] Citas (cada agente una sola vez — action=\"cite_agent\"): 1) cite_agent — code-critic — Request: Ejecuta el conjunto de tests relacionados con JSON-LD (usa scripts/run-jsonld-tests.sh si procede..."
     }
   ],
   "learnedPatterns": [],
@@ -1389,5 +1396,5 @@
     "Podría mejorar en comunicar claramente los plazos asociados a cada entregable para mayor coordinación.",
     "Podría mejorar la precisión en definir los entregables específicos desde el inicio."
   ],
-  "lastUpdated": "2026-06-15T05:16:32.852Z"
+  "lastUpdated": "2026-06-15T05:16:45.762Z"
 }
