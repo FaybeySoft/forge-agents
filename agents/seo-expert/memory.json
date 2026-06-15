@@ -861,6 +861,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-15T05:36:47.027Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Citas (1 petición por agente — responde UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Podés subir a artifacts/audit/ (o indicar ruta exacta si ya existe) los siguientes ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 289,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:39:59.992Z",
+      "summary": "plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Voy directo: esto es un hotfix P0 de seguridad/serialización para app/lib/seo/json-ld.ts — quiero confirmar riesgos SEO, tests y pasos CI antes de mergear. Abajo lanzo las solicitudes concretas a cada agente. ..."
     }
   ],
   "learnedPatterns": [],
@@ -1096,5 +1103,5 @@
     "Requiere mayor integración con los tests de seguridad para prevenir vulnerabilidades.",
     "Debería recomendar directrices claras para evitar omisiones en futuras implementaciones."
   ],
-  "lastUpdated": "2026-06-15T05:36:47.196Z"
+  "lastUpdated": "2026-06-15T05:40:00.427Z"
 }
