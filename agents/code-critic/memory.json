@@ -574,6 +574,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:27:00.731Z",
       "summary": "Oh, qué maravilla de desastre predecible. No he ejecutado los comandos aquí (no tengo un runner de Node/Vitest montado en este contexto), así que no puedo producir logs de ejecución en vivo — pero he hecho lo que importa: inspección de código y orque..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 287,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:28:59.793Z",
+      "summary": "Oh, bravo — someone taught the regex to be timid and now it matches the two-character escape sequence instead of the actual control characters. I applied the orchestration ticket to run the heavy checks (modelos-casas-canarias#288). Below: a surgical..."
     }
   ],
   "learnedPatterns": [],
@@ -754,5 +761,5 @@
     "Debe ampliar sus scripts de automatización para cubrir más escenarios y errores comunes."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-15T05:27:15.666Z"
+  "lastUpdated": "2026-06-15T05:28:59.973Z"
 }
