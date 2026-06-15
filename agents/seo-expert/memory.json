@@ -805,6 +805,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-12T05:16:23.702Z",
       "summary": "Plan (fase 1 — consultas): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente — una sola vez cada uno): - action: \"cite_agent\", agent: \"amy-fa\", request: \"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya está) los CSV de l..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 279,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:09:20.839Z",
+      "summary": "Plan de consulta: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Tom aquí — el Gucci de los snippets. Antes de atornillar el CI/cheklist final necesito 3 inputs únicos (UNA respuesta por agente). Cada petición es concreta y una sola vez; con esas respuestas te d..."
     }
   ],
   "learnedPatterns": [],
@@ -1026,5 +1033,5 @@
     "Debería facilitar feedback en formatos más estructurados para integrar rápidamente.",
     "Podría mejorar la comunicación sobre variaciones en keywords y reglas de estilos de meta para evitar malentendidos."
   ],
-  "lastUpdated": "2026-06-15T05:07:07.873Z"
+  "lastUpdated": "2026-06-15T05:09:21.338Z"
 }
