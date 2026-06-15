@@ -1735,7 +1735,12 @@
     "Mantener la API estable evita roturas en integración.",
     "La ejecución automatizada y generación de logs en CI es fundamental para validaciones confiables.",
     "Es importante definir claramente los criterios de aceptación y tests antes de aplicar parches.",
-    "Coordinar con agentes especializados disminuye riesgos de integración y aumenta la calidad."
+    "Coordinar con agentes especializados disminuye riesgos de integración y aumenta la calidad.",
+    "Es crucial definir criterios específicos y tests claros desde inicio para evitar ambigüedades en parches de seguridad.",
+    "La cobertura automatizada y los logs automáticos agilizan la validación y aumentan la confianza en los cambios rápidos.",
+    "Consultar en orden previo a implementar ahorra retrabajos y mantiene el foco en los aspectos críticos primero.",
+    "Revisar los regex y patrones en funciones críticas (como stringify) es vital, especialmente frente a caracteres Unicode invisibles.",
+    "La colaboración ágil entre analistas y desarrolladores, con validaciones rápidas, permite respuestas efectivas ante vulnerabilidades de seguridad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1823,5 +1828,5 @@
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos.",
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles."
   ],
-  "lastUpdated": "2026-06-15T05:43:07.887Z"
+  "lastUpdated": "2026-06-15T05:43:10.381Z"
 }
