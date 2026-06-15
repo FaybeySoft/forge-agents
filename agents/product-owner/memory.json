@@ -1720,7 +1720,10 @@
     "Los reportes automáticos y el análisis estructurado facilitan la toma de decisiones rápidas.",
     "La comunicación clara en fases iniciales reduce retrabajos y esfuerzos.",
     "Las revisiones de seguridad en etapas tempranas evitan costosos parches en producción.",
-    "Mantener la API estable evita roturas en integración."
+    "Mantener la API estable evita roturas en integración.",
+    "La ejecución automatizada y generación de logs en CI es fundamental para validaciones confiables.",
+    "Es importante definir claramente los criterios de aceptación y tests antes de aplicar parches.",
+    "Coordinar con agentes especializados disminuye riesgos de integración y aumenta la calidad."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1806,5 +1809,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:36:40.945Z"
+  "lastUpdated": "2026-06-15T05:37:02.741Z"
 }
