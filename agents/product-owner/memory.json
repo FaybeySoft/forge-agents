@@ -1776,7 +1776,12 @@
     "Es importante coordinar la consulta con los expertos en impacto SEO y seguridad antes de actuar en el código.",
     "La colaboración coordinada entre análisis, desarrollo y seguridad reduce mucho los riesgos en cambios delicados.",
     "Generar artefactos de reproducción en artículos específicos facilita auditorías futuras y cumplimiento de estándares.",
-    "El mapeo de callsites es clave para entender el impacto real y priorizar acciones correctivas."
+    "El mapeo de callsites es clave para entender el impacto real y priorizar acciones correctivas.",
+    "Definir claramente el scope y los criterios de aceptación antes de ejecutar comandos en entornos automáticos.",
+    "La colaboración temprana y en fases con diferentes agentes reduce riesgos y mejora la calidad del diagnóstico.",
+    "Automatizar la generación de artifacts y snippets ayuda en auditorías y detección de vulnerabilidades.",
+    "Priorizar la contratación y disponibilidad de agentes especializados para tareas automáticas mejora la eficiencia.",
+    "Revisar exhaustivamente los artifacts antes de proceder con pasos siguientes asegura la trazabilidad y calidad del proceso."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1866,5 +1871,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-15T06:06:24.108Z"
+  "lastUpdated": "2026-06-15T06:06:47.534Z"
 }
