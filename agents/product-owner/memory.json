@@ -1757,7 +1757,11 @@
     "La generación y análisis de artefactos reproducibles es vital para la trazabilidad y aseguramiento de la solución.",
     "Coordinar con agentes especializados en seguridad y funcionalidad minimiza riesgos y mejora la calidad del parche.",
     "Mantener los cambios en funciones críticas como replace() en su estado más simple es recomendable, salvo indicación contraria del auditor.",
-    "Una comunicación clara y rápida con agentes externos (contrataciones, revisores) acelera la resolución de vulnerabilidades complejas."
+    "Una comunicación clara y rápida con agentes externos (contrataciones, revisores) acelera la resolución de vulnerabilidades complejas.",
+    "La evidencia reproducible y los artefactos claros son esenciales para diagnósticos técnicos confiables.",
+    "No se debe modificar código sin tener toda la evidencia y autorización previa.",
+    "El mapeo de callers inseguros requiere un análisis exhaustivo y cuidadoso, y no debe apresurarse.",
+    "Es importante coordinar la consulta con los expertos en impacto SEO y seguridad antes de actuar en el código."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1847,5 +1851,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-15T05:59:11.549Z"
+  "lastUpdated": "2026-06-15T05:59:14.134Z"
 }
