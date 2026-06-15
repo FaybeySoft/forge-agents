@@ -854,6 +854,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:28:57.686Z",
       "summary": "Plan: [\"amy-fa\", \"code-critic\", \"chandler-po\"] Citas (una petición por agente — action=\"cite_agent\"): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor busca en los contenidos indexados/frontmatter de los últimos 6 meses (content/ y app/content/)..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 288,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:36:47.027Z",
+      "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Citas (1 petición por agente — responde UNA VEZ cada uno): action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Podés subir a artifacts/audit/ (o indicar ruta exacta si ya existe) los siguientes ..."
     }
   ],
   "learnedPatterns": [],
@@ -1089,5 +1096,5 @@
     "Requiere mayor integración con los tests de seguridad para prevenir vulnerabilidades.",
     "Debería recomendar directrices claras para evitar omisiones en futuras implementaciones."
   ],
-  "lastUpdated": "2026-06-15T05:29:13.147Z"
+  "lastUpdated": "2026-06-15T05:36:47.196Z"
 }
