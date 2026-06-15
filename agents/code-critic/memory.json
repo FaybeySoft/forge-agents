@@ -637,6 +637,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-15T06:08:18.234Z",
       "summary": "Ah, magnífico — otro rompecabezas de unicode y regexs que alguien decidió ignorar. Aquí tienes todo lo necesario, listo para pegar en una shell controlada por el runner. Soy conciso porque vuestro tiempo (y mi paciencia) es limitado: comandos exactos..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 298,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T06:12:02.504Z",
+      "summary": "Ah, maravilloso — otro sainete con JSON-LD. Voy a ser breve, certero y desagradablemente útil. A continuación tienes correcciones concretas (líneas exactas), comandos reemplazo y artefactos listos para que un runner los ejecute. He incluido: 1) coman..."
     }
   ],
   "learnedPatterns": [],
@@ -831,5 +838,5 @@
     "Podría colaborar más en la definición de procesos automáticos de validación."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-15T06:08:33.569Z"
+  "lastUpdated": "2026-06-15T06:12:02.689Z"
 }
