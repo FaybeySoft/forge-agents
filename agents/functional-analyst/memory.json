@@ -1191,6 +1191,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:02:51.022Z",
       "summary": "Plan de consulta (fase 1): [\"functional-analyst\",\"code-critic\",\"seo-expert\"] CITAS (una petición por agente) 1) cite_agent — code-critic — Request: Ejecuta la suite de tests relacionados con JSON-LD y devuelve: 1) lista de tests que fallan localmente..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 296,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T06:06:25.838Z",
+      "summary": "Plan (fase 1 - consultas): [\"code-critic\", \"security-auditor\", \"ci-runner-operator\"] CITAS (una petición por agente — por favor responder en ≤24h): 1) action=\"cite_agent\" — code-critic — request: \"Por favor valida en ≤24h que el script ./scripts/run-..."
     }
   ],
   "learnedPatterns": [],
@@ -1478,5 +1485,5 @@
     "Podría profundizar más en la documentación técnica para futuras referencias.",
     "Podría integrar más formalmente los criterios de aceptación y las prioridades en la planificación inicial."
   ],
-  "lastUpdated": "2026-06-15T06:02:51.323Z"
+  "lastUpdated": "2026-06-15T06:06:26.027Z"
 }
