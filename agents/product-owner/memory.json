@@ -1053,6 +1053,12 @@
       "issueNumber": 281,
       "outcome": "ready",
       "timestamp": "2026-06-15T05:16:16.892Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 283,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:16:43.124Z"
     }
   ],
   "learnedPatterns": [
@@ -1753,5 +1759,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:16:40.017Z"
+  "lastUpdated": "2026-06-15T05:16:43.563Z"
 }
