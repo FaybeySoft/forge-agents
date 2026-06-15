@@ -552,7 +552,8 @@
     "Proporcionó instrucciones prácticas y claras para el equipo frontend/marketing, asegurando una implementación sin ambigüedades.",
     "Su revisión aseguró accesibilidad y claridad en los templates y docs.",
     "Preparó placeholders y recursos visuales rápidos, facilitando la revisión legal.",
-    "Aportó especificaciones técnicas para hero y microcopy, asegurando accesibilidad."
+    "Aportó especificaciones técnicas para hero y microcopy, asegurando accesibilidad.",
+    "Propuestas de placeholders y alternativas UX alineadas con las necesidades del equipo."
   ],
   "areasToImprove": [
     "Incluir más detalles sobre accesibilidad",
@@ -620,7 +621,8 @@
     "Le gustaría mayor integración temprana en las fases iniciales del proceso para reducir iteraciones finales.",
     "Podría contribuir con ejemplos concretos y mejoras de wording más en línea con usuarios finales.",
     "Podría anticipar mejor el impacto legal en los diseños desde el inicio.",
-    "Podría incluir más escenarios alternativos para validar la experiencia en diferentes dispositivos."
+    "Podría incluir más escenarios alternativos para validar la experiencia en diferentes dispositivos.",
+    "Debe anticipar mejor las restricciones de assets existentes para minimizar revisiones posteriores."
   ],
-  "lastUpdated": "2026-06-15T05:11:45.211Z"
+  "lastUpdated": "2026-06-15T05:11:56.352Z"
 }
