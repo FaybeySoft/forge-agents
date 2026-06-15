@@ -80,7 +80,8 @@
     "Evaluación profunda y generación de PoC que fortalecen la seguridad del sistema.",
     "Realizó una auditoría forense exhaustiva y propuso parches y pruebas automáticas que elevaron la seguridad.",
     "Se integró en el plan de revisión y aportó perspectiva experta en seguridad.",
-    "Ofreció un plan completo para la revisión de seguridad y recomendaciones de parche."
+    "Ofreció un plan completo para la revisión de seguridad y recomendaciones de parche.",
+    "(Pendiente)"
   ],
   "areasToImprove": [
     "Requiere mejorar la rapidez en la entrega de los informes y la integración con CI.",
@@ -90,7 +91,8 @@
     "Recomendaciones sobre el impacto en performance y compatibilidad que se podrían comunicar mejor.",
     "Necesita integración más temprana en la planificación inicial para maximizar impacto.",
     "Aún no se realizó la revisión formal, pendiente de aprobación y acción.",
-    "Su incorporación temprana habría acelerado la validación y reducido riesgos, pero fuera del plan inicial."
+    "Su incorporación temprana habría acelerado la validación y reducido riesgos, pero fuera del plan inicial.",
+    "(Pendiente)"
   ],
-  "lastUpdated": "2026-06-15T05:50:51.605Z"
+  "lastUpdated": "2026-06-15T05:51:10.209Z"
 }
