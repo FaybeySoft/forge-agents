@@ -1177,6 +1177,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T05:50:49.785Z",
       "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\", \"security-auditor\", \"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests filtrando por jsonld/ensureSafeJsonLd/u2028/u2029 (comando sugerido: npm ci && npx vitest -c ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 292,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T05:58:56.046Z",
+      "summary": "Plan de consulta (fase 1): [\"code-critic\", \"seo-expert\", \"lily-ux\"] Action items (cite_agent requests) — una sola petición por agente: 1) action=\"cite_agent\" — code-critic — Request: \"Por favor revisa app/test/jsonld.* y scripts/run-jsonld-tests.sh y..."
     }
   ],
   "learnedPatterns": [],
@@ -1462,5 +1469,5 @@
     "Podría incluir casos de caracteres invisibles en diferentes formatos, no solo Unicode en el código.",
     "Podría profundizar más en la documentación técnica para futuras referencias."
   ],
-  "lastUpdated": "2026-06-15T05:51:03.961Z"
+  "lastUpdated": "2026-06-15T05:58:56.406Z"
 }
