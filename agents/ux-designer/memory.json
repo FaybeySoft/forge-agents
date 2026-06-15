@@ -470,6 +470,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-12T05:12:34.335Z",
       "summary": "Ponte en la piel del usuario: queremos que abrir un PR de blog sea rápido, claro y que la CI actúe como guardián, no como juez misterioso. Mi plan de consulta (ordenado): [\"amy\",\"tom\"]. A continuación cito a cada agente UNA sola vez pidiéndoles una r..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 279,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:09:24.240Z",
+      "summary": "Plan de consulta: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Por favor confirma EN UNA RESPUESTA el shape exacto del frontmatter que el Functional Analyst espera para el hero y el thumb (nombres de campos, tipos y obligatoriedad) y si se requiere un c..."
     }
   ],
   "learnedPatterns": [],
@@ -606,5 +613,5 @@
     "Podría contribuir con ejemplos concretos y mejoras de wording más en línea con usuarios finales.",
     "Podría anticipar mejor el impacto legal en los diseños desde el inicio."
   ],
-  "lastUpdated": "2026-06-12T05:15:55.509Z"
+  "lastUpdated": "2026-06-15T05:09:24.592Z"
 }
