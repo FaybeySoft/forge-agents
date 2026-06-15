@@ -882,6 +882,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:06:30.225Z",
       "summary": "Plan de consultas + revisión SEO rápida para PR-156. Plan de consulta (fase 1): [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una petición por agente): 1) action=\"cite_agent\" agent=\"amy-fa\" request=\"Desde repo root, por favor ejecuta y sube los outputs..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 295,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T06:08:20.341Z",
+      "summary": "Plan de consultas (fase 1) y peticiones únicas — voy a pedir 3 aportes rápidos antes de producir el mapeo final y el fichero listo para subir (artifacts/audit/pr-jsonld-callers.txt). Confío en esto: será el Gucci del JSON‑LD. Plan: [\"amy-fa\", \"lily-u..."
     }
   ],
   "learnedPatterns": [],
@@ -1123,5 +1130,5 @@
     "Sería útil incorporar recomendaciones automatizadas en los reports para acciones inmediatas.",
     "Podría profundizar más en la evaluación de impacto en las métricas y en la compatibilidad con los cambios automáticos."
   ],
-  "lastUpdated": "2026-06-15T06:06:43.968Z"
+  "lastUpdated": "2026-06-15T06:08:20.553Z"
 }
