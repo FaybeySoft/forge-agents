@@ -1796,7 +1796,11 @@
     "Revisar exhaustivamente los artifacts antes de proceder con pasos siguientes asegura la trazabilidad y calidad del proceso.",
     "Las consultas en fases claras y planificadas simplifican el proceso.",
     "Es fundamental contar con agentes especializados en ejecución automatizada.",
-    "La automatización de validaciones en CI reduce riesgos y acelera validaciones."
+    "La automatización de validaciones en CI reduce riesgos y acelera validaciones.",
+    "La separación clara de fases y roles evita retrabajos y aumenta la eficiencia.",
+    "El uso de scripts automáticos y grep ayuda a detectar vulnerabilidades y literales peligrosos.",
+    "La coordinación en equipo y la documentación de decisiones aceleran el cierre de issues.",
+    "Mantener el parche sin aplicar permite una revisión controlada y segura."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1886,5 +1890,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-15T06:11:58.403Z"
+  "lastUpdated": "2026-06-15T06:12:17.576Z"
 }
