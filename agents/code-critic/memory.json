@@ -630,6 +630,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:06:27.810Z",
       "summary": "Ah, muy bien — traed las tijeras y dejad que el infante más brillante del equipo os diga qué puede explotar en producción si actuáis con la delicadeza de una cabra en una cristalería. Resumen directo y accionable debajo. Léelo todo (sí, incluso la pa..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 295,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-15T06:08:18.234Z",
+      "summary": "Ah, magnífico — otro rompecabezas de unicode y regexs que alguien decidió ignorar. Aquí tienes todo lo necesario, listo para pegar en una shell controlada por el runner. Soy conciso porque vuestro tiempo (y mi paciencia) es limitado: comandos exactos..."
     }
   ],
   "learnedPatterns": [],
@@ -822,5 +829,5 @@
     "Podría mejorar en la generación automática de snippets de riesgos, incluyendo más contexto de las vulnerabilidades detectadas."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-15T06:06:41.957Z"
+  "lastUpdated": "2026-06-15T06:08:18.600Z"
 }
