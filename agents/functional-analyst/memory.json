@@ -1121,6 +1121,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-15T05:16:45.463Z",
       "summary": "Plan de consultas (fase 1): [\"code-critic\", \"seo-expert\"] Citas (cada agente una sola vez — action=\"cite_agent\"): 1) cite_agent — code-critic — Request: Ejecuta el conjunto de tests relacionados con JSON-LD (usa scripts/run-jsonld-tests.sh si procede..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 282,
+      "outcome": "ready",
+      "timestamp": "2026-06-15T05:16:47.385Z",
+      "summary": "Plan de consultas (Fase 1): [\"seo-expert\", \"tom-seo\", \"lily-ux\", \"code-critic\"] Acciones (CITAS — 1 petición por agente — responder ≤24h): 1) ACTION: cite_agent — seo-expert — request: \"Confirmar política canonical para posts: trailing slash (sí/no)...."
     }
   ],
   "learnedPatterns": [],
@@ -1396,5 +1403,5 @@
     "Podría mejorar en comunicar claramente los plazos asociados a cada entregable para mayor coordinación.",
     "Podría mejorar la precisión en definir los entregables específicos desde el inicio."
   ],
-  "lastUpdated": "2026-06-15T05:16:45.762Z"
+  "lastUpdated": "2026-06-15T05:16:49.314Z"
 }
