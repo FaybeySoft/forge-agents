@@ -1711,7 +1711,10 @@
     "La automatización con agentes especializados reduce errores y acelera la detección de fallos.",
     "Es recomendable contratar agentes que puedan ejecutar comandos y generar logs reproducibles en CI.",
     "La comunicación en fases secuenciales garantiza mayor control y claridad en tareas complejas.",
-    "Los reportes automáticos y el análisis estructurado facilitan la toma de decisiones rápidas."
+    "Los reportes automáticos y el análisis estructurado facilitan la toma de decisiones rápidas.",
+    "La comunicación clara en fases iniciales reduce retrabajos y esfuerzos.",
+    "Las revisiones de seguridad en etapas tempranas evitan costosos parches en producción.",
+    "Mantener la API estable evita roturas en integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1797,5 +1800,5 @@
     "Podría mejorar la documentación de decisiones, incluyendo enlaces específicos a archivos y reglas en el repo para mayor trazabilidad.",
     "Podría mejorar en la priorización del seguimiento de verificaciones automáticas para reducir retrabajos."
   ],
-  "lastUpdated": "2026-06-15T05:28:54.283Z"
+  "lastUpdated": "2026-06-15T05:29:18.766Z"
 }
