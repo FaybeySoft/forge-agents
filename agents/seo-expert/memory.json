@@ -910,6 +910,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-16T05:20:35.580Z",
       "summary": "Plan de consulta: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una petición por agente — action=\"cite_agent\"): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports de los últimos..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 308,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:23:59.056Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ los exports de los últimos 6 meses que usamos: 1) Search Console — top 20 queries (CSV: query, cli..."
     }
   ],
   "learnedPatterns": [],
@@ -1159,5 +1166,5 @@
     "Podría coordinar mejor con UX para evitar duplicidades en decidir dimensiones y focal point.",
     "Debería incluir en la planificación la evaluación del impacto en crawlers y terceros."
   ],
-  "lastUpdated": "2026-06-16T05:20:48.783Z"
+  "lastUpdated": "2026-06-16T05:23:59.315Z"
 }
