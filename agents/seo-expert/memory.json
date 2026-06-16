@@ -917,6 +917,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-16T05:23:59.056Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ los exports de los últimos 6 meses que usamos: 1) Search Console — top 20 queries (CSV: query, cli..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 309,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-16T05:34:58.686Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube o confirma en artifacts/audit/ los CSVs de Search Console y GA4 (últimos 6 meses) y métricas para /blog/articulo-1 y /blog/casas-tradicionales-de-cana..."
     }
   ],
   "learnedPatterns": [],
@@ -1168,5 +1175,5 @@
     "Debería incluir en la planificación la evaluación del impacto en crawlers y terceros.",
     "Podría contribuir con recomendaciones para validaciones automáticas SEO en futuras implementaciones."
   ],
-  "lastUpdated": "2026-06-16T05:24:14.720Z"
+  "lastUpdated": "2026-06-16T05:34:58.911Z"
 }
