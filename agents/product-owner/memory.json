@@ -1821,7 +1821,11 @@
     "Mantener el parche sin aplicar permite una revisión controlada y segura.",
     "La planificación secuencial con agentes especializados en un process claro reduce riesgos.",
     "Es crucial respetar las rutas y convenciones existentes para evitar incoherencias y retrabajos.",
-    "Mantener una comunicación estrecha con los agentes para resolver dudas en fases tempranas ahorra tiempo."
+    "Mantener una comunicación estrecha con los agentes para resolver dudas en fases tempranas ahorra tiempo.",
+    "Integrar la revisión entre analistas y críticos desde fases tempranas permite detectar riesgos potenciales antes del desarrollo.",
+    "Los tests específicos con fixtures cubren escenarios críticos y aumentan la confianza en cambios en sanitización.",
+    "Mantener la compatibilidad con APIs existentes y tests previos evita rupturas y retrabajos en producción.",
+    "Coordinar con agentes especializados en seguridad y análisis técnico es clave para solucionar vectores de vulnerabilidad de forma efectiva."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1911,5 +1915,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-16T05:14:43.746Z"
+  "lastUpdated": "2026-06-16T05:15:04.660Z"
 }
