@@ -1842,7 +1842,12 @@
     "La colaboración temprana con abogados y expertos en legalidad reduce riesgos y aceleran entregas.",
     "Mantener todos los artefactos en rutas existentes y convenciones del repo facilita revisiones y futuras integraciones.",
     "La planificación en fases con consultas específicas y coordinar SLA vs. entregables incrementa la eficiencia.",
-    "La documentación en los repositorios debe ser exhaustiva y seguir patrones claros para no perder información importante."
+    "La documentación en los repositorios debe ser exhaustiva y seguir patrones claros para no perder información importante.",
+    "La priorización en fases y consultas específicas mejora eficiencia y calidad.",
+    "La estructuración del brief y caminos claros en paths aceleran entregas.",
+    "Contratar especialistas cuando la complejidad técnica lo requiere evita sobrecargar a otros roles.",
+    "Mantener comunicación y validación temprana evita iteraciones largas.",
+    "El uso de Path claros y convenciones de repo simplifica la integración."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1932,5 +1937,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-16T05:16:25.119Z"
+  "lastUpdated": "2026-06-16T05:16:46.914Z"
 }
