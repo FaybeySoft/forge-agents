@@ -665,6 +665,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:18:43.004Z",
       "summary": "[Sub-tarea #307: Parches y verificación reproducible para PR #156 (runner)] Oh, what delicious chaos. You asked for a minimal, reproducible patch + runner evidence for PR #156 — and because you obviously enjoy the smell of failing tests at 02:00, I p..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 304,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:20:33.332Z",
+      "summary": "Oh, what exquisite negligence — the venerable U+2028/U+2029 bug, hiding in plain sight. I inspected app/lib/seo/json-ld.ts, confirmed the sanitisation was brittle, and opened an orchestration issue so the CI can run the focused tests (see modelos-cas..."
     }
   ],
   "learnedPatterns": [],
@@ -865,5 +872,5 @@
     "Podría ajustar aún más los pasos de reproducción para mayor simplicidad y reducir la dependencia de artefacts externos."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-16T05:18:53.641Z"
+  "lastUpdated": "2026-06-16T05:20:33.626Z"
 }
