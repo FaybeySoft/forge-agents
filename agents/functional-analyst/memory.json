@@ -1268,6 +1268,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-16T05:23:55.076Z",
       "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\",\"security-auditor\",\"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests relacionados con JSON-LD (pattern: jsonld OR ensureSafeJsonLd) y devuelve: 1) lista de tests qu..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 309,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-16T05:34:55.170Z",
+      "summary": "Plan de consultas (fase 1): [\"code-critic\", \"seo-expert\", \"security-auditor\"] CITAS (1 vez cada agente): 1) cite_agent — code-critic — Request: Ejecuta la suite de tests relacionada con JSON-LD y confirma: 1) comandos exactos replicables para ejecuta..."
     }
   ],
   "learnedPatterns": [],
@@ -1573,5 +1580,5 @@
     "Podría mejorar en anticipar los riesgos de seguridad relacionados con los datos manipulados.",
     "Podría involucrar más en la definición de pruebas automatizadas."
   ],
-  "lastUpdated": "2026-06-16T05:24:08.984Z"
+  "lastUpdated": "2026-06-16T05:34:55.448Z"
 }
