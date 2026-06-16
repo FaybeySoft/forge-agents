@@ -1863,7 +1863,12 @@
     "La documentación clara y los pasos específicos aceleran la resolución de problemas complejos.",
     "El trabajo colaborativo y con plazos cortos requiere comunicación fluida y roles bien definidos.",
     "Es efectivo dividir tareas en sub-tareas específicas con entregables concretos desde el inicio.",
-    "Repetir el proceso de documentación y parches ayuda a estandarizar soluciones reproducibles para futuras incidencias."
+    "Repetir el proceso de documentación y parches ayuda a estandarizar soluciones reproducibles para futuras incidencias.",
+    "La colaboración temprana en diagnósticos y planificación reduce retrabajos.",
+    "La prioridad en tests automatizados para escaping de caracteres Unicode evita vulnerabilidades futuras.",
+    "Mantener la API estable y concisa facilita integración y validaciones en el ciclo CI/CD.",
+    "Documentar claramente cambios en changelog y decisiones arquitectónicas ahorra tiempo en revisiones y auditorías.",
+    "Incluir siempre validaciones de impacto en motores de búsqueda en parches de sanitización es crucial para la integridad del contenido."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1953,5 +1958,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-16T05:20:28.602Z"
+  "lastUpdated": "2026-06-16T05:20:51.070Z"
 }
