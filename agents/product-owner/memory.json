@@ -1853,7 +1853,11 @@
     "La estructuración del brief y caminos claros en paths aceleran entregas.",
     "Contratar especialistas cuando la complejidad técnica lo requiere evita sobrecargar a otros roles.",
     "Mantener comunicación y validación temprana evita iteraciones largas.",
-    "El uso de Path claros y convenciones de repo simplifica la integración."
+    "El uso de Path claros y convenciones de repo simplifica la integración.",
+    "La documentación clara y los pasos específicos aceleran la resolución de problemas complejos.",
+    "El trabajo colaborativo y con plazos cortos requiere comunicación fluida y roles bien definidos.",
+    "Es efectivo dividir tareas en sub-tareas específicas con entregables concretos desde el inicio.",
+    "Repetir el proceso de documentación y parches ayuda a estandarizar soluciones reproducibles para futuras incidencias."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1943,5 +1947,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-16T05:18:39.176Z"
+  "lastUpdated": "2026-06-16T05:18:55.931Z"
 }
