@@ -1240,6 +1240,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-16T05:15:29.240Z",
       "summary": "Plan (Fase 1 — consultas rápidas) y citas a agentes — objetivo: preparar el paquete legal inicial (docs/legal/) para envío al abogado en 48h. 1) Plan (ordenado) 1. code-critic 2. lily-ux 2) Citas (una sola por agente — petición concreta) - action: \"c..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 300,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-16T05:16:26.967Z",
+      "summary": "Plan y próximas consultas (Fase 1) — ordenadas y accionables: 1) Plan (ordenado) — agentes a consultar: 1. lily-ux 2. tom-seo 3. seo-expert 2) Citas (una sola por agente — petición concreta): - action=\"cite_agent\" — lily-ux — request: \"Confirmar que ..."
     }
   ],
   "learnedPatterns": [],
@@ -1537,5 +1544,5 @@
     "Podría mejorar en la definición de requisitos de automatización y escenarios edge adicionales.",
     "Podría mejorar en hacer entregas parciales antes del deadline para mayor seguridad."
   ],
-  "lastUpdated": "2026-06-16T05:15:41.126Z"
+  "lastUpdated": "2026-06-16T05:16:27.403Z"
 }
