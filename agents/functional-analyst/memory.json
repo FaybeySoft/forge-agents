@@ -1212,6 +1212,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:12:00.346Z",
       "summary": "Plan de consulta (fase 1): [\"code-critic\", \"seo-expert\", \"lily-ux\"] Citas (una petición por agente): - action=\"cite_agent\" — code-critic — Request: \"Por favor revisa app/test/jsonld.* y scripts/run-jsonld-tests.sh y confirma: 1) comandos exactos repr..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 299,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:09:41.517Z",
+      "summary": "Plan y consultas (Fase 1) 1) plan: [\"code-critic\", \"ci-runner-operator\", \"security-auditor\"] 2) Citas (una sola por agente — action=\"cite_agent\"): - action=\"cite_agent\" — code-critic — request: \"Por favor revisa los tests listados en app/test/jsonld...."
     }
   ],
   "learnedPatterns": [],
@@ -1503,5 +1510,5 @@
     "Podría mejorar en la documentación de los análisis para facilitar futuras revisiones.",
     "Podría mejorar en la anticipación de preguntas o edge cases técnicos en etapas tempranas."
   ],
-  "lastUpdated": "2026-06-16T05:06:58.859Z"
+  "lastUpdated": "2026-06-16T05:09:41.695Z"
 }
