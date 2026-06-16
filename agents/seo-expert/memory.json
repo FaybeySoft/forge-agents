@@ -1049,7 +1049,8 @@
     "Revisó impacto SEO y marcado, asegurando compatibilidad y buenas prácticas.",
     "Cerró keywords y specs de imagen con precisión, facilitando la producción.",
     "Validó impacto y contribuyó con tests SEO específicos para asegurar la robustez del parche.",
-    "Revisó el impacto en motores y aseguró que la semántica no se rompe."
+    "Revisó el impacto en motores y aseguró que la semántica no se rompe.",
+    "Validó la compatibilidad con motores de búsqueda y llamó a revisar las llamadas en los contextos correctos."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -1173,7 +1174,8 @@
     "Podría mejorar en la integración temprana en el proceso para evitar doble revisión.",
     "Podría coordinar mejor con UX para evitar duplicidades en decidir dimensiones y focal point.",
     "Debería incluir en la planificación la evaluación del impacto en crawlers y terceros.",
-    "Podría contribuir con recomendaciones para validaciones automáticas SEO en futuras implementaciones."
+    "Podría contribuir con recomendaciones para validaciones automáticas SEO en futuras implementaciones.",
+    "Debe colaborar más estrechamente en definir los criterios de escape y validación en la interfaz de JSON-LD."
   ],
-  "lastUpdated": "2026-06-16T05:34:58.911Z"
+  "lastUpdated": "2026-06-16T05:35:12.998Z"
 }
