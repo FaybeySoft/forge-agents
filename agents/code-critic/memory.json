@@ -644,6 +644,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-15T06:12:02.504Z",
       "summary": "Ah, maravilloso — otro sainete con JSON-LD. Voy a ser breve, certero y desagradablemente útil. A continuación tienes correcciones concretas (líneas exactas), comandos reemplazo y artefactos listos para que un runner los ejecute. He incluido: 1) coman..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 299,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:09:43.482Z",
+      "summary": "Ah, marvelous — another PR left half-baked and expecting CI to perform sleight-of-hand. I examined the repo, the JSON-LD utilities (app/lib/seo/json-ld.ts) and the artifacts for PR #156. Conclusion: BLOCKED. The code for ensureSafeJsonLd is sensible ..."
     }
   ],
   "learnedPatterns": [],
@@ -840,5 +847,5 @@
     "Podría ser más conciso y centrarse en los puntos críticos para acelerar la revisión."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-15T06:12:13.440Z"
+  "lastUpdated": "2026-06-16T05:09:43.656Z"
 }
