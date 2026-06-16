@@ -1,0 +1,17 @@
+{
+  "agentSlug": "image-asset-producer",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 300,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-16T05:16:32.884Z",
+      "summary": "[Sub-tarea #306: Produce hero + thumbnail optimizados y evidencia de licencia para Article #1] Plan and consultations + ready to deliver. Plan (ordered agents to consult): [\"functional-analyst\", \"seo-expert\", \"ux-designer\"] Citations (one each): - {\"..."
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-06-16T05:16:33.035Z"
+}
