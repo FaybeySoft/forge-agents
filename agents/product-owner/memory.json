@@ -1884,7 +1884,11 @@
     "La coordinación con diferentes agentes especializados en fases distintas es clave para solucionar bugs críticos eficientemente.",
     "La revisión de tests y la validación de impacto antes de aplicar cambios evita regresiones en producción.",
     "Mantener la API y firma del código estable facilita la integración y el testing automatizado.",
-    "Documentar claramente las decisiones y criterios de aceptación ayuda a reducir retrabajos."
+    "Documentar claramente las decisiones y criterios de aceptación ayuda a reducir retrabajos.",
+    "Es fundamental realizar revisiones de seguridad específicas en funciones de serialización de contenidos JSON-LD antes de desplegar.",
+    "Las pruebas automatizadas y los checks en pipeline ayudan a detectar vulnerabilidades de inyección y escape no controlado.",
+    "Una consulta estructurada en fases con análisis funcional, técnico y de SEO reduce retrabajos y asegura un enfoque integral.",
+    "Mantener una comunicación clara y documentación precisa facilita el trabajo en equipos multidisciplinarios y la trazabilidad de decisiones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1974,5 +1978,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-16T05:34:53.468Z"
+  "lastUpdated": "2026-06-16T05:35:18.210Z"
 }
