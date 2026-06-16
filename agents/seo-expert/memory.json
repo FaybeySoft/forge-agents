@@ -903,6 +903,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:16:29.131Z",
       "summary": "Plan (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Voy a pedir 1 input CONCRETO a cada agente (una sola respuesta por agente). Confía en mí — esto será el Gucci del brief: corto, accionable y listo para CI. Necesito estas 3 respuestas en las próximas ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 304,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:20:35.580Z",
+      "summary": "Plan de consulta: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Citas (una petición por agente — action=\"cite_agent\"): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o indica ruta exacta si ya existe) los exports de los últimos..."
     }
   ],
   "learnedPatterns": [],
@@ -1150,5 +1157,5 @@
     "Podría mejorar en la integración temprana en el proceso para evitar doble revisión.",
     "Podría coordinar mejor con UX para evitar duplicidades en decidir dimensiones y focal point."
   ],
-  "lastUpdated": "2026-06-16T05:16:42.867Z"
+  "lastUpdated": "2026-06-16T05:20:35.766Z"
 }
