@@ -896,6 +896,13 @@
       "outcome": "wake:weekly_seo_audit",
       "timestamp": "2026-06-15T10:15:00.579Z",
       "summary": "Auditoría SEO semanal — modelos-casas-canarias (ejecución: lunes 10:13 UTC)\n\nResumen rápido (sí, soy Tom — el Gucci de los snippets): Intenté hacer los tests automáticos pero la web no respondió. Resultado: no pudimos medir Performance ni extraer meta tags en vivo. Abajo tienes el diagnóstico, gaps "
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 300,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-16T05:16:29.131Z",
+      "summary": "Plan (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Voy a pedir 1 input CONCRETO a cada agente (una sola respuesta por agente). Confía en mí — esto será el Gucci del brief: corto, accionable y listo para CI. Necesito estas 3 respuestas en las próximas ..."
     }
   ],
   "learnedPatterns": [],
@@ -1141,5 +1148,5 @@
     "Podría definir con mayor anticipación cómo integrar verificaciones automáticas en CI.",
     "Podría mejorar en la integración temprana en el proceso para evitar doble revisión."
   ],
-  "lastUpdated": "2026-06-16T05:06:54.694Z"
+  "lastUpdated": "2026-06-16T05:16:29.571Z"
 }
