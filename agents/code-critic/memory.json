@@ -672,6 +672,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-16T05:20:33.332Z",
       "summary": "Oh, what exquisite negligence — the venerable U+2028/U+2029 bug, hiding in plain sight. I inspected app/lib/seo/json-ld.ts, confirmed the sanitisation was brittle, and opened an orchestration issue so the CI can run the focused tests (see modelos-cas..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 308,
+      "outcome": "ready",
+      "timestamp": "2026-06-16T05:23:57.217Z",
+      "summary": "Oh, qué sorpresa — otro festival de caracteres invisibles y escapado deficiente. He abierto la orden de orquestación concreta para que la máquina haga el trabajo que no podemos dejar a la buena suerte: modelos-casas-canarias#309. Esa issue contiene e..."
     }
   ],
   "learnedPatterns": [],
@@ -874,5 +881,5 @@
     "Podría documentar mejor los pasos de revisión para facilitar futuras auditorías."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-16T05:20:47.076Z"
+  "lastUpdated": "2026-06-16T05:23:57.388Z"
 }
