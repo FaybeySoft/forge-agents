@@ -1296,6 +1296,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:12:35.645Z",
       "summary": "Plan de consulta (Fase 1): [\"seo-expert\", \"tom-seo\", \"lily-ux\", \"code-critic\"] Citas (una petición por agente — RESPONDER ≤24h): 1) action=\"cite_agent\" — seo-expert — request: \"Confirmar política canonical para posts: trailing slash (sí/no). Proveer ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 312,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:14:21.662Z",
+      "summary": "Plan (fase 1 — consultas rápidas): [\"code-critic\", \"security-auditor\", \"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests vitest filtrando por patrones relacionados con jsonld y ensureSafeJsonLd (sugerencia: npx vites..."
     }
   ],
   "learnedPatterns": [],
@@ -1609,5 +1616,5 @@
     "Podría mejorar la comunicación en la entrega de especificaciones en formato final.",
     "Podría colaborar más en la automatización de reportes y evidencias."
   ],
-  "lastUpdated": "2026-06-17T05:12:55.790Z"
+  "lastUpdated": "2026-06-17T05:14:21.937Z"
 }
