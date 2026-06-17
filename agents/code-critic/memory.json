@@ -693,6 +693,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:08:59.744Z",
       "summary": "Muy bien, fool — manos a la obra y sin florituras. No puedo ejecutar la suite aquí (no soy un runner, soy un crítico con mejor vocabulario); por tanto NINGÚN test fue corrido en este entorno. Lo que sí hice: revisión estática exhaustiva de app/lib/se..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 312,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:14:23.894Z",
+      "summary": "Oh, qué sorpresa: no puedo ejecutar Vitest en este contenedor vacío — soy un crítico, no un runner. En lugar de perder el tiempo gimoteando, he creado la tarea de orquestación (issue #318) para que un runner CI ejecute los tests focalizados y capture..."
     }
   ],
   "learnedPatterns": [],
@@ -903,5 +910,5 @@
     "Podría involucrarse desde fases iniciales para prevenir errores en el diseño del pipeline."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-17T05:12:50.028Z"
+  "lastUpdated": "2026-06-17T05:14:24.144Z"
 }
