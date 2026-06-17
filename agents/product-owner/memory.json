@@ -1966,7 +1966,11 @@
     "La validación técnica y legal en fases tempranas evita bloqueos o retrabajos costosos.",
     "Una comunicación clara y sistema de bloqueo de algunas tareas (legalidades, tamaño) evita errores en producción.",
     "Seguir convenciones y reglas de ruta, tamaño y metadatos es clave para automatizar validaciones y auditorías.",
-    "Documentar decisiones y criterios desde el inicio ayuda a mantener coherencia y facilitar revisiones futuras."
+    "Documentar decisiones y criterios desde el inicio ayuda a mantener coherencia y facilitar revisiones futuras.",
+    "La revisión cuidadosa del código en las funciones de replace y escape es esencial para evitar bugs que afectan la idempotencia.",
+    "La integración de tests de regresión específicos para caracteres Unicode amplía la cobertura y previene errores en producción.",
+    "La comunicación temprana con expertos en análisis funcional y revisión de código aumenta la rapidez y la calidad de la resolución de issues críticos.",
+    "Automatizar revisiones y validaciones en CI/CD ayuda a mantener la calidad sin depender solo de revisión manual."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2060,5 +2064,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:17:49.703Z"
+  "lastUpdated": "2026-06-17T05:18:09.507Z"
 }
