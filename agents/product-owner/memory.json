@@ -1915,7 +1915,10 @@
     "El uso de artefactos y scripts existentes agrega coherencia y rapidez al proceso.",
     "Una comunicación clara y en tiempo ayuda a evitar errores y malentendidos.",
     "Definir criterios y entregables desde el inicio mejora la trazabilidad y calidad del trabajo.",
-    "Repetir actividades que funcionaron bien, como las revisiones en fases, siempre vale la pena para mantener estándares."
+    "Repetir actividades que funcionaron bien, como las revisiones en fases, siempre vale la pena para mantener estándares.",
+    "La colaboración estructurada con agentes especializados focaliza esfuerzos y evita errores.",
+    "Es fundamental definir criterios claros y fiables antes de montar el pipeline.",
+    "Las evidencias automáticas y documentación previa facilitan auditorías y validaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2007,5 +2010,5 @@
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas.",
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación."
   ],
-  "lastUpdated": "2026-06-17T05:12:51.961Z"
+  "lastUpdated": "2026-06-17T05:12:58.330Z"
 }
