@@ -1089,7 +1089,8 @@
     "Validó que los cambios no afectarían el SEO y que los tests cubren compatibilidad.",
     "Proporcionó reglas operativas exactas y comandos que aseguraron la integración fluida en CI.",
     "Proporcionó criterios claros y referencia de validación JSON‑LD.",
-    "Validó impacto en rich snippets, asegurando que el escape no rompe la compatibilidad."
+    "Validó impacto en rich snippets, asegurando que el escape no rompe la compatibilidad.",
+    "Validación rigurosa de impacto SEO antes de cambios."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -1218,7 +1219,8 @@
     "Sería útil tener revisiones automatizadas en CI para detectar incompatibilidades.",
     "Sería útil contar con ejemplos de fallos y éxitos en anteriores implementaciones.",
     "Necesitaría incluir ejemplos de archivos de evidencia y manejo de excepciones.",
-    "Debería ampliar el scope con tests de visualización en diferentes navegadores y herramientas."
+    "Debería ampliar el scope con tests de visualización en diferentes navegadores y herramientas.",
+    "Recomendaría automatizar aún más las pruebas de validadores y SERPs."
   ],
-  "lastUpdated": "2026-06-17T05:15:09.373Z"
+  "lastUpdated": "2026-06-17T05:15:37.583Z"
 }
