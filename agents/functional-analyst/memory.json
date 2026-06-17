@@ -1282,6 +1282,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:08:54.428Z",
       "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\", \"security-auditor\", \"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests relacionada con JSON-LD (comando sugerido: npx vitest --run --testNamePattern=\"jsonld\" -c vit..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 311,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-17T05:12:24.560Z",
+      "summary": "[Sub-tarea #316: Specs CI para publicación semanal de blog — entregar JSON con checks y acceptance criteria] 1) Plan rápido (binder check): he revisado los scripts y los artefactos existentes relevantes (scripts/ci-validate-jsonld.mjs, scripts/ci-val..."
     }
   ],
   "learnedPatterns": [],
@@ -1591,5 +1598,5 @@
     "Podría mejorar en definir pruebas automáticas específicas y escenarios de borde para caracteres invisibles.",
     "Podría mejorar en la comunicación de resultados de tests y en la definición de fixtures exactos."
   ],
-  "lastUpdated": "2026-06-17T05:09:09.565Z"
+  "lastUpdated": "2026-06-17T05:12:25.067Z"
 }
