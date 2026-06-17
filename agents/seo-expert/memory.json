@@ -1072,7 +1072,8 @@
     "Validó impacto y contribuyó con tests SEO específicos para asegurar la robustez del parche.",
     "Revisó el impacto en motores y aseguró que la semántica no se rompe.",
     "Validó la compatibilidad con motores de búsqueda y llamó a revisar las llamadas en los contextos correctos.",
-    "Validó que los cambios no afectarían el SEO y que los tests cubren compatibilidad."
+    "Validó que los cambios no afectarían el SEO y que los tests cubren compatibilidad.",
+    "Proporcionó reglas operativas exactas y comandos que aseguraron la integración fluida en CI."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -1198,7 +1199,8 @@
     "Debería incluir en la planificación la evaluación del impacto en crawlers y terceros.",
     "Podría contribuir con recomendaciones para validaciones automáticas SEO en futuras implementaciones.",
     "Debe colaborar más estrechamente en definir los criterios de escape y validación en la interfaz de JSON-LD.",
-    "Sería útil tener revisiones automatizadas en CI para detectar incompatibilidades."
+    "Sería útil tener revisiones automatizadas en CI para detectar incompatibilidades.",
+    "Sería útil contar con ejemplos de fallos y éxitos en anteriores implementaciones."
   ],
-  "lastUpdated": "2026-06-17T05:12:38.078Z"
+  "lastUpdated": "2026-06-17T05:12:42.538Z"
 }
