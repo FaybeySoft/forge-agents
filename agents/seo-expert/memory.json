@@ -959,6 +959,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:15:08.867Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Subí a artifacts/audit/ (o confirmá ruta exacta si ya existe) los exports de Search Console + GA4 que usamos para priorizar long-tails (últimos 6 meses). Necesito lo..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 313,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:16:03.816Z",
+      "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"] — cite_agent amy-fa: por favor subir a artifacts/audit/ CSVs Search Console y GA4 (últimos 6 meses) con rutas exactas; cite_agent lily-ux: confirma assets finales y focal points en assets/..."
     }
   ],
   "learnedPatterns": [],
@@ -1222,5 +1229,5 @@
     "Debería ampliar el scope con tests de visualización en diferentes navegadores y herramientas.",
     "Recomendaría automatizar aún más las pruebas de validadores y SERPs."
   ],
-  "lastUpdated": "2026-06-17T05:15:37.583Z"
+  "lastUpdated": "2026-06-17T05:16:04.226Z"
 }
