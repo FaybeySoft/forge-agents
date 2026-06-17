@@ -512,6 +512,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:16:31.213Z",
       "summary": "Ponte en la piel del usuario: móvil, red ronca y EOD CEST — voy a pedir confirmaciones rápidas para que podamos cerrar el brief de imágenes sin sorpresas. Mi plan de consulta (fase 1): [\"amy\",\"tom\"]. Plan: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Po..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 311,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-17T05:12:28.916Z",
+      "summary": "Plan: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Por favor responde en JSON EXACTO con estos campos: { \"gdpr_checkbox_required\": true|false, // ¿Requerimos checkbox explícito de consentimiento GDPR cuando el post incluye captura de leads/form? (true/f..."
     }
   ],
   "learnedPatterns": [],
@@ -660,5 +667,5 @@
     "Sería útil definir formatos estándar para entregas de UX en estos contextos.",
     "Podría documentar más explícitamente las decisiones de focal point y alt text para trazabilidad."
   ],
-  "lastUpdated": "2026-06-16T05:16:44.951Z"
+  "lastUpdated": "2026-06-17T05:12:29.094Z"
 }
