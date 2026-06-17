@@ -1310,6 +1310,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:14:40.068Z",
       "summary": "Resumen ejecutivo y paquete legal prioritario listo para envío al abogado (entrega ≤12h). He priorizado hasta 20 assets (en este repo hay 10 relevantes) con notas cortas de riesgo, fallback inmediato y evidencias. Incluyo: 1) borrador MD con resumen ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 315,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:15:04.743Z",
+      "summary": "Plan (fase 1 — consulta de agentes): [\"code-critic\", \"security-auditor\", \"seo-expert\"] CITAS (una petición por agente) 1) ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests filtrada por jsonld y ensureSafeJsonLd (comando sugerido: ..."
     }
   ],
   "learnedPatterns": [],
@@ -1625,5 +1632,5 @@
     "Podría colaborar más en la automatización de reportes y evidencias.",
     "Podría involucrarse más en la generación de casos extremos y edge cases a futuro."
   ],
-  "lastUpdated": "2026-06-17T05:14:41.970Z"
+  "lastUpdated": "2026-06-17T05:15:05.165Z"
 }
