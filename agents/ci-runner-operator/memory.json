@@ -45,6 +45,13 @@
       "issueNumber": 299,
       "outcome": "ready",
       "timestamp": "2026-06-16T05:09:45.164Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 318,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-17T05:22:52.168Z",
+      "summary": "[Sub-tarea #323: Run Vitest filtered for JSON-LD (ensureSafeJsonLd & U+2028/U+2029) and produce artifacts] Phase 1 — Consultation plan and citations followed (see below). NOTE: I cannot run shell commands or start a real Linux runner from this enviro..."
     }
   ],
   "learnedPatterns": [],
@@ -60,5 +67,5 @@
     "Debería tener una interfaz más clara para reportar errores o blockeos en la ejecución, mejorando la comunicación con PO.",
     "Debería ampliar los controles para detectar riesgos de seguridad en la salida de logs."
   ],
-  "lastUpdated": "2026-06-16T05:09:45.326Z"
+  "lastUpdated": "2026-06-17T05:22:52.329Z"
 }
