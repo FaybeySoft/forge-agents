@@ -1955,7 +1955,12 @@
     "Revisión cuidadosa del código fuente y los tests existentes ahorra tiempo en correcciones.",
     "Coordinar fases de testeo, validación y aprobación evita errores que afecten SEO.",
     "La automatización de tests y validador en CI es esencial para mantener la calidad en cambios rápidos.",
-    "Es clave definir claramente los criterios de éxito y los pasos antes de aplicar cambios en producción."
+    "Es clave definir claramente los criterios de éxito y los pasos antes de aplicar cambios en producción.",
+    "Una planificación temprana y consultas escritas precisas reducen retrabajos y aceleran entregas.",
+    "La validación técnica y legal en fases tempranas evita bloqueos o retrabajos costosos.",
+    "Una comunicación clara y sistema de bloqueo de algunas tareas (legalidades, tamaño) evita errores en producción.",
+    "Seguir convenciones y reglas de ruta, tamaño y metadatos es clave para automatizar validaciones y auditorías.",
+    "Documentar decisiones y criterios desde el inicio ayuda a mantener coherencia y facilitar revisiones futuras."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2049,5 +2054,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:15:59.834Z"
+  "lastUpdated": "2026-06-17T05:16:32.239Z"
 }
