@@ -938,6 +938,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-17T05:12:27.063Z",
       "summary": "[Sub-tarea #317: Especificación operativa SEO para CI: comandos, exit codes y snippet GH Actions] Plan: revisar los scripts existentes y producir dos artefactos: (1) docs/analysis/blog-ci-seo-checks.md con lista exacta de checks, comandos y mapping d..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 314,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:12:37.886Z",
+      "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Voy a pedir UN input claro a cada agente — con eso cierro la fase de consulta y preparo la spec final del workflow .github/workflows/blog-publish.yml. Confía en mí: esto va a ser el Gucci..."
     }
   ],
   "learnedPatterns": [],
@@ -1193,5 +1200,5 @@
     "Debe colaborar más estrechamente en definir los criterios de escape y validación en la interfaz de JSON-LD.",
     "Sería útil tener revisiones automatizadas en CI para detectar incompatibilidades."
   ],
-  "lastUpdated": "2026-06-17T05:12:27.241Z"
+  "lastUpdated": "2026-06-17T05:12:38.078Z"
 }
