@@ -2005,7 +2005,11 @@
     "Automatizar la captura y almacenamiento de artefactos es imprescindible.",
     "Escalar riesgos de seguridad en etapas tempranas evita costos mayores.",
     "La coordinación focalizada en tests y artefactos garantiza una solución rápida y segura.",
-    "Mantener scope del cambio minimal y bien definido reduce riesgos y facilita revisión."
+    "Mantener scope del cambio minimal y bien definido reduce riesgos y facilita revisión.",
+    "La ejecución manual en entornos limpios es crucial para evitar dependencias rotas.",
+    "Es imprescindible automatizar la captura y validación de artifacts para acelerar el triage.",
+    "Los reintentos automatizados reducen la variabilidad en tests y mejoran la confiabilidad.",
+    "Una planificación temprana con roles claros y comandos específicos previene errores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2099,5 +2103,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:26:07.474Z"
+  "lastUpdated": "2026-06-17T05:26:32.265Z"
 }
