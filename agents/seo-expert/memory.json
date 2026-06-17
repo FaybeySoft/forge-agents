@@ -931,6 +931,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:08:57.639Z",
       "summary": "Plan (fase 1) — ordenado: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Voy a pedir 3 inputs concretos (uno por agente). Responder UNA VEZ cada agente, por favor. action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la rut..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 311,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-17T05:12:27.063Z",
+      "summary": "[Sub-tarea #317: Especificación operativa SEO para CI: comandos, exit codes y snippet GH Actions] Plan: revisar los scripts existentes y producir dos artefactos: (1) docs/analysis/blog-ci-seo-checks.md con lista exacta de checks, comandos y mapping d..."
     }
   ],
   "learnedPatterns": [],
@@ -1186,5 +1193,5 @@
     "Debe colaborar más estrechamente en definir los criterios de escape y validación en la interfaz de JSON-LD.",
     "Sería útil tener revisiones automatizadas en CI para detectar incompatibilidades."
   ],
-  "lastUpdated": "2026-06-17T05:09:12.310Z"
+  "lastUpdated": "2026-06-17T05:12:27.241Z"
 }
