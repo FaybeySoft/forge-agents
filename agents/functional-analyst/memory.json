@@ -1275,6 +1275,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:34:55.170Z",
       "summary": "Plan de consultas (fase 1): [\"code-critic\", \"seo-expert\", \"security-auditor\"] CITAS (1 vez cada agente): 1) cite_agent — code-critic — Request: Ejecuta la suite de tests relacionada con JSON-LD y confirma: 1) comandos exactos replicables para ejecuta..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 310,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:08:54.428Z",
+      "summary": "Plan (fase 1 — agentes a consultar): [\"code-critic\", \"security-auditor\", \"seo-expert\"] ACTION: cite_agent — code-critic — Request: Ejecuta la suite de tests relacionada con JSON-LD (comando sugerido: npx vitest --run --testNamePattern=\"jsonld\" -c vit..."
     }
   ],
   "learnedPatterns": [],
@@ -1582,5 +1589,5 @@
     "Podría involucrar más en la definición de pruebas automatizadas.",
     "Podría mejorar en definir pruebas automáticas específicas y escenarios de borde para caracteres invisibles."
   ],
-  "lastUpdated": "2026-06-17T05:07:29.655Z"
+  "lastUpdated": "2026-06-17T05:08:54.898Z"
 }
