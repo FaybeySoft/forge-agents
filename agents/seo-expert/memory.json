@@ -945,6 +945,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:12:37.886Z",
       "summary": "Plan de consulta (fase 1): [\"amy-fa\",\"lily-ux\",\"chandler-po\"]. Voy a pedir UN input claro a cada agente — con eso cierro la fase de consulta y preparo la spec final del workflow .github/workflows/blog-publish.yml. Confía en mí: esto va a ser el Gucci..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 312,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:14:25.841Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): - action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma ruta existente) los exports de los últimos 6 meses que usamos para priorizar long-ta..."
     }
   ],
   "learnedPatterns": [],
@@ -1204,5 +1211,5 @@
     "Sería útil contar con ejemplos de fallos y éxitos en anteriores implementaciones.",
     "Necesitaría incluir ejemplos de archivos de evidencia y manejo de excepciones."
   ],
-  "lastUpdated": "2026-06-17T05:12:51.759Z"
+  "lastUpdated": "2026-06-17T05:14:26.226Z"
 }
