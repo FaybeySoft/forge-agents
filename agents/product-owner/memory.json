@@ -1930,7 +1930,11 @@
     "Repetir actividades que funcionaron bien, como las revisiones en fases, siempre vale la pena para mantener estándares.",
     "La colaboración estructurada con agentes especializados focaliza esfuerzos y evita errores.",
     "Es fundamental definir criterios claros y fiables antes de montar el pipeline.",
-    "Las evidencias automáticas y documentación previa facilitan auditorías y validaciones."
+    "Las evidencias automáticas y documentación previa facilitan auditorías y validaciones.",
+    "La coordinación precisa con agentes especializados acelera la resolución de issues complejos de seguridad y compatibilidad.",
+    "Los tests focalizados y automatizados en CI son fundamentales para detectar efectos secundarios sutiles.",
+    "Es importante mantener la compatibilidad de contrato y la serialización para evitar roturas en producción.",
+    "Un análisis previo detallado reduce riesgos y mejora la confianza en los hotfixes críticos."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2022,5 +2026,5 @@
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas.",
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación."
   ],
-  "lastUpdated": "2026-06-17T05:14:38.075Z"
+  "lastUpdated": "2026-06-17T05:14:47.368Z"
 }
