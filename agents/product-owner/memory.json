@@ -1894,7 +1894,11 @@
     "Es fundamental realizar revisiones de seguridad específicas en funciones de serialización de contenidos JSON-LD antes de desplegar.",
     "Las pruebas automatizadas y los checks en pipeline ayudan a detectar vulnerabilidades de inyección y escape no controlado.",
     "Una consulta estructurada en fases con análisis funcional, técnico y de SEO reduce retrabajos y asegura un enfoque integral.",
-    "Mantener una comunicación clara y documentación precisa facilita el trabajo en equipos multidisciplinarios y la trazabilidad de decisiones."
+    "Mantener una comunicación clara y documentación precisa facilita el trabajo en equipos multidisciplinarios y la trazabilidad de decisiones.",
+    "La comunicación estructurada ahorra tiempo y clarifica expectativas.",
+    "Es fundamental definir claramente los criterios de aceptación y los test antes de modificar código.",
+    "Las fases de consulta y reflexión ayudan a consolidar conocimiento y verificar decisiones.",
+    "La colaboración con agentes especializados en análisis y QA mejora la calidad del resultado final."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -1986,5 +1990,5 @@
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas.",
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación."
   ],
-  "lastUpdated": "2026-06-17T05:09:15.886Z"
+  "lastUpdated": "2026-06-17T05:09:17.996Z"
 }
