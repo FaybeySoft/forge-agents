@@ -1992,7 +1992,12 @@
     "Es fundamental definir los criterios y estándares desde el inicio para evitar retrabajos.",
     "La colaboración rápida y clara entre análisis, diseño y legal asegura entregas ágiles.",
     "Documentar decisiones y rutas existentes marca una diferencia en coherencia y eficiencia.",
-    "Automatizar validaciones de tamaño y checksum en CI puede reducir errores y agilizar aprobaciones."
+    "Automatizar validaciones de tamaño y checksum en CI puede reducir errores y agilizar aprobaciones.",
+    "La colaboración en etapas tempranas evita retrabajos.",
+    "Definir claramente los artefactos y rutas desde el inicio ahorra confusiones.",
+    "Repetir tests flaky hasta 2 veces mitiga errores transitorios.",
+    "Automatizar la captura y almacenamiento de artefactos es imprescindible.",
+    "Escalar riesgos de seguridad en etapas tempranas evita costos mayores."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2086,5 +2091,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:22:56.849Z"
+  "lastUpdated": "2026-06-17T05:23:11.663Z"
 }
