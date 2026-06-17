@@ -1345,6 +1345,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-17T05:22:46.226Z",
       "summary": "Plan (fase 1 — consultas): [\"code-critic\", \"ci-runner-operator\", \"security-auditor\"] CITAS (una petición por agente — petición concreta y limitada a ≤24h): 1) action=\"cite_agent\" — code-critic — request: \"Por favor valida en ≤24h que los comandos pro..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 320,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:22:59.879Z",
+      "summary": "Plan de consultas (fase 1 — ordenadas): [\"code-critic\", \"security-auditor\"] ACTION (cite_agent) — code-critic — Request: Ejecuta la suite de tests filtrando por jsonld/ensureSafeJsonLd/u2028/u2029 y devuelve en ≤24h: 1) lista de tests que FALLAN loca..."
     }
   ],
   "learnedPatterns": [],
@@ -1670,5 +1677,5 @@
     "Podría mejorar en definir criterios aún más específicos para casos límite en diferentes contextos de implementación.",
     "Podría mejorar en el seguimiento y actualización de la documentación de requisitos."
   ],
-  "lastUpdated": "2026-06-17T05:22:46.585Z"
+  "lastUpdated": "2026-06-17T05:23:00.322Z"
 }
