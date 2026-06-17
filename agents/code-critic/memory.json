@@ -686,6 +686,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:34:56.948Z",
       "summary": "Oh, delightful — another circus of invisible characters and overzealous parsing. I could not run the test-suite here (no shell/Node execution permitted in this environment), but I have inspected the code, the repo test matrix, and past audit artifact..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 310,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:08:59.744Z",
+      "summary": "Muy bien, fool — manos a la obra y sin florituras. No puedo ejecutar la suite aquí (no soy un runner, soy un crítico con mejor vocabulario); por tanto NINGÚN test fue corrido en este entorno. Lo que sí hice: revisión estática exhaustiva de app/lib/se..."
     }
   ],
   "learnedPatterns": [],
@@ -892,5 +899,5 @@
     "No pudo ejecutar los tests en su entorno. Requiere integración en pipeline automatizado para verificaciones."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-16T05:35:10.917Z"
+  "lastUpdated": "2026-06-17T05:09:00.162Z"
 }
