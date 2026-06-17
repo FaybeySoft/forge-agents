@@ -952,6 +952,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:14:25.841Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): - action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma ruta existente) los exports de los últimos 6 meses que usamos para priorizar long-ta..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 315,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:15:08.867Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Subí a artifacts/audit/ (o confirmá ruta exacta si ya existe) los exports de Search Console + GA4 que usamos para priorizar long-tails (últimos 6 meses). Necesito lo..."
     }
   ],
   "learnedPatterns": [],
@@ -1213,5 +1220,5 @@
     "Necesitaría incluir ejemplos de archivos de evidencia y manejo de excepciones.",
     "Debería ampliar el scope con tests de visualización en diferentes navegadores y herramientas."
   ],
-  "lastUpdated": "2026-06-17T05:14:38.863Z"
+  "lastUpdated": "2026-06-17T05:15:09.373Z"
 }
