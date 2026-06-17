@@ -194,7 +194,8 @@
     "Generó el brief editorial completo y preciso, alineado con las expectativas de entregables y licencias.",
     "Entrega de contenido listo en los formatos establecidos, facilitando la integración.",
     "Producjo archivos listos para PR con alineación a las guías del repositorio.",
-    "Su coordinación para la entrega de briefs y artículos con detalles claros agilizó la puesta en producción."
+    "Su coordinación para la entrega de briefs y artículos con detalles claros agilizó la puesta en producción.",
+    "Entrega de metadata.json completo y borrador del PR con instrucciones claras."
   ],
   "areasToImprove": [
     "Podría anticipar más las restricciones del repo para evitar propuestas que requieran crear nuevas carpetas.",
@@ -219,8 +220,9 @@
     "Podría expresar en más detalle los requisitos técnicos específicos para la exportación y accesibilidad en el brief.",
     "Podría mejorar en la definición de los criterios de revisión de estilo y tonos.",
     "Podría reforzar la comunicación para incluir requisitos legales desde etapas tempranas.",
-    "Debe mejorar en el desbloqueo de fuentes y elementos legales en la etapa inicial para evitar bloqueos tardíos."
+    "Debe mejorar en el desbloqueo de fuentes y elementos legales en la etapa inicial para evitar bloqueos tardíos.",
+    "Debe coordinarse más con legal y con el equipo técnico para validar todos los datos antes de la entrega."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-17T05:19:02.203Z"
+  "lastUpdated": "2026-06-17T05:19:15.427Z"
 }
