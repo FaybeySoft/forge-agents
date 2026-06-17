@@ -1997,7 +1997,9 @@
     "Definir claramente los artefactos y rutas desde el inicio ahorra confusiones.",
     "Repetir tests flaky hasta 2 veces mitiga errores transitorios.",
     "Automatizar la captura y almacenamiento de artefactos es imprescindible.",
-    "Escalar riesgos de seguridad en etapas tempranas evita costos mayores."
+    "Escalar riesgos de seguridad en etapas tempranas evita costos mayores.",
+    "La coordinación focalizada en tests y artefactos garantiza una solución rápida y segura.",
+    "Mantener scope del cambio minimal y bien definido reduce riesgos y facilita revisión."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2091,5 +2093,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:23:11.663Z"
+  "lastUpdated": "2026-06-17T05:23:17.815Z"
 }
