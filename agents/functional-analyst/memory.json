@@ -1289,6 +1289,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-17T05:12:24.560Z",
       "summary": "[Sub-tarea #316: Specs CI para publicación semanal de blog — entregar JSON con checks y acceptance criteria] 1) Plan rápido (binder check): he revisado los scripts y los artefactos existentes relevantes (scripts/ci-validate-jsonld.mjs, scripts/ci-val..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 314,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:12:35.645Z",
+      "summary": "Plan de consulta (Fase 1): [\"seo-expert\", \"tom-seo\", \"lily-ux\", \"code-critic\"] Citas (una petición por agente — RESPONDER ≤24h): 1) action=\"cite_agent\" — seo-expert — request: \"Confirmar política canonical para posts: trailing slash (sí/no). Proveer ..."
     }
   ],
   "learnedPatterns": [],
@@ -1598,5 +1605,5 @@
     "Podría mejorar en definir pruebas automáticas específicas y escenarios de borde para caracteres invisibles.",
     "Podría mejorar en la comunicación de resultados de tests y en la definición de fixtures exactos."
   ],
-  "lastUpdated": "2026-06-17T05:12:25.067Z"
+  "lastUpdated": "2026-06-17T05:12:35.931Z"
 }
