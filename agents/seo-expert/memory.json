@@ -924,6 +924,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:34:58.686Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube o confirma en artifacts/audit/ los CSVs de Search Console y GA4 (últimos 6 meses) y métricas para /blog/articulo-1 y /blog/casas-tradicionales-de-cana..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 310,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:08:57.639Z",
+      "summary": "Plan (fase 1) — ordenado: [\"amy-fa\", \"lily-ux\", \"chandler-po\"] Voy a pedir 3 inputs concretos (uno por agente). Responder UNA VEZ cada agente, por favor. action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor sube a artifacts/audit/ (o confirma la rut..."
     }
   ],
   "learnedPatterns": [],
@@ -1177,5 +1184,5 @@
     "Podría contribuir con recomendaciones para validaciones automáticas SEO en futuras implementaciones.",
     "Debe colaborar más estrechamente en definir los criterios de escape y validación en la interfaz de JSON-LD."
   ],
-  "lastUpdated": "2026-06-17T05:07:13.656Z"
+  "lastUpdated": "2026-06-17T05:08:58.064Z"
 }
