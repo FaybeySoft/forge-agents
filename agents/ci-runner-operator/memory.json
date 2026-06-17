@@ -52,6 +52,12 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-17T05:22:52.168Z",
       "summary": "[Sub-tarea #323: Run Vitest filtered for JSON-LD (ensureSafeJsonLd & U+2028/U+2029) and produce artifacts] Phase 1 — Consultation plan and citations followed (see below). NOTE: I cannot run shell commands or start a real Linux runner from this enviro..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 321,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:26:13.173Z"
     }
   ],
   "learnedPatterns": [],
@@ -69,5 +75,5 @@
     "Debería ampliar los controles para detectar riesgos de seguridad en la salida de logs.",
     "Debe automatizar más los pasos y reportar en tiempo real."
   ],
-  "lastUpdated": "2026-06-17T05:23:09.612Z"
+  "lastUpdated": "2026-06-17T05:26:13.339Z"
 }
