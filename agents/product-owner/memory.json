@@ -1940,7 +1940,12 @@
     "La coordinación precisa con agentes especializados acelera la resolución de issues complejos de seguridad y compatibilidad.",
     "Los tests focalizados y automatizados en CI son fundamentales para detectar efectos secundarios sutiles.",
     "Es importante mantener la compatibilidad de contrato y la serialización para evitar roturas en producción.",
-    "Un análisis previo detallado reduce riesgos y mejora la confianza en los hotfixes críticos."
+    "Un análisis previo detallado reduce riesgos y mejora la confianza en los hotfixes críticos.",
+    "La colaboración en paralelo entre análisis legal y UX reduce tiempos.",
+    "Definir criterios claros desde el inicio ahorra retrabajo.",
+    "Se necesita una política urgente de contratación para acelerar decisiones con agentes externos.",
+    "Mantener los artefactos en ubicaciones existentes evita confusiones y facilita auditorías.",
+    "Una revisión rápida y efectiva de los paquetes legales ayuda a mitigar riesgos antes del lanzamiento."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2034,5 +2039,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:15:17.064Z"
+  "lastUpdated": "2026-06-17T05:15:22.969Z"
 }
