@@ -1976,7 +1976,11 @@
     "La revisión cuidadosa del código en las funciones de replace y escape es esencial para evitar bugs que afectan la idempotencia.",
     "La integración de tests de regresión específicos para caracteres Unicode amplía la cobertura y previene errores en producción.",
     "La comunicación temprana con expertos en análisis funcional y revisión de código aumenta la rapidez y la calidad de la resolución de issues críticos.",
-    "Automatizar revisiones y validaciones en CI/CD ayuda a mantener la calidad sin depender solo de revisión manual."
+    "Automatizar revisiones y validaciones en CI/CD ayuda a mantener la calidad sin depender solo de revisión manual.",
+    "Es fundamental definir los criterios y estándares desde el inicio para evitar retrabajos.",
+    "La colaboración rápida y clara entre análisis, diseño y legal asegura entregas ágiles.",
+    "Documentar decisiones y rutas existentes marca una diferencia en coherencia y eficiencia.",
+    "Automatizar validaciones de tamaño y checksum en CI puede reducir errores y agilizar aprobaciones."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2070,5 +2074,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:18:56.103Z"
+  "lastUpdated": "2026-06-17T05:19:18.289Z"
 }
