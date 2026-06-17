@@ -1945,7 +1945,11 @@
     "Definir criterios claros desde el inicio ahorra retrabajo.",
     "Se necesita una política urgente de contratación para acelerar decisiones con agentes externos.",
     "Mantener los artefactos en ubicaciones existentes evita confusiones y facilita auditorías.",
-    "Una revisión rápida y efectiva de los paquetes legales ayuda a mitigar riesgos antes del lanzamiento."
+    "Una revisión rápida y efectiva de los paquetes legales ayuda a mitigar riesgos antes del lanzamiento.",
+    "Revisión cuidadosa del código fuente y los tests existentes ahorra tiempo en correcciones.",
+    "Coordinar fases de testeo, validación y aprobación evita errores que afecten SEO.",
+    "La automatización de tests y validador en CI es esencial para mantener la calidad en cambios rápidos.",
+    "Es clave definir claramente los criterios de éxito y los pasos antes de aplicar cambios en producción."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2039,5 +2043,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-17T05:15:22.969Z"
+  "lastUpdated": "2026-06-17T05:15:45.469Z"
 }
