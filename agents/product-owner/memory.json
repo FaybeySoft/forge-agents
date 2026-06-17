@@ -1191,6 +1191,12 @@
       "issueNumber": 309,
       "outcome": "auto_ready",
       "timestamp": "2026-06-16T05:34:53.200Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 310,
+      "outcome": "ready",
+      "timestamp": "2026-06-17T05:08:52.126Z"
     }
   ],
   "learnedPatterns": [
@@ -1978,5 +1984,5 @@
     "Debe alertar antes si hay restricciones en el orden de consultas o en los recursos disponibles.",
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas."
   ],
-  "lastUpdated": "2026-06-17T05:07:33.246Z"
+  "lastUpdated": "2026-06-17T05:08:52.480Z"
 }
