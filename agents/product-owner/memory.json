@@ -1197,6 +1197,12 @@
       "issueNumber": 310,
       "outcome": "ready",
       "timestamp": "2026-06-17T05:08:52.126Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 311,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-17T05:12:22.529Z"
     }
   ],
   "learnedPatterns": [
@@ -1990,5 +1996,5 @@
     "Podría mejorar en la gestión de expectativas sobre el alcance y tiempos de las consultas.",
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación."
   ],
-  "lastUpdated": "2026-06-17T05:09:17.996Z"
+  "lastUpdated": "2026-06-17T05:12:22.707Z"
 }
