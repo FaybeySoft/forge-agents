@@ -994,6 +994,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-18T05:13:28.963Z",
       "summary": "Plan de consulta (rápido): [\"product-owner\",\"functional-analyst\",\"ux-designer\"] Citas (una vez cada una): - action=\"cite_agent\", agent=\"product-owner\": Chandler, confirma 3 checks SEO obligatorios para article-1 que quieres que marque como P0 (p.ej. ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 327,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:14:40.036Z",
+      "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente — responden UNA VEZ por favor): action=\"cite_agent\" agent=\"amy-fa\" request=\"¿Podés subir a artifacts/audit/ (o indicar ruta exacta si ya existe) los siguientes exports de los últ..."
     }
   ],
   "learnedPatterns": [],
@@ -1267,5 +1274,5 @@
     "Aún hay que validar y ajustar thresholds final por feedback del equipo en producción.",
     "Ser más preciso en la priorización y ampliar el alcance a toda la lista de assets en futuras tareas."
   ],
-  "lastUpdated": "2026-06-18T05:13:41.925Z"
+  "lastUpdated": "2026-06-18T05:14:40.290Z"
 }
