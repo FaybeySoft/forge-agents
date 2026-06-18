@@ -1373,6 +1373,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-18T05:13:27.078Z",
       "summary": "Plan de trabajo (Fase 1 — consultas rápidas) y entregables iniciales. Según la regla de consulta en dos fases, voy a pedir dos comprobaciones puntuales a agentes internos antes de terminar el paquete: code-critic y lily-ux. Luego preparo los artefact..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 327,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:14:36.193Z",
+      "summary": "Plan (fase 1) y citas a agentes 1) plan: [\"security-auditor\",\"seo-expert\"] 2) Citas (cada agente, una sola vez — action=\"cite_agent\"): - cite_agent — security-auditor — Request: Revisa la propuesta mínima de cambio en la serialización JSON-LD para as..."
     }
   ],
   "learnedPatterns": [],
@@ -1706,5 +1713,5 @@
     "Podría mejorar en la anticipación de preguntas recurrentes y consolidación de decisiones.",
     "Podría mejorar al manejar mejor los tiempos y no sobrecargar en las fases finales."
   ],
-  "lastUpdated": "2026-06-18T05:13:40.055Z"
+  "lastUpdated": "2026-06-18T05:14:36.657Z"
 }
