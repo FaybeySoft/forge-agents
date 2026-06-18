@@ -547,6 +547,13 @@
       "outcome": "auto_ready",
       "timestamp": "2026-06-17T05:19:00.163Z",
       "summary": "[Sub-tarea #80: Diseñar y exportar 3 alternativas visuales libres de marcas para MVP de estadísticas] Ponte en la piel del usuario: necesitamos alternativas neutrales y rápidas de revisar por Legal para que la pantalla de estadísticas siga funcionand..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 326,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:13:02.314Z",
+      "summary": "Ponte en la piel del usuario: necesitamos cerrar wording y reglas antes de generar los archivos finales (PR template + docs). Plan de consulta (ordenado): [\"amy\",\"tom\"]. Plan: [\"amy\",\"tom\"] action=\"cite_agent\" to amy: Por favor responde en JSON EXACT..."
     }
   ],
   "learnedPatterns": [],
@@ -705,5 +712,5 @@
     "Podría incluir más ejemplos visuales en las specs para facilitar la comprensión del equipo de desarrollo.",
     "Sería útil incorporar feedback de legal desde etapas tempranas para más eficiencia."
   ],
-  "lastUpdated": "2026-06-17T05:19:13.610Z"
+  "lastUpdated": "2026-06-18T05:13:02.498Z"
 }
