@@ -2015,7 +2015,11 @@
     "La ejecución manual en entornos limpios es crucial para evitar dependencias rotas.",
     "Es imprescindible automatizar la captura y validación de artifacts para acelerar el triage.",
     "Los reintentos automatizados reducen la variabilidad en tests y mejoran la confiabilidad.",
-    "Una planificación temprana con roles claros y comandos específicos previene errores."
+    "Una planificación temprana con roles claros y comandos específicos previene errores.",
+    "Definir especificaciones y thresholds claros antes de la implementación evita retrabajos.",
+    "El trabajo en fases con agentes especializados mejora eficiencia y calidad.",
+    "Las plantillas y checklist en PR son esenciales para asegurar calidad y revisión automática.",
+    "El feedback entre agentes y revisión final en la documentación asegura coherencia."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2109,5 +2113,5 @@
     "Podría definir más tempranamente los criterios de éxito y criterios de aceptación.",
     "Podría mejorar la gestión de prioridades en contrataciones emergentes."
   ],
-  "lastUpdated": "2026-06-18T05:12:55.465Z"
+  "lastUpdated": "2026-06-18T05:13:20.536Z"
 }
