@@ -980,6 +980,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:23:03.505Z",
       "summary": "Plan: [\"amy-fa\",\"lily-ux\",\"chandler-po\"] Citas (una petición por agente): action=\"cite_agent\" agent=\"amy-fa\" request=\"Por favor, si puedes, ejecuta desde la raíz del repo los comandos listados abajo y sube las salidas clave a artifacts/audit/ (ej: ar..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 326,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:13:00.403Z",
+      "summary": "Equipo — Tom aquí, el Gucci de los snippets. Trust me, Google is going to LOVE esto. Abajo tienes la especificación SEO-técnica completa para el workflow de publicaciones semanales (checks, reglas, herramientas y snippets invocables). Prioricé impact..."
     }
   ],
   "learnedPatterns": [],
@@ -1249,5 +1256,5 @@
     "Debe colaborar más en definir variables de entorno y escenarios SSR.",
     "Podría proporcionar recomendaciones específicas para efectos SEO en futuras correcciones similares."
   ],
-  "lastUpdated": "2026-06-18T05:06:11.539Z"
+  "lastUpdated": "2026-06-18T05:13:00.656Z"
 }
