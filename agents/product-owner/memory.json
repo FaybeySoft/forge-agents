@@ -1275,6 +1275,12 @@
       "issueNumber": 82,
       "outcome": "auto_ready",
       "timestamp": "2026-06-18T05:13:25.164Z"
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 327,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:14:33.550Z"
     }
   ],
   "learnedPatterns": [
@@ -2126,5 +2132,5 @@
     "Podría mejorar la gestión de prioridades en contrataciones emergentes.",
     "Podría mejorar en comunicación temprana sobre restricciones y capacidades del equipo y abogados."
   ],
-  "lastUpdated": "2026-06-18T05:13:45.925Z"
+  "lastUpdated": "2026-06-18T05:14:34.184Z"
 }
