@@ -1137,7 +1137,8 @@
     "Proporcionó exactos comandos y priorizó los artefactos importantes.",
     "Validó con criterio técnico que el parche mejora la idempotencia y seguridad del JSON-LD.",
     "Proporcionó especificación técnica completa y prioritizó impacto y reutilización de scripts.",
-    "Proporcionó una evaluación rápida y prioridades claras para reducir riesgos legales."
+    "Proporcionó una evaluación rápida y prioridades claras para reducir riesgos legales.",
+    "Validó la compatibilidad del cambio con los clientes de JSON-LD y pidió pruebas de humo antes de merge."
   ],
   "areasToImprove": [
     "Revisiones más frecuentes durante el proceso de desarrollo",
@@ -1272,7 +1273,8 @@
     "Debe colaborar más en definir variables de entorno y escenarios SSR.",
     "Podría proporcionar recomendaciones específicas para efectos SEO en futuras correcciones similares.",
     "Aún hay que validar y ajustar thresholds final por feedback del equipo en producción.",
-    "Ser más preciso en la priorización y ampliar el alcance a toda la lista de assets en futuras tareas."
+    "Ser más preciso en la priorización y ampliar el alcance a toda la lista de assets en futuras tareas.",
+    "Podría sugerir directrices claras sobre cómo validar las secuencias escapadas en distintos navegadores y motores."
   ],
-  "lastUpdated": "2026-06-18T05:14:40.290Z"
+  "lastUpdated": "2026-06-18T05:14:55.539Z"
 }
