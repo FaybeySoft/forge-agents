@@ -1,0 +1,17 @@
+{
+  "agentSlug": "sports-ip-lawyer",
+  "preferences": {},
+  "experience": [
+    {
+      "repo": "FaybeySoft/palmares-barca",
+      "issueNumber": 82,
+      "outcome": "auto_ready",
+      "timestamp": "2026-06-18T05:13:30.920Z",
+      "summary": "[Sub-tarea #84: Dictamen legal MVP: marcas e imágenes (SLA ≤72h)] Plan (Phase 1) and consultations Plan: [\"agent-ip-sports-lawyer\", \"amy-functional-analyst\"] Citations (one each): - cite_agent: agent-ip-sports-lawyer request: Please review the draft ..."
+    }
+  ],
+  "learnedPatterns": [],
+  "strengths": [],
+  "areasToImprove": [],
+  "lastUpdated": "2026-06-18T05:13:31.087Z"
+}
