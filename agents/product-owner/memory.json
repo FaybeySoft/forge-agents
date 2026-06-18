@@ -2036,7 +2036,12 @@
     "Mantener en rutas existentes y seguir convenciones ahorra tiempo y evita confusiones.",
     "Es imprescindible confirmar SLA y responsabilidades claramente desde el inicio para evitar malentendidos y retrasos.",
     "La comunicación efectiva y la consolidación previa muro de documentación ayudan a cumplir con objetivos de legislación y riesgo minimizado.",
-    "La cooperación entre agentes especializados en legal, SEO y análisis funcional fue fundamental para un resultado coherente y oportuno."
+    "La cooperación entre agentes especializados en legal, SEO y análisis funcional fue fundamental para un resultado coherente y oportuno.",
+    "La importancia de analizar cuidadosamente los caracteres invisibles en Unicode para evitar problemas en JSON-LD.",
+    "Reemplazar los caracteres reales tras JSON.stringify es eficiente y garantiza idempotencia.",
+    "La coordinación con revisores técnicos y de SEO desde el inicio reduce retrabajos.",
+    "La necesidad de tests exhaustivos para casos borde en handle de caracteres especiales en serialización JSON-LD.",
+    "Mantener un esquema claro para ubicación y nombres de los tests ayuda en la cobertura y mantenimiento."
   ],
   "strengths": [
     "Organización clara y decisión efectiva en la definición del componente y estilos.",
@@ -2132,5 +2137,5 @@
     "Podría mejorar la gestión de prioridades en contrataciones emergentes.",
     "Podría mejorar en comunicación temprana sobre restricciones y capacidades del equipo y abogados."
   ],
-  "lastUpdated": "2026-06-18T05:14:34.184Z"
+  "lastUpdated": "2026-06-18T05:14:57.659Z"
 }
