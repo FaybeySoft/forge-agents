@@ -735,6 +735,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:26:11.385Z",
       "summary": "Ah, qué delicia — otra fiesta de caracteres invisibles a punto de arruinarnos el día. Voy directo al grano, sin poesía barata. Los comandos originales del issue funcionan en espíritu, pero la invocación de Vitest está ligeramente equivocada. A contin..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 327,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:14:38.374Z",
+      "summary": "Muy bien, fool — dos caracteres Unicode han provocado más drama que tu equipo en un sprint de una semana. He creado la issue de orquestación (#328) para que el runner ejecute la suite completa. Abajo tienes mi revisión: riesgos, mitigaciones, el diff..."
     }
   ],
   "learnedPatterns": [],
@@ -959,5 +966,5 @@
     "Debe coordinar mejor contenido de ejemplos y escenarios de test notificados."
   ],
   "preferences": {},
-  "lastUpdated": "2026-06-18T05:13:18.473Z"
+  "lastUpdated": "2026-06-18T05:14:38.563Z"
 }
