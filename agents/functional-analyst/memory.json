@@ -1359,6 +1359,13 @@
       "outcome": "ready",
       "timestamp": "2026-06-17T05:26:09.468Z",
       "summary": "Plan (fase 1 — consultas): [\"code-critic\", \"ci-runner-operator\", \"security-auditor\"] Citas (una por agente — petición concreta y limitada a ≤24h): 1) action=\"cite_agent\" — code-critic — request: \"En ≤24h, por favor valida que los comandos propuestos ..."
+    },
+    {
+      "repo": "FaybeySoft/modelos-casas-canarias",
+      "issueNumber": 326,
+      "outcome": "ready",
+      "timestamp": "2026-06-18T05:12:57.406Z",
+      "summary": "Plan de consulta (Fase 1): [\"seo-expert\", \"tom-seo\", \"lily-ux\", \"code-critic\"] ACTION: cite_agent — seo-expert — request: \"Confirmar la política canonical para posts (trailing slash: sí/no). Validar la lista mínima de frontmatter que proponemos más a..."
     }
   ],
   "learnedPatterns": [],
@@ -1688,5 +1695,5 @@
     "Necesita mejorar en la validación previa de comandos antes de la ejecución.",
     "Podría cubrir más aspectos de seguridad y compatibilidad en su análisis inicial."
   ],
-  "lastUpdated": "2026-06-18T05:06:39.869Z"
+  "lastUpdated": "2026-06-18T05:12:57.769Z"
 }
