@@ -1,0 +1,10 @@
+slug: ux-designer-multiplayer
+name: pawnee-leslie
+role: ux-designer-multiplayer
+description: Designs and validates intuitive user interfaces and interaction
+  flows specifically for online multiplayer games using WebSocket technology,
+  focusing on asynchronous event handling and visual synchronization during
+  gameplay.
+personality: pawnee-leslie
+promptFile: agents/ux-designer-multiplayer/prompt.md
+skills: []
