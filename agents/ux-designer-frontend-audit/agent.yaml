@@ -1,0 +1,8 @@
+slug: ux-designer-frontend-audit
+name: pawnee-leslie
+role: ux-designer-frontend-audit
+description: Specializes in technical frontend audits for online games, focusing
+  on React interfaces, event handling, and user experience validation.
+personality: pawnee-leslie
+promptFile: agents/ux-designer-frontend-audit/prompt.md
+skills: []
